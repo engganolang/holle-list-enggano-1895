@@ -104,3 +104,7 @@ eno_form_df <- eno_form_df |>
   left_join(eno_notes_df, by = "notes_id") |> 
   ## clean the tagging in the notes -----
   mutate(notes_clean = str_replace_all(notes, "\\<[^<]+>", ""))
+
+eno_form_df_trim <- eno_form_df |> 
+  select(-notes)
+eno_form_df_trim
