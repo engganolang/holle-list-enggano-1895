@@ -98,13 +98,48 @@ eno_form_df <- eno_form_df |>
 eno_notes <- eno[(grep("\\<notes\\>", eno)[1] + 1):(grep("\\<notes\\>", eno)[2] -1)]
 eno_notes_df <- tibble(form = eno_notes) |> 
   extract(form, into = c("notes_id", "notes"), regex = "(^\\d+)_(.+$)")
+## split notes separated by ; for each row/id -----
+x <- eno_notes_df$notes |> 
+  str_split("\\s;\\s")
+names(x) <- paste(eno_notes_df$notes_id, "__", sep = "")
+x1 <- unlist(x)
+x1_df <- tibble(notes = x1, 
+                notes_id = names(x1)) |> 
+  mutate(notes_id = str_replace_all(notes_id, "_+(\\d+)?$", ""))
+x2_df <- x1_df |> 
+  mutate(notes_eno = str_extract_all(notes, "(?<=\\<eno\\>)([^<]+)(?=\\<\\/eno\\>)"),
+         notes_eno_n = map_int(notes_eno, length),
+         notes_idn = str_extract_all(notes, "(?<=\\<idn\\>)([^<]+)(?=\\<\\/idn\\>)"),
+         notes_idn_n = map_int(notes_idn, length),
+         notes_eng = str_extract_all(notes, "(?<=\\<eng\\>)([^<]+)(?=\\<\\/eng\\>)"),
+         notes_eng_n = map_int(notes_eng, length),
+         notes_comment = str_extract_all(notes, "(?<=\\<comment\\>)([^<]+)(?=\\<\\/comment\\>)"))
+## test if there are more than one entries for each language in the notes -----
+### No entries have more than one language; Good news! The comment note is only one
+# x2_df |> filter(notes_eno_n>1)
+# x2_df |> filter(notes_idn_n>1)
+# x2_df |> filter(notes_eng_n>1)
+x3_df <- x2_df |> 
+  unnest(c(notes_eno, notes_idn, notes_eng, notes_comment), 
+         keep_empty = TRUE) |> 
+  select(-notes_eno_n,
+         -notes_idn_n,
+         -notes_eng_n)
 
 # left join the notes and the forms data -----
 eno_form_df <- eno_form_df |> 
-  left_join(eno_notes_df, by = "notes_id") |> 
+  # left_join(eno_notes_df, by = "notes_id") |> 
+  left_join(x3_df, by = "notes_id") |> 
   ## clean the tagging in the notes -----
   mutate(notes_clean = str_replace_all(notes, "\\<[^<]+>", ""))
 
 eno_form_df_trim <- eno_form_df |> 
-  select(-notes)
-eno_form_df_trim
+  select(-notes) |> 
+  select(id, form, form_type, id_types, notes_id, notes_clean, everything()) |> 
+  mutate(across(matches("notes_"), function(x) if_else(is.na(x), "", x)))
+
+write_tsv(eno_form_df_trim,
+          file = "Enggano-List-in-Stokhof-Almanar-1987.tsv")
+writexl::write_xlsx(eno_form_df_trim,
+                    "Enggano-List-in-Stokhof-Almanar-1987.xlsx",
+                    format_headers = FALSE)
