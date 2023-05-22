@@ -9,6 +9,6 @@ holle_phrases_1940_11 <- read_xlsx("Stokhof_1987_Holle_lists_volume_1.xlsx", she
 
 # merging the Enggano list and the Holle list =====
 source("Stokhof_1987_Holle_lists_Enggano.R")
-eno_form_df_trim |> 
+eno_form_df_new <- eno_form_df_trim |> 
   left_join(holle_tb |> rename(id = Index),
             by = "id")
