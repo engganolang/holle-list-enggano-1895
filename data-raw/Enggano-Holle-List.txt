@@ -1,0 +1,955 @@
+# Appearing in Stokhof and Almanar (1987: 189-205)
+# Year of investigation: 1895
+# Investigator: Abs vd Noord
+# Place of investigation: Pulau Dua (in Enggano island)
+# OCR by Mary Dalrymple
+# Checked (proofread and corrected) and processed (annotated footnotes and wrangled into a table) by Gede Primahadi Wijaya Rajeg
+
+<wordlist>
+1. kǎrāhā, koedŏdŏkŏ
+2. èoeloe/èoedoe <1>
+3.	èbaka
+4.	èkoe(k)
+5.	èaoeloe
+6.	poeroeroe èoeloe
+8.	kèlĕkèlĕ poeĕkā
+9.	kariehā, kaliehĕ
+11.	èbaka
+15.	koepènobaka
+17.	bèbaka
+18.	èfanoe, èpanoe
+21.	èfāfā
+22.	èkāā
+25.	koelīfŏ
+27.	pārŏrīpŏ
+28.	parŏrīpŏ
+29.	èki(k)
+30.	fārŏrīfŏ
+31.	èlieŏ, èdieŏ
+32.	kinoe-oeka
+33.	nienie
+34.	nienie
+35.	kĕmoekā(k)
+37.	kīnoeoekă
+38.	ehanoe(k)
+40.	èokahaĕ
+41.	èămah
+42.	èkŏkŏ(k)
+45.	èkŏkŏ(k)
+46.	bèkŏkŏ(k)
+47.	bèkŏkŏ(k)
+48.	pākŏkŏ(k), kaporiĕ
+50.	eà oekoe
+51.	bŏbŏ
+52.	èbākoe
+53.	fèkoe(k), pèkoe(k)
+54.	èkiedai
+56.	kèma
+61.	èfoekĕ
+62.	èfoekĕ
+63.	èkahāe, hahapaoe
+66.	kèkĕ
+68.	èhokai
+69.	èhokai
+70.	poeri(k), jo(k)
+72.	<2>
+73.	<2>
+75.	èoekoe(k)
+77.	hèla poewe <3>
+78.	eè <4>
+82.	<5>
+83.	<5>
+84.	ija(k)è
+86.	ija(k)è
+87.	hèŏwaj
+88.	kariha wae
+89.	èijŏ
+90.	èăpara
+91.	èpoe
+93.	fiŏ-fiŏ
+95.	pārāhāoedie
+97.	èafŏ
+99.	alŏfāa
+100.	èfoe(k) oeafĕ
+102.	hèoafĕ
+105.	minoe apŏ
+107.	kau-apŏ, kaunoeoenoe
+108.	naè apo
+112.	naèapo nokie
+115.	èā
+116.	kijakki <unclear id="116">kija'kki?</unclear>
+117.	èhèla
+118.	èŏkŏ
+121.	ĕoelie
+122/123. foeroeroe
+124.	èoemo(k)
+125.	èitŏfĕ
+127.	ahŏpŏ(k)
+128.	amĕnŏ(k)
+129.	kŏnjŏk, èabanjŏk
+130.	iedjo
+132.	kihoeĕ
+137.	kŏdŏ(k)
+138.	oewŏhŏ
+139/140. māāniha
+144.	maènoe
+145.	<6>
+146.	bararau
+147.	bakie ŏfŏ <7>
+148.	wakahadŏ
+149.	èhekoe
+150.	pakomakja <8>
+152.	pakowèh
+153.	māākŏ
+154.	abaikĕ, kabakīdjŏ
+156.	kiparariŏ
+158.	èdjie
+160.	èfaŏ(k) wa(k)
+161.	abaoekakaj, ĕo(k)oi
+163.	bèlo
+165.	èo(k)oi
+166.	kipŏdŏ
+167.	ahītŏ(k)
+169.	èāfākoe
+170.	èèhè
+176.	èfāwāfŏ
+177.	kaoewa(k)
+182.	kŏŏda
+183.	hŏpanènèĕ
+185.	kaaĕ, baaĕ
+188.	kabakè
+191. èamaha
+192.	patăhālè
+193.	ĕèma
+194.	èa kanapoeĕ <9>
+196.	<10>
+197.	èoedafak
+198.	djako
+199.	kafoehĕ, kapoehŏ
+200.	kafoehĕ
+201.	kafoehĕ
+202.	kāoewŏ
+203.	kĕlèpè
+205.	èadoh
+207.	kapoehŏ kidai
+209.	ĕjoe
+210.	nanaoeni
+211.	nanaoeni
+214.	<11>
+216.	èla akowĕ
+219.	kapoehŏ èoeloe
+220.	kapoehŏ èa
+222.	ènèĕ, ĕkihŏ
+223.	kifafakoe(k)
+224.	kamakoewa
+225.	kiŏnŏk
+226.	<12>
+227.	kifalai èbeo
+228.	kifèhŏdŏ
+229.	kakèbara, kakènèbaka
+231.	kipakahariebaka <13>
+232.	hŏbaoeĕ, hokŏrŏŏ
+233.	habèlĕk
+235.	koahaijĕ
+236.	èhāhā(k)
+237.	èhāhā(k)
+238.	èhāhā(k)
+239.	nioennā tīō
+240.	kapapo ĕ
+241.	èmanī
+242.	èhōda
+243/244.	èmanī
+245/246.	èhōda
+248/249.	foinana(k), po(k)inamok
+250.	ehaw, pananamie
+252.	nŏwèk, amiemie
+255.	ama, amana <14>
+256.	naè, naèna <15>
+257/258.	èara
+261.	èara manie
+262.	èara hōda
+263.	oefoenai
+264.	na(k) poenana
+267.	na(k) poewanahalè (lama)
+268.	āāoe(k)
+269.	āāoe(k)
+270/271.	èāāk
+272/273.	èhai(k)
+274. na afoeaa(k)
+275/276.	kahaoewĕ
+281/282.	kahaoewĕ
+287-294.	èlahŏ, èara kahaoewĕ
+299.	èdadoe èara
+300.	lahiboekĕ èara
+302.	oewakipăkoekă
+304.	dipăkoekă
+315.	anŏ(k)
+316.	kèābāoewā āno(k)
+317.	dadoe(k), èanŏ(k)
+318.	lahè boewă(k)
+326.	èloffo
+328.	kaoedara
+339.	kowèk
+340.	hantoe, èkowèk kaoeè
+341.	hantoe, èkowèk kiŏha
+343/344.	ĕhĕla
+351.	baridaha
+353.	pānānahoe
+354.	pānānahoe
+355.	pānānahoe
+357.	èdjiekanafoeĕ bŏdŏ
+358.	èhèboe
+359.	èhèboe
+366.	<16>
+367.	kaoewa
+368.	kiŏhā
+369.	hiārā nŏā
+370.	èahawĕ
+375.	èoebatowè, èjahakaoewĕ
+378.	radja
+380.	mantri
+382.	èjahakowèk
+389.	kafoe
+392.	kipara èbahaoe, aoena(k) èbahaoe
+394.	pidjaja <17>
+398.	kiàkoebai
+399.	kiàkoebai
+400.	èhoukè
+401.	kidĕhoi
+404.	paèmŏ, kakau
+407/408.	palahiboewĕ
+410.	fakoewĕ
+411.	oekŏ nainĕ
+413.	kiŏmahoe, moemahoe
+414.	kŏhaiĕ
+415.	paè
+420.	èhijoe <18>
+423.	pahoemè
+427.	kamioe <19>
+428.	èoekoek
+437.	èobĕ
+438.	èkŏhŏa(k)
+439.	poeroeroedija, èoekoe
+441/442.	<20>
+443/444.	kinŏnŏ
+449.	èkarobă
+451.	èkarobă
+453.	èhèja
+454.	èhèja
+456/457.	emenaha <21>
+458/459.	èoekoe(k), piefie
+461.	<22>
+462.	pohanoema
+463.	èoewĕhoă
+464.	klamboe
+465.	èoewĕhoă
+467.	fahoeroe
+468.	lapĕ(k), tikar
+469.	dadŏ èoeloe, èhŏkŏ èoeloe
+470.	èko ĕma
+472/473. èoko ĕ
+474. ĕpo(k), èhaĕ
+475.	<23>
+476.	kahihŏ, kidoeroeka
+477.	papărie èjobie, kihŏ èjobie
+478.	poeroe èjobie
+482.	ŏkŏ
+483.	èīpo(k)
+484.	èkoewĕ, doehoekiĕ(k)
+485.	janieka
+486.	poeroe
+487.	ekŏnŏnŏhā, kidjoearŏjĕ
+488.	klamboe
+489.	èhèkoeĕ
+493.	rarieĕ
+494.	èfoefoe, èpoepoe
+495.	pahoemè
+496.	pahoemè
+497.	ōnèkĕ
+498.	èkainŏ(k), mangkŏ(k)
+500.	tiko
+505.	èau <24>
+506.	fèdjie <25>
+508.	pakamai
+509.	èkèh
+510.	sendoq
+511.	sendoq
+514.	krandjang <26>
+515.	lampoe, eajaha(k) jobi
+516.	soemboe
+517.	mainoe(k) <27>
+519.	èoebadiĕ
+520.	èoebĕ kain
+522.	foefoe
+526. poeĕda(k)
+525-527.	pahaboehă
+528.	gorèng, pahèkoe
+529.	kè
+530.	paboehă, koenajŏ
+534.	èmèhè(k) <28>
+535.	amĕna(k) mèhè(k), dŏdŏ mèhè(k)
+539.	hèla kibaka
+539/540.	hèla
+541.	eàjo
+544/545.	èara kihŏ
+550.	èpahjoe
+551.	èdakŏ
+555. <29>
+560.	kadifakoe, parihoja(k)
+561.	boeboer
+562.	kidjie-kidjie, kŏrŏ-kŏrŏ
+563.	sajoer
+565.	koeŏdŏ
+567.	karāuwā
+568.	èbājoe, èoefa
+573.	<30>
+576.	karihā
+577.	ènŏmŏnŏmŏ
+578.	èmi(k)ie, èafie
+579/580.	kariha oewapŏ
+583.	kariehĕ
+586.	kalènang
+588.	èaai
+589.	koeŏdŏ, kainèk
+590.	kapīdjoe pīdjoe
+592.	pakoewok
+600.	paioeka
+601.	pakākāriē(k)
+602.	<31>
+603.	bĕnang
+604.	ŏpŏ kabŏkĕ
+605/606.	èoba kamakŏ <32>
+608. èhiafo
+611. <33>
+613. èpiko(k)
+614.	ŏkia èpiko(k)
+615.	èara èpiko(k)
+617.	kīāā
+618.	bandèra
+619.	pŏŏkie
+620.	pŏŏkie
+621.	pŏŏkie
+622.	èara fŏŏkie
+623.	afŏŏkie
+625.	pabŏrīkī
+626.	<34>
+627.	kapaleàbŏ
+628.	pŏŏkie
+630.	kekŏrŏ ĕ, pakèlie
+631.	anĕma
+637.	oewa bakŏhāda, hamba soeroeh orang
+645.	kīdāhăk, eŏkŏk
+652.	nanīdŏfŏ
+653.	èfieĕ
+659.	koefadĕ
+662/663.	èbaka pieĕ, èofoeè
+666.	<35>
+668.	hŏboehā(k), hŏboha(k)
+669.	hiebaka, kamoeninŏ
+671/672.	māājòk, bahèlè
+674.	èjakŏ
+677.	katjang
+678.	èhoewè
+679.	kinioenŏ
+681.	kamakoe
+682.	èamaijŏ
+686.	ebae, kikoha(k) <36>
+689.	<37>
+690.	kidjie-kidjie
+691. karahadirĕ èpo(k)
+693.	<38>
+695.	minoe minoe
+698.	mènŏ
+699.	mènŏ
+702.	goela
+706.	dadă oeloe
+707.	inima
+708.	èŏkiŏ
+709.	èhŏboe
+711.	èhŏboe
+716-718.	èietŏ
+721.	èkèĕ
+722.	èkèĕ
+727.	èŏdoe
+728.	kanŏwa(k)
+729.	kinŏnŏ, èfainŏ
+731.	èhiehie
+732.	abèha
+733.	kahamoemoe
+734.	kāràdi ĕ, èpoehĕ <39>
+739/740.	<40>
+742.	eàfŏ kabŏrie
+743.	eàfŏdi ĕ
+742-744.	èba <41>
+746.	èfoenoe, kihoedŏ
+748.	èoelie
+750.	èbo kārăha(k) diĕ, èbèdiĕ
+751.	èfīdjoe (èpīdjoe)
+752.	èoefĕ, mŏnŏ èoepĕ <unclear id="752">ènŏnŏ?</unclear>
+753.	foeroekoewĕ
+757.	kŏfiefie, kakĕlèha
+758.	èpfoejĕ, kafèfo
+759.	èhoewa
+761.	èoelie hoewĕdiĕ
+763.	èhoewè
+764.	èhèla
+765.	èoek
+766.	minjak
+770.	<42>
+771.	<42>
+772.	kahakoewak, kahioe
+773.	kahŏmè, kifŏ kifŏ
+774.	bèo, mèo
+775.	èara bèo
+778.	èaidiă, hŏkai
+779.	ija(k)è
+780.	kauāpŏ, kanoeoenoe
+781.	kauāpŏ, kanoeoenoe
+786.	èfa èfa
+787.	poeroeroei
+789.	èoefĕdieĕ, èfōdiĕ
+790.	èara
+794.	<43>
+797.	kikèŏfa
+798.	kambing
+811.	bèo
+812.	pakoeĕ(k) bèo
+813.	bèo
+814.	ejau
+824.	kèèfè
+826.	èkŏkŏ
+831.	kèèfè, èoekaikŏ
+835.	èāhā
+840.	akōma(k)
+843.	poeroehoei
+844.	kèèfa
+846.	kadĕbĕ(k), èhoenie
+847.	hoànie
+851.	<44>
+852.	<44>
+861.	djalŏ <45>
+865.	èhèo, èkama
+866.	èhikoe
+868.	eàboedŏdŏ
+869.	èmiekieĕ
+870.	èhikoe bèo
+871.	poekĕha
+872.	eòemŏ
+877.	kiija <46>
+878.	èfŏŏfa
+879.	kŏfènè
+881.	èkiafŏ
+884.	èkihŏ <47>
+886.	èanōà <48>
+891.	èhŏdŏ(k)
+892.	paèkā
+893.	kahaŏdji
+894.	èkīkè(k)è <49>
+896.	èfèŏ(k), lahŏfo
+898.	kahoewe(k) <50>
+899.	lahiejŏ
+900.	<51>
+901.	èoenoe oenoe
+902.	kabieĕ
+905.	èalahoe (awan awan)
+906.	èbaka kahaŏ(k)
+908.	ekanooe
+910.	kaho kanoehā(k)
+911.	apoj lŏfŏ (boelan gelap)
+912.	eafi-doewa, kamīmī
+917.	èlŏpŏ
+919.	<52>
+921.	kaèlahoe, èalahoe
+923.	èdoedie
+924.	èalahoe, pakoeda
+925.	èĕkapakoeda
+927.	èdih
+928.	èkijoe, lakŏha(k)
+929.	èkijoe, lakŏha(k)
+930.	èbŏ
+931.	èoewè
+932.	kababaha(k)
+934.	aba-ŏkie oewĕ, akŏhŏdă oewè
+935.	nanaoewè
+936.	kahanakiĕ
+937.	èhèkoewĕ
+938.	<53>
+939.	panāoewè kèfoe, èbaka oewè
+940.	èjahèla
+941.	<54>
+942.	ijokie
+943.	èlŏpŏ
+944.	kèfoe
+945.	koeroe
+946.	koeroe
+947.	<55>
+948.	èkŏhoi
+951.	kiedarāk, ènafa
+952.	èŏŏbŏ
+955.	èŏkoewĕ
+957.	èŏkoewĕ, èoboewĕ
+959.	èèkŏwĕ
+962.	panaŏ
+963.	aka fidja <56>
+967.	èbakĕbo
+968.	èdŏdie
+969.	èèja(k) (<unclear id="969">igigja?</unclear>)
+970.	èloffo
+971.	èoehoe, haoehaoe
+973.	èau, pakamaè
+974.	kalèlèak
+976.	bidji-bidji kahieabie <57>
+978.	kalèlèha
+979.	kalèlèha
+980.	doehoekiee, ebaka oemo <58>
+991.	kiaki-fèoeĕ
+993.	părīk kaoewĕ
+994.	ānāoe <59>
+995.	koedŏdok
+996.	èhaka bapieĕ
+999.	èkaka kabājĕoi
+1000.	ijabakoewā <60>
+1003.	kahĕdiak baēdiăk <61>
+1004.	dŏboekabandiăk
+1007. afikă èodiè ĕ
+1008. kāoewa (elog)
+1009. kiŏha (boeroek)
+1010. oeabaōdie
+1011. moko èodie
+1012.	kīhemanĕ, noki èodie
+1013.	èodihŏkoei
+1014.	abaoea ija ŏnijāk
+1015.	oeahauboepèĕ
+1016.	oeakau băriak
+1017/1018.	fèfèja(k)ĕ, èèhandie
+1019.	fahèriè
+1020.	koekèdia(k)
+1022.	koekèdia(k)
+1024.	katian
+1025.	èoenèkè katian
+1026. kabakau <62>
+1026-1028.	èŏkŏĕ, èfakoe
+1029/1030.	kafal, kapal
+1031.	prahoe ŏbie obie
+1032.	scotjie, kanĕhak
+1033.	èoeba, èloha
+1035.	pakoehè
+1037.	moenènè, paoepă
+1038.	ijo (èkor)
+1040.	èŏdjie
+1041.	èoi
+1042.	abaoi
+1043.	bakaŏedjie, èhaŏdjie
+1049.	èfakoe
+1051.	èhèkoe
+1052.	kikèĕ
+1061.	<63>
+1062.	nŏkie
+1063.	aījŏnoe(k)oe
+1064.	dĕbŏdŏ, boe ōdĕ
+1065.	kanefoe, kakoeĕ
+1066.	keàbabŏdŏ
+1067.	amoehŏ, kaaanwĕ
+1068.	èafa(k), kiĕ <64>
+1070.	kanànè, kima(k)
+1071. kimak
+1072-1074.	èo
+1075.	kahèkanie
+1076.	nioekienio(k)
+1083/1084.	aīĕjanoe(k), èno(k)
+1085/1086.	kafèfè, kaaukie
+1087.	janoe(k), èno(k)
+1088.	<65>
+1089.	manèko, kājŏ
+1090.	kaèo
+1092.	kadarao
+1096.	kāhao
+1097.	pākārah, pafèè
+1098.	èădŏ
+1099.	kahaoe(k)
+1101.	èo(k), kajojo
+1102.	kalèla
+1104/1105.	kohorijo, kaīdahandĕ
+1106/1107.	èèho, kaäfoeā
+1109/1110.	kaboeĕboeĕ
+1112.	kadiŏfè
+1113.	aijĕfoho
+1114.	kikoeoekă, kimoemoehĕ
+1115.	kikoeoekă, kimoemoehĕ
+1116.	kidīdēhŏ(k)
+1117.	èo(k)o(k)
+1118.	kalèlă
+1125. kaäkihi, makiha(k)
+1127. kamoko, kidebo
+1130.	kaoewe, koina
+1131.	èieboe, kiŏhā
+1132-1134. kāoewa
+1136-1138. kiŏhā
+1142.	karahèlă, hokeora(k) ahèlĕ
+1143.	kifame <66>
+1146/1147. <67>
+1148/1149.	kĕmoja(k), kifèora(k)
+1150.	kifienè, èaak
+1151.	koeōdĕ
+1152.	<68>
+1153.	nŏoninĕ, pōbōdā
+1154.	fidjaja
+1155.	koedŏdŏ
+1159.	kipara èbahoe
+1160.	<69>
+1161.	kimonie
+1162.	kafai
+1163.	kaarahĕai
+1164.	kāākikieĕ
+1166.	kaoewè oewè
+1167.	<70>
+1168.	kaākŏhŏ, kahièhiè
+1169.	kaiekŏkŏ(k), kabŏ èlā
+1170.	ka iekŏkŏ(k)
+1171.	kakidahaiĕ
+1172.	kakīnīfĕ
+1173.	kakīnīfĕ
+1174.	<71>
+1175.	oewabālā
+1176.	wāhāboepè
+1179.	pènjok
+1180.	amĕna(k)
+1193.	<72>
+1194.	pōhōja(k)
+1195.	kidĕhaoe, oemahaoe
+1196.	pakanoea(k), bakida(k)
+1197.	kikaaboe
+1198.	adŏ kahapa(k)
+1199.	kiakahārie, koinak
+1200.	kajenŏnŏ, ijanŏnŏ
+1201.	ahabèlo, balelo
+1202.	<73>
+1203.	<74>
+1206.	aharie
+1208.	kīfoehaj, anoaha(k)
+1210.	kehafariek
+1211.	kolè amie amie
+1212.	kolè poeha
+1213.	dŏdŏ
+1214.	oefā, kiŏfaj
+1220.	oefā
+1222-1224. <75>
+1225.	pamŏ, oepamŏ
+1238.	<76>
+1239.	mèhèbahoe(k)
+1240.	èaaniā
+1242-1244.	kàhafie
+1245.	poekai, koie
+1246.	kaoe
+1251.	kiā hoeŏ, abaanbŏ
+1256.	kihèkok, kihanĕ
+1257.	kahankĕ, oea ka baikoā <77>
+1258.	kikĕrā, kafikĕ
+1260/1261. 	pèladieĕ, kifĕhbai
+1262/1263.	aboehŏ, hōda hōda
+1264.	ami(k)ī(k), afamī(k)
+1265/1266.	<78>
+1267. noenoehoei
+1268.	paharie
+1269.	aharie, aboepèiejok
+1270.	pakèho
+1271.	kieakīenènihai, fanènèha(k)
+1276.	oehaibi, fahabōha(k)
+1277.	karahoe
+1276/1277.	<79>
+1278.	<80>
+1284.	hoăko(k) wa(k), kababa
+1286.	èfoeaka, ĕwak
+1291.	<81>
+1292.	kifahondie
+1293.	kaik
+1294.	adoewĕ/adoewa
+1295.	akoloe
+1296.	afa
+1297.	aliba, aribĕ
+1298.	<82>
+1299.	ariba adoewĕ
+1300.	afai-īafā
+1301.	baikaik/ibaikaik
+1302.	kifahoek, kāāfoeroe
+1303.	kifahoekjo kaik
+1304.	kifahoekjo adoewĕ
+1305.	kifahoekjo akoloe
+1306.	kifahoekjo afa
+1307.	kifahoekjo alibĕ
+1308.	kifahoekjo akakinĕ
+1309.	kifahoekjo alibĕ adoewĕ
+1310.	kifahoekjo afai afa
+1311.	kifahoekjo baikaik
+1312.	kaik taka <83>
+1313.	kaik takajo kaik
+1315.	kaik takajo alibĕ
+1316.	kaik takajo kifahoek
+1317.	adoewĕ taka
+1318.	adoewĕ takajo kifahoek
+1319.	akoloe taka
+1323.	alibĕ taka
+1324.	kifahoek taka
+1325.	kaik koedodoka
+1326.	kidahŏ, kahakoudĕ
+1327.	nŏ(k)afa
+1328.	kahanoeĕ
+1329.	adoewĕ kanoeĕ
+1330/1331.	nè(k)è
+1332/1333.	ija adoewĕ
+1336/1337.	akakanoe, hokèora(k)
+1338.	afika
+1339.	mŏkŏ
+1340.	kīhīmanĕ, kèhèmanĕ
+1347/1348.	hiakikĕ, ma(k)aki(k)
+1349.	kihimanĕ
+1350.	<84>
+1356.	èfīkahaj
+1357.	oewā
+1359.	ŏŏ, ĕĕ
+1360.	ĕĕ, ŏŏ
+1361.	ĕĕ, ŏŏ
+1363.	kija
+1365.	oewā
+1366.	ikŏ
+1364/1367/1368.	kija
+1369/1370.	èai
+1373/1374.	èaiboe
+1375/1376.	èaioe
+1377/1378.	èaioe
+1379.	hŏhā, hā
+1380.	èijah
+1382.	tiŏ
+1383.	èhĕ, itèk
+1385/1386.	itèk, èana
+1388.	<85>
+1389. èjà(k)ā, djidja
+1392. maumanĕ, namanihŏ
+1393. fanihiōfi
+1394. kienŏhŏ, haŏ(k)ha <86>
+1397. homanika
+1398. janieka, eaikaha(k) <87>
+1402. koahjĕ, kafŏ <88>
+1407. <89>
+1408. nŏŏ
+1409. naafè
+1410. nŏŏ
+1411. kahanoeĕ
+1412/1413. <90>
+1414. kahanoeĕ, hale
+1416. nèè
+1418. bahaibĕ
+1419. arapohĕ, kaiĕkodiĕ
+1420. nèè
+1422. naoemanĕ
+1423. laikahadiĕ
+1426. mŏkŏkŏ, èfāā mahiĕ
+1427. nakoeānā, nāāfè
+1428. aboeha
+1429. māāfè, kaoefè(k) <91>
+1435. èèfè
+1436. èloeba
+1437. dèbè, itèbè
+1439. koelie tèbè
+1440. itŏfŏ
+1441. koeli tŏfŏ
+1442/1443. koelie-hŏako(k)
+1444. tŏfŏ
+1446. koelie
+1450. ihŏ, pŏkŏ
+1451. kahaĕ, kokonĕ
+1452. fanèna, panè
+1453. mil
+1454. fakè èhèa, pakèèhèa <92>
+1459. mŏkŏ èfōka
+1460. ijāha
+1461. kinŏnŏ, èŏdā
+1462. nèè
+1465. kienono iĕdiĕ
+1466. wakipoehaiā, koina(k) akoina(k)
+1467. oemāhaoe
+1469. farakoa, panako
+1470. ijo/jŏ
+1471. kieaba(k), kèo
+1472. ŏk
+1474. èara no(k)a
+1473-1475. ijara(k)
+1476. ŏk
+1477. nŏ(k)a
+1478. panĕha
+1486. kĕabak
+</wordlist>
+
+<appendixA>
+2.	kapalå
+3.	moekå
+9.	telingå
+11.	matå
+41/42.	dadå
+160.	mengiroek
+161.	gĕlå
+176.	terkoeå
+196.	ingè
+198.	bakat
+229.	boetå
+255.	ĕbak
+256.	ĕmak
+1197.	loepå
+</appendixA>
+
+<appendixB>
+21.	epāpā
+25.	koerīpŏ
+30. parorīpŏ
+61.	èpoekŏ
+93.	piŏ-piŏ
+99.	arŏpāā
+100.	èpoe(k)oe apŏ
+102.	hèoafĕ (hèoapo)
+122/123.	poeroeroe
+133.	wapiaka
+169.	éāpākoe
+199.	kapoehŏ
+227.	kipĕrai èdio
+228.	kipĕ hŏdŏ
+326.	èloppo
+400.	èhouka
+410.	pakoewĕ
+437.	èoba
+467.	pakoeroe
+474.	èhaĕ
+484.	roehoekiĕ(k)
+508.	pèdjiè
+520.	èoeba
+549.	kararo
+583.	karieha
+626.	pabŏrikī
+365.  èpieĕ
+659.	koepadŏ
+727.	èŏroe
+748.	èoedie
+753.	èŏroe
+786.	èpa èpa
+813.	mèo
+877.	èoepoekŏ <93>
+878.	èpŏŏpa
+879.	kŏpènè
+896.	èpèo(k)
+913.	kokona
+927.	erihŏ <94>
+970.	èloppo
+971.	ĕrŏōrai
+1007.	èorie
+1011.	moko èarie
+1019.	pakèlie
+1113.	aijĕpoho
+1130.	kaoewa
+1143.	kipamo <95>
+1148.	kipèora(k)
+1194.	pōhōja(k)
+1210.	kahapariek
+1330.	aoedoe
+1338.	apiha
+1417.	naapè
+1423.	raikaha diĕ
+1435.	èèpè
+1436.	edoeba
+</appendixB>
+
+<notes>
+1.	<n><trans><eng>back of the head</eng></trans>: <eno>kikŏba</eno></n>
+2.	<n><eno>amaika, apiok, èhaie</eno></n>
+3.	<n><trans><eng>erection</eng>: <idn>pelir</idn></trans>: <eno>èfoè, èhoenè</eno></n>
+4.	<n><trans><eng>clitoris</eng></trans>: <eno>konīnī</eno></n>
+5.	<n><eno>hamaiko, kamaiko, wamaiko, è(i)ko, abakiŏbè</eno></n>
+6.	<n><trans><eng>in the forest</eng></trans>: <eno>bakŏkoĕ kafoekakō</eno></n> ; <n><trans><eng>to walk on the beach</eng></trans>: <eno>bahèdie</eno></n> ; <n><trans><eng>to run away</eng></trans>: <eno>kifoea</eno></n> ; <n><trans><idn>djalan</idn></trans>: <eno>èèkowĕ</eno></n>
+7.	<n><trans><eng>to lie on one's side</eng></trans>: <eno>pāfĕĕ</eno></n>
+8.	<n><trans><eng>to perch</eng></trans>: <eno>èhèkoe</eno></n>
+9.	<n><eno>èa kanapoeĕ</eno></n> ; <n>(<trans><idn>parang</idn></trans>) (<eno>nèneg</eno>)</n> ; <n><trans><idn>barang poesaka</idn></trans>: <eno>èdoboe naafoeaka(k) (tjoetjoe)</eno></n>
+10.	<n><eno>kadihoekā, iabahoekā, kīīdōka</eno></n>
+11.	<n><eno>pakoenoejĕ, èoefoe(k), piŏnā</eno></n>
+12.	<n><eno>kehèko(k)ĕ, kiho(k)ja, kifarai</eno></n>
+13.	<n><trans><eng>not seeing well</eng></trans>: <eno>kakèbara, kakèlabaĕ</eno></n>
+14.	<n><eno>ama</eno> (<trans><eng>referring to one's father</eng></trans>)</n> ; <n><eno>amana</eno> (<trans><eng>calling one's father</eng></trans>)</n>
+15.	<n><eno>naè</eno> (<trans><eng>referring to one's mother</eng></trans>)</n> ; <n><eno>naèna</eno> (<trans><eng>calling one's mother</eng></trans>)</n>
+16.	<n><eno>kodāpākāhā, kèkiĕ abŏdō, kodanŏŏ</eno></n>
+17.	(<n><trans><idn>orang menompang</idn></trans></n>)
+18.	<n><trans><idn>bersioel</idn></trans></n>
+19.	<n><trans><eng>large shell</eng></trans></n>
+20.	<n><eno>ko(k)èko(k), anèka, èkèo(k)</eno></n>
+21.	<n><trans><eng>beams supporting the floor</eng></trans>: <eno>adōhè, poefoea(k)</eno></n>
+22.	<n><eno>èaahai, kobarieè, koenă(k)</eno></n>
+23.	<n><eno>èjobie, eapoeha, èafauje, pakoehoeĕ</eno></n>
+24.	<n><eno>pakamai, fakamai, kaoekaoe</eno></n>
+25.	<n><eno>fedjie kiēēbārā</eno></n> ; <n><eno>fedjie kikoedŏtiĕ</eno></n>
+26. <n><eno>è oenèkè</eno></n> ; <n><eno>kidĕdieĕ</eno></n> ; <n><trans><eng>a larger kind</eng></trans> is: <eno>èŏnŏnie</eno></n> ; <n><trans><eng>with a lid</eng></trans>: <eno>èoenèkè</eno></n> ; <n><trans><eng>without a lid (can be folded up)</eng></trans>: <eno>oraj</eno></n>
+27.	<n><eno>kioedŏ</eno> (<trans><idn>daoen klapa</idn></trans>)</n> ; <n><trans><eng>made from the spathe of the coconut tree</eng></trans>: <eno>pĕkak</eno></n>
+28.	<n><eno>enoho(k)</eno>: <trans><idn>ikan</idn></trans></n>
+29.	<n><eno>èēja(k), bakèkèk, pakakak</eno></n>
+30.	<n><eno>foeĕhikoe, kīkī, faikiki</eno></n>
+31.	<n><eno>èko(k)ia, kadīkakālie, èŏkŏ(k)</eno></n>
+32.	(<n><trans><idn>tampat tabakoe</idn></trans></n>)
+33.	<n><eno>koewabŏ, èkaoijŏ, èbohè</eno></n>
+34.	<n><eno>fabŏrīkī, pafoeroe, wakoeabŏ</eno></n>
+35.	<n><eno>bariedāha, abako(k), kŏ(k)ŏ(k), kadŏkŏ</eno></n>
+36.	<n><trans><idn>oebi dandar</idn></trans>: <eno>kanīkīn</eno></n>
+37.	<n><eno>pokèo, kārādi, oedŏfŏ</eno></n>
+38.	<n><eno>èhoewè èpo(k)</eno></n> ; <n><eno>èŏrŏjĕ aero èpo(k)</eno></n> ; <n><eno>èapo(k)</eno></n> ; <n><eno>èfiak èpo(k)</eno></n>
+39.	<n><eno>kārăhā(k)</eno>: <trans><idn>batang</idn></trans></n> ; <n><eno>èhoroe</eno>: <trans><idn>bengkoedoe</idn></trans></n> ; <n><eno>èjobĕ</eno>: <trans><idn>bintangoer</idn></trans></n>
+40.	<n><eno>èko(k), èafodiĕ, èkoena</eno></n>
+41.	<n><trans><idn>pokok akar</idn></trans>: <eno>èpāha</eno></n>
+42.	<n><eno>ŏwahŏdā, èiefoe akŏmā, ijahŏmā</eno></n>
+43.	<n><eno>èŏbŏ, èkŏjŏ(k), ărŏmaka</eno></n>
+44.	<n><eno>èhoewā, èpèhĕja, kĕwānoe</eno></n>
+45.	<n><eno>èanèk</eno>: <trans><idn>tanggok</idn></trans></n> ; <n><eno>kabŏ, foekĕ foekĕ</eno>: <trans><idn>djaring</idn></trans></n>
+46.	<n><eno>koema(k)au, karăpīpī</eno>: <trans><idn>agas</idn></trans></n> ; <n><eno>èoefoe(k)ĕ</eno>: <trans><idn>bintat</idn></trans> (<trans><eng>mosquito bite</eng></trans>)</n>
+47.	<n><eno>ĕfīfī</eno>: <trans><idn>semoet gatel</idn></trans></n> ; <n><eno>èkāhā</eno>: <trans><idn>semoet api-api (selembado)</idn></trans></n> ; <n><eno>paroeoekā</eno></n> ; <n><eno>èkaihonŏa</eno>: <trans><idn>rajap (anai-anai)</idn></trans></n>
+48.	<n><eno>làfoe(k)</eno>: <trans><idn>oelar belang (tjendai)</idn></trans></n> ; <n><eno>mananiloe</eno>: <trans><idn>oelar batoe</idn></trans></n> ; <n><eno>èaniloe</eno>: <trans><idn>oelar ajer</idn></trans></n>
+49.	<n><trans><idn>tjipoet</idn></trans>: <eno>koetjiŏ, karŏkŏ, kapoehĕ</eno></n>
+50.	<n><trans><idn>bingkarong</idn></trans>: <eno>èloe(k)</eno></n>
+51.	<n><eno>nafoeĕ, èoefoe, kahŏka</eno></n>
+52.	<n><eno>kalinaha(k), èbo, poeāri poeāri</eno></n>
+53.	<n><eno>ejokie, ehadieĕ, èfè, ihiā</eno></n>
+54.	<n><eno>kōāka oewè, pakaŏ, èēja</eno></n>
+55.	<n><eno>karahāhŏ, èkŏhŏ, èkŏhoi</eno></n>
+56.	<n><trans><idn>batang ajer</idn></trans>: <eno>bèhŏa, hiŏbā</eno></n> ; <n><trans><eng>estuary</eng></trans> (<trans><idn>koewala</idn></trans>): <eno>bèlŏā, èakĕfidja</eno></n>
+57.	(<n><trans><idn>wang poetih</idn></trans></n>)
+58.	<n><trans><eng>head of a match</eng></trans> (<trans><idn>mata lajat</idn></trans>)</n>
+59.	(<n><trans><idn>kawan</idn></trans></n>)
+60.	(<n><trans><idn>dija toeloeng</idn></trans></n>)
+61.	(<n><trans><idn>maoe djoewal</idn></trans></n>)
+62.	<n><trans><idn>= 10 depa</idn></trans></n>
+63.	<n><eno>amoehŏ, adèījĕ, kakoeka</eno></n>
+64.	<n><eno>èafa(k)</eno>: <trans><idn>tebal</idn></trans></n> ; <n><eno>kiĕ</eno> (<trans><idn>kental</idn></trans>)</n>
+65.	<n><eno>kanèfoe, kakoeōk, noekinoe(k)</eno></n>
+66.	<n><trans><idn>genap</idn></trans>: <eno>fanakonĕ</eno></n>
+67.	<n><eno>eò(k)o(k), pamiere, fakaafie, koinŏnā</eno></n>
+68.	<n><eno>manŏniejŏ, pananamie, kamoenīno</eno></n>
+69.	<n><eno>kifĕhaja, kaboehaja, kifoi</eno></n>
+70.	<n><eno>kahieābie, kaŏrārie, kaoerejĕ</eno></n>
+71.	<n><eno>kanoenoefè, noenoe(k), abĕĕ adi</eno></n>
+72.	<n><eno>akida(k), oewakaki, kidak, oewa āpoe hāja(k), kaboehaja(k)</eno></n>
+73.	<n><eno>pānāoe, bahèdji, pĕkoeaba, waka, èdjie</eno></n>
+74.	<n><eno>èhèboe, èhèlo, èhŏra</eno></n>
+75.	<n><eno>wakahadŏ, ŏmŏ, ŏmŏkie, kèaba baoeŏ</eno></n>
+76.	<n><eno>kahapie, mahapie, kidai(k)joe, abaoè</eno></n>
+77.	<n><eno>aea ka baikoā</eno> (<trans><idn>hamba soedah potong</idn></trans>)</n>
+78.	<n><eno>pienoekak, fakieoe, pakoeoe, karohajĕ, pakè èbŏ</eno></n>
+79.	<n><trans><idn>hangoes</idn></trans>: <eno>kakiho(k)</eno></n>
+80.	<n><eno>mainŏk, homainŏk, mŏhŏmŏ(k)</eno></n>
+81.	<n><eno>oebidji, idjī, èkiĕĕ, moeoe, moho(k) oekie</eno></n>
+82.	<n><eno>kakinĕ, aki, akinĕ</eno></n>
+83.	<n><comment>tangan sepoeloeh = satoe orang = ekaka = badan kaki sepoeloeh</comment></n>
+84.	<n><eno>kidjĕrŏ, haèloedă(k), fakidja, kèabak</eno></n>
+85.	<n><eno>itèk, arè(k), adè(k)</eno></n>
+86.	<n><trans><idn>pagi-pagi</idn></trans>: <eno>hŏmanika, lapawanihŏ, baidji ninie</eno></n> ; <n><trans><idn>dalam tiga hari</idn></trans>: <eno>akoeloepo(k)</eno></n> ; <n><trans><idn>dalam ampat hari</idn></trans>: <eno>afapo(k)</eno></n> ; <n><trans><eng>5  a.m.</eng></trans>: <eno>boedàjak</eno></n> ; <n><trans><eng>6  a.m.</eng></trans>: <eno>lafamanoe manoe</eno></n> ; <n><trans><eng>12  noon</eng></trans>: <eno>parohajo</eno></n> ; <n><trans><eng>3  p.m.</eng></trans>: <eno>apoi</eno></n> ; <n><trans><eng>6  p.m.</eng></trans>: <eno>lapamahoema, lapabaheibā</eno></n>
+87.	<n><trans><idn>tjahia</idn></trans>: <eno>kakanokowā</eno></n>
+88.	<n><trans><idn>stengah malam (poekoel 12)</idn></trans>: <eno>koahjĕ kafŏ</eno></n>
+89.	<n><trans><idn>kemarau</idn></trans>: <eno>ènoha</eno></n> ; <n><trans><idn>tempoe hoedjan (angin)</idn></trans>: <eno>dakŏha</eno></n>
+90.	<n><eno>pabaka, oeakanroe, baoeloe, aoeloe</eno></n>
+91.	<n><trans><idn>lagi</idn></trans>: <eno>kahainoafè</eno></n> ; <n><trans><idn>masih</idn></trans>: <eno>kikiāfè, karoiĕ</eno></n>
+92.	<n><trans><idn>lilit</idn></trans>: <trans><eng>in a circle</eng></trans>: <eno>dididiki(k)</eno></n>
+93.	<n><trans><idn>bintat</idn></trans> = <trans><eng>mosquito bite</eng></trans></n>
+94.	<n>(<trans><idn>gojang</idn></trans>): <eno>pana</eno></n>
+95.	<n><trans><idn>genap</idn></trans>: <eno>panakonĕ</eno></n>
+</notes>
