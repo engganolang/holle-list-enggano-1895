@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  CLDF word list of Enggano from the Holle List in Stokhof
+  and Almanar (1987)
+message: 'Cite this data set as follows:'
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: >-
+      University of Oxford, UK and Universitas Udayana,
+      Indonesia
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+identifiers:
+  - type: url
+    value: 'https://github.com/engganolang/holle-list-enggano-1895'
+    description: GitHub repository
+url: 'http://hdl.handle.net/1885/144589'
+keywords:
+  - Enggano
+  - Holle List
+  - Lexical database
+  - Cross-Linguistic Data Format
+  - CLDF
+license: CC-BY-SA-4.0
+date-released: '2023-06-06'
