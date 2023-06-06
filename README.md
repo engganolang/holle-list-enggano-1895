@@ -21,3 +21,6 @@ format is generated via combining the raw Enggano word list data with
 the main, new basic list of the Holle List in Stockhof (1980) that has
 been [digitised by Rajeg
 (2023)](https://engganolang.github.io/digitised-holle-list/).
+
+**NOTES**: *The mapping of the English gloss with the Concepticon
+concept sets is a work-in-progress!*
