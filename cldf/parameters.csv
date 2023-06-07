@@ -300,49 +300,49 @@
 "299-NA","rice (husked raw rice, cooked rice)",NA,NA
 "300-MORTAR","rice pounder, mortar","MORTAR",224
 "301-GRINDSTONE","pounder","GRINDSTONE",2459
-"302-NA","to grind",NA,NA
-"303-NA","cake",NA,NA
-"304-NA","porridge",NA,NA
-"305-NA","black pepper",NA,NA
-"306-NA","salt",NA,NA
-"307-NA","sarong",NA,NA
-"308-NA","trousers",NA,NA
+"302-GRIND","to grind","GRIND",1033
+"303-CAKE","cake","CAKE",2408
+"304-CONGEE","porridge","CONGEE",2049
+"305-PEPPER","black pepper","PEPPER",1385
+"306-SALT","salt","SALT",1274
+"307-SARONG","sarong","SARONG",2413
+"308-TROUSERS","trousers","TROUSERS",809
 "309-NA","kebaya",NA,NA
-"310-NA","comb",NA,NA
-"311-NA","ring",NA,NA
-"312-NA","waist belt/band",NA,NA
-"313-NA","metal waist band",NA,NA
+"310-COMB","comb","COMB",1475
+"311-RING","ring","RING",1374
+"312-BELT","waist belt/band","BELT",772
+"313-BELT","metal waist band","BELT",772
 "314-NA","band or ring",NA,NA
-"315-NA","earclip",NA,NA
-"316-NA","shawl",NA,NA
-"317-NA","loin cloth",NA,NA
-"318-NA","cotton fabric (local, European)",NA,NA
-"319-NA","silk",NA,NA
-"320-NA","flannel",NA,NA
-"321-NA","to weave, to plait",NA,NA
-"322-NA","to twine a rope",NA,NA
-"323-NA","rope",NA,NA
-"324-NA","thread, yarn",NA,NA
-"325-NA","to knot, to knit",NA,NA
+"315-EARRING","earclip","EARRING",770
+"316-SHAWL","shawl","SHAWL",2771
+"317-LOINCLOTH","loin cloth","LOINCLOTH",1965
+"318-CLOTH","cotton fabric (local, European)","CLOTH",1616
+"319-SILK","silk","SILK",1641
+"320-CLOTH","flannel","CLOTH",1616
+"321-BRAID (VERB) OR WEAVE (BASKET)","to weave, to plait","BRAID (VERB) OR WEAVE (BASKET)",3294
+"322-SPIN","to twine a rope","SPIN",121
+"323-ROPE","rope","ROPE",1218
+"324-THREAD","thread, yarn","THREAD",1161
+"325-KNOT","to knot, to knit","KNOT",760
 "326-NA","bag or sack",NA,NA
-"327-NA","sabre",NA,NA
-"328-NA","pike, lance, javelin",NA,NA
-"329-NA","bow",NA,NA
-"330-NA","bowstring",NA,NA
-"331-NA","arrow",NA,NA
-"332-NA","shield",NA,NA
-"333-NA","flag",NA,NA
-"334-NA","kind of small cannon",NA,NA
-"335-NA","rifle",NA,NA
-"336-NA","gun powder",NA,NA
-"337-NA","bullet",NA,NA
-"338-NA","to shoot",NA,NA
-"339-NA","to wage war",NA,NA
-"340-NA","war",NA,NA
-"341-NA","enemy",NA,NA
-"342-NA","cannon",NA,NA
-"343-NA","peace",NA,NA
-"344-NA","fortification",NA,NA
+"327-SWORD","sabre","SWORD",1535
+"328-SPEAR","pike, lance, javelin","SPEAR",945
+"329-BOW","bow","BOW",994
+"330-BOW STRING","bowstring","BOW STRING",2119
+"331-ARROW","arrow","ARROW",977
+"332-SHIELD","shield","SHIELD",1064
+"333-FLAG","flag","FLAG",2623
+"334-CANNON","kind of small cannon","CANNON",3202
+"335-PISTOL","rifle","PISTOL",3881
+"336-GUNPOWDER","gun powder","GUNPOWDER",1798
+"337-BULLET","bullet","BULLET",1114
+"338-SHOOT","to shoot","SHOOT",1172
+"339-WAR","to wage war","WAR",935
+"340-WAR","war","WAR",935
+"341-ENEMY","enemy","ENEMY",1358
+"342-CANNON","cannon","CANNON",3202
+"343-PEACE","peace","PEACE",1338
+"344-FORTRESS","fortification","FORTRESS",1938
 "345-NA","delegate",NA,NA
 "346-NA","dibble",NA,NA
 "347-NA","hoe",NA,NA
@@ -442,39 +442,39 @@
 "441-NA","net",NA,NA
 "442-NA","eel",NA,NA
 "443-NA","louse",NA,NA
-"444-NA","louse",NA,NA
-"445-NA","nit",NA,NA
-"446-NA","flea",NA,NA
-"447-NA","spider",NA,NA
-"448-NA","fly",NA,NA
-"449-NA","mosquito",NA,NA
-"450-NA","mosquito",NA,NA
-"451-NA","butterfly",NA,NA
-"452-NA","caterpillar",NA,NA
-"453-NA","grasshopper",NA,NA
-"454-NA","ant",NA,NA
-"455-NA","ant",NA,NA
-"456-NA","ant",NA,NA
-"457-NA","ant",NA,NA
-"458-NA","snake",NA,NA
-"459-NA","snake",NA,NA
-"460-NA","snake",NA,NA
-"461-NA","worm",NA,NA
-"462-NA","shrimp",NA,NA
-"463-NA","crab",NA,NA
-"464-NA","shell",NA,NA
-"465-NA","frog",NA,NA
-"466-NA","lizard",NA,NA
-"467-NA","iguana",NA,NA
-"468-NA","crocodile",NA,NA
-"469-NA","tortoise",NA,NA
-"470-NA","turtle",NA,NA
-"471-NA","sky",NA,NA
-"472-NA","sun",NA,NA
-"473-NA","moon",NA,NA
-"474-NA","month (name of the months)",NA,NA
-"475-NA","moon eclipse",NA,NA
-"476-NA","star",NA,NA
+"444-LOUSE","louse","LOUSE",1392
+"445-NIT","nit","NIT",267
+"446-FLEA","flea","FLEA",232
+"447-SPIDER","spider","SPIDER",843
+"448-FLY (INSECT)","fly","FLY (INSECT)",1504
+"449-MOSQUITO","mosquito","MOSQUITO",1509
+"450-MOSQUITO","mosquito","MOSQUITO",1509
+"451-BUTTERFLY","butterfly","BUTTERFLY",1791
+"452-CATERPILLAR","caterpillar","CATERPILLAR",2247
+"453-GRASSHOPPER","grasshopper","GRASSHOPPER",607
+"454-ANT","ant","ANT",587
+"455-ANT","ant","ANT",587
+"456-ANT","ant","ANT",587
+"457-ANT","ant","ANT",587
+"458-SNAKE","snake","SNAKE",730
+"459-SNAKE","snake","SNAKE",730
+"460-SNAKE","snake","SNAKE",730
+"461-WORM","worm","WORM",1219
+"462-SHRIMP","shrimp","SHRIMP",2349
+"463-CRAB","crab","CRAB",2348
+"464-SHELL","shell","SHELL",598
+"465-FROG","frog","FROG",503
+"466-LIZARD","lizard","LIZARD",632
+"467-IGUANA","iguana","IGUANA",1578
+"468-CROCODILE","crocodile","CROCODILE",1857
+"469-TORTOISE","tortoise","TORTOISE",895
+"470-TURTLE","turtle","TURTLE",112
+"471-SKY","sky","SKY",1732
+"472-SUN","sun","SUN",1343
+"473-MOON","moon","MOON",1313
+"474-MONTH","month (name of the months)","MONTH",1370
+"475-ECLIPSE","moon eclipse","ECLIPSE",2285
+"476-STAR","star","STAR",1430
 "477-NA","earth (globe)",NA,NA
 "478-NA","rain",NA,NA
 "479-NA","cloud",NA,NA
@@ -845,8 +845,8 @@
 "844-SMALL KNIFE","dagger","SMALL KNIFE",3233
 "845-WARDROBE","case for cloth","WARDROBE",3106
 "846-GRANARY","rice barn","GRANARY",3657
-"847-NA","earclip",NA,NA
-"848-NA","war",NA,NA
+"847-EARRING","earclip","EARRING",770
+"848-WAR","war","WAR",935
 "849-NA","population",NA,NA
 "850-NA","fence, hedge",NA,NA
 "851-NA","Morinda atrocarpus",NA,NA
@@ -854,11 +854,11 @@
 "853-NA","betel",NA,NA
 "854-NA","wing",NA,NA
 "855-NA","cat",NA,NA
-"856-NA","mosquito",NA,NA
-"857-NA","butterfly",NA,NA
-"858-NA","caterpillar",NA,NA
-"859-NA","frog",NA,NA
-"860-NA","sunrise",NA,NA
+"856-MOSQUITO","mosquito","MOSQUITO",1509
+"857-BUTTERFLY","butterfly","BUTTERFLY",1791
+"858-CATERPILLAR","caterpillar","CATERPILLAR",2247
+"859-FROG","frog","FROG",503
+"860-SUNRISE","sunrise","SUNRISE",2296
 "861-NA","earthquake",NA,NA
 "862-NA","earth (ground)",NA,NA
 "863-NA","sand",NA,NA
