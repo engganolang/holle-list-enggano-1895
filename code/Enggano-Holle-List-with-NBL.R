@@ -1,6 +1,5 @@
 # This is a script to merge the New Basic List in Stokhof (1980) with the Enggano List in Stokhof and Almanar (1987) via the Index match
 library(tidyverse)
-library(googleLanguageR)
 
 # read the NBL table from GitHub =====
 holle_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/data/digitised-holle-list-in-stokhof-1980.tsv")
