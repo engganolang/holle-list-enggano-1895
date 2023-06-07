@@ -21,6 +21,14 @@ knitr::opts_chunk$set(
 
 <!-- badges: end -->
 
+## How to cite
+
+Cite this repository as:
+
+> Rajeg, G. P. W. (2023). CLDF dataset of Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List [Data set]. https://github.com/engganolang/holle-list-enggano-1895
+
+## About
+
 This repository contains processed, digitised word list data of Enggano (investigated in 1895) in Stokhof and Almanar's [-@1885-144589] Holle List. In addition, the repository provides the R codes to process the raw word list into tabular format that conforms to the specification of the Wordlist module in the Cross-Linguistic Data Formats (CLDF). The tabular format is generated via combining the raw Enggano word list data with the main, new basic list of the Holle List in Stockhof [-@holleli1980] that has been [digitised by Rajeg](https://engganolang.github.io/digitised-holle-list/) [-@rajeg2023].
 
 **NOTES**: *The mapping of the English gloss with the Concepticon concept sets is a work-in-progress!*

@@ -13,6 +13,16 @@ validation](https://github.com/intercontinental-dictionary-series/ids/workflows/
 
 <!-- badges: end -->
 
+## How to cite
+
+Cite this repository as:
+
+> Rajeg, G. P. W. (2023). CLDF dataset of Enggano word list from 1895 in
+> Stokhof and Almanar’s (1987) Holle List \[Data set\].
+> <https://github.com/engganolang/holle-list-enggano-1895>
+
+## About
+
 This repository contains processed, digitised word list data of Enggano
 (investigated in 1895) in Stokhof and Almanar’s
 ([1987](#ref-1885-144589)) Holle List. In addition, the repository
