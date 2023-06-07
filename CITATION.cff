@@ -3,8 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  CLDF word list of Enggano from the Holle List in Stokhof
-  and Almanar (1987)
+  CLDF dataset of Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List
 message: 'Cite this data set as follows:'
 type: dataset
 authors:
