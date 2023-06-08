@@ -9,7 +9,7 @@ Rajeg](https://www.ling-phil.ox.ac.uk/people/gede-rajeg)
 <!-- badges: start -->
 
 [![CLDF
-validation](https://github.com/intercontinental-dictionary-series/ids/workflows/CLDF-validation/badge.svg)](https://github.com/engganolang/holle-list-enggano-1895/actions?query=workflow%3ACLDF-validation)
+validation](https://github.com/engganolang/holle-list-enggano-1895/workflows/CLDF-validation/badge.svg)](https://github.com/engganolang/holle-list-enggano-1895/actions?query=workflow%3ACLDF-validation)
 
 <!-- badges: end -->
 

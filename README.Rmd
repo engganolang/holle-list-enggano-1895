@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
-[![CLDF validation](https://github.com/intercontinental-dictionary-series/ids/workflows/CLDF-validation/badge.svg)](https://github.com/engganolang/holle-list-enggano-1895/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/engganolang/holle-list-enggano-1895/workflows/CLDF-validation/badge.svg)](https://github.com/engganolang/holle-list-enggano-1895/actions?query=workflow%3ACLDF-validation)
 
 <!-- badges: end -->
 
