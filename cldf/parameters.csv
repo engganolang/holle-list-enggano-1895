@@ -140,7 +140,7 @@
 "139-COMMON COLD (DISEASE)","a cold","COMMON COLD (DISEASE)",102
 "140-NA","gone to sleep (limbs)",NA,NA
 "141-NA","cramp",NA,NA
-"142-NA","paralysed",NA,NA
+"142-DISABLED PERSON","paralysed","DISABLED PERSON",3621
 "143-LAME","crippled","LAME",320
 "144-MUTE PERSON","mute","MUTE PERSON",2320
 "145-DEAF PERSON","deaf","DEAF PERSON",458
@@ -344,104 +344,104 @@
 "343-PEACE","peace","PEACE",1338
 "344-FORTRESS","fortification","FORTRESS",1938
 "345-NA","delegate",NA,NA
-"346-NA","dibble",NA,NA
-"347-NA","hoe",NA,NA
-"348-NA","garden",NA,NA
-"349-NA","fence, hedge",NA,NA
+"346-DIBBLE STICK","dibble","DIBBLE STICK",3155
+"347-HOE","hoe","HOE",284
+"348-GARDEN","garden","GARDEN",586
+"349-FENCE","fence, hedge","FENCE",1690
 "350-NA","sow",NA,NA
-"351-NA","to thresh with the feet",NA,NA
-"352-NA","ripe",NA,NA
-"353-NA","unripe",NA,NA
+"351-TREAD","to thresh with the feet","TREAD",575
+"352-RIPE","ripe","RIPE",178
+"353-UNRIPE","unripe","UNRIPE",1958
 "354-NA","harvest",NA,NA
-"355-NA","maize, corn",NA,NA
-"356-NA","beans",NA,NA
-"357-NA","bean",NA,NA
-"358-NA","cucumber",NA,NA
-"359-NA","tobacco",NA,NA
-"360-NA","sugarcane",NA,NA
-"361-NA","species of tuber",NA,NA
-"362-NA","taro",NA,NA
-"363-NA","red pepper",NA,NA
-"364-NA","coconut (tree)",NA,NA
-"365-NA","coconut (other parts of the tree)",NA,NA
-"366-NA","coconut (other parts of the tree)",NA,NA
-"367-NA","coconut (other parts of the tree)",NA,NA
-"368-NA","coconut (other parts of the tree)",NA,NA
-"369-NA","sugarpalm, aren tree",NA,NA
-"370-NA","palm wine (fermented)",NA,NA
-"371-NA","palmwine",NA,NA
+"355-MAIZE","maize, corn","MAIZE",506
+"356-BEAN","beans","BEAN",832
+"357-BEAN","bean","BEAN",832
+"358-CUCUMBER","cucumber","CUCUMBER",496
+"359-TOBACCO","tobacco","TOBACCO",974
+"360-SUGAR CANE","sugarcane","SUGAR CANE",146
+"361-SWEET POTATO","species of tuber","SWEET POTATO",159
+"362-TARO","taro","TARO",351
+"363-CHILI PEPPER","red pepper","CHILI PEPPER",919
+"364-COCONUT TREE","coconut (tree)","COCONUT TREE",147
+"365-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"366-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"367-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"368-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"369-SUGAR PALM","sugarpalm, aren tree","SUGAR PALM",3029
+"370-ALCOHOL (FERMENTED DRINK)","palm wine (fermented)","ALCOHOL (FERMENTED DRINK)",404
+"371-ALCOHOL (FERMENTED DRINK)","palmwine","ALCOHOL (FERMENTED DRINK)",404
 "372-NA","nipa palm",NA,NA
-"373-NA","kapok",NA,NA
-"374-NA","pandanus",NA,NA
-"375-NA","mango",NA,NA
-"376-NA","Artocarpus integrifolia, Jack fruit",NA,NA
+"373-KAPOK TREE","kapok","KAPOK TREE",2499
+"374-PANDANUS","pandanus","PANDANUS",469
+"375-MANGO","mango","MANGO",2398
+"376-JACKFRUIT","Artocarpus integrifolia, Jack fruit","JACKFRUIT",2655
 "377-NA","Durio zibethinus",NA,NA
 "378-NA","banana",NA,NA
-"379-NA","grape fruit",NA,NA
-"380-NA","lemon",NA,NA
+"379-GRAPE","grape fruit","GRAPE",920
+"380-LEMON","lemon","LEMON",3091
 "381-NA","Morinda atrocarpus",NA,NA
-"382-NA","lime",NA,NA
-"383-NA","Curcuma domestica",NA,NA
-"384-NA","rattan, cane",NA,NA
-"385-NA","bamboo",NA,NA
-"386-NA","bamboo shoot, young sprout",NA,NA
-"387-NA","tree",NA,NA
-"388-NA","tree",NA,NA
-"389-NA","tree",NA,NA
+"382-LIME (MATERIAL)","lime","LIME (MATERIAL)",2540
+"383-TURMERIC","Curcuma domestica","TURMERIC",2842
+"384-RATTAN","rattan, cane","RATTAN",2497
+"385-BAMBOO","bamboo","BAMBOO",1927
+"386-BAMBOO SHOOT","bamboo shoot, young sprout","BAMBOO SHOOT",2494
+"387-TREE","tree","TREE",906
+"388-TREE","tree","TREE",906
+"389-TREE","tree","TREE",906
 "390-NA","branch",NA,NA
-"391-NA","main root, taproot",NA,NA
-"392-NA","side-root",NA,NA
+"391-ROOT","main root, taproot","ROOT",670
+"392-ROOT","side-root","ROOT",670
 "393-NA","root",NA,NA
-"394-NA","leaf",NA,NA
-"395-NA","bark",NA,NA
-"396-NA","sap",NA,NA
-"397-NA","gum",NA,NA
-"398-NA","Areca catechu LINN",NA,NA
-"399-NA","betel",NA,NA
-"400-NA","sprout",NA,NA
-"401-NA","flower",NA,NA
-"402-NA","fruit",NA,NA
-"403-NA","rind, peel",NA,NA
-"404-NA","pip, stone",NA,NA
-"405-NA","the flesh of the fruit",NA,NA
-"406-NA","bunch",NA,NA
-"407-NA","oil",NA,NA
-"408-NA","grass",NA,NA
-"409-NA","weeds",NA,NA
-"410-NA","Imperata cylindria (Kunai grass)",NA,NA
-"411-NA","Saccharum spontaneum",NA,NA
-"412-NA","animal, beast",NA,NA
+"394-LEAF","leaf","LEAF",628
+"395-BARK","bark","BARK",1204
+"396-SAP","sap","SAP",345
+"397-GUMS","gum","GUMS",139
+"398-BETELNUT","Areca catechu LINN","BETELNUT",217
+"399-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
+"400-SPROUT (SHOOT)","sprout","SPROUT (SHOOT)",3358
+"401-FLOWER","flower","FLOWER",239
+"402-FRUIT","fruit","FRUIT",1507
+"403-SKIN (OF FRUIT)","rind, peel","SKIN (OF FRUIT)",2373
+"404-STONE (OF FRUIT)","pip, stone","STONE (OF FRUIT)",1762
+"405-FLESH","the flesh of the fruit","FLESH",2259
+"406-BUNCH","bunch","BUNCH",1966
+"407-OIL (HYDROPHOBIC LIQUID)","oil","OIL (HYDROPHOBIC LIQUID)",2556
+"408-GRASS","grass","GRASS",606
+"409-WEED","weeds","WEED",3288
+"410-REED","Imperata cylindria (Kunai grass)","REED",659
+"411-REED","Saccharum spontaneum","REED",659
+"412-ANIMAL","animal, beast","ANIMAL",619
 "413-NA","young of animal (calf, foal, chicken, etc.)",NA,NA
-"414-NA","tail",NA,NA
-"415-NA","paw",NA,NA
-"416-NA","hoof",NA,NA
-"417-NA","claw",NA,NA
-"418-NA","wing",NA,NA
-"419-NA","feather",NA,NA
-"420-NA","nest",NA,NA
-"421-NA","egg",NA,NA
-"422-NA","domesticated pig",NA,NA
+"414-TAIL","tail","TAIL",1220
+"415-PAW","paw","PAW",2965
+"416-HOOF","hoof","HOOF",152
+"417-CLAW","claw","CLAW",72
+"418-WING","wing","WING",1257
+"419-FEATHER","feather","FEATHER",1201
+"420-NEST","nest","NEST",539
+"421-EGG","egg","EGG",744
+"422-PIG","domesticated pig","PIG",1337
 "423-NA","to grunt",NA,NA
-"424-NA","sheep",NA,NA
-"425-NA","dog",NA,NA
-"426-NA","to bark",NA,NA
-"427-NA","cat",NA,NA
+"424-SHEEP","sheep","SHEEP",1331
+"425-DOG","dog","DOG",2009
+"426-BARKING","to bark","BARKING",1206
+"427-CAT","cat","CAT",1208
 "428-NA","to miaow",NA,NA
-"429-NA","pigeon",NA,NA
-"430-NA","hen, chicken",NA,NA
-"431-NA","fighting cock",NA,NA
-"432-NA","parakeet, budgerigar",NA,NA
-"433-NA","heron",NA,NA
-"434-NA","kite (bird)",NA,NA
-"435-NA","bird",NA,NA
-"436-NA","bat",NA,NA
-"437-NA","bat",NA,NA
-"438-NA","mouse",NA,NA
-"439-NA","rat",NA,NA
-"440-NA","net",NA,NA
-"441-NA","net",NA,NA
-"442-NA","eel",NA,NA
-"443-NA","louse",NA,NA
+"429-DOVE","pigeon","DOVE",1853
+"430-CHICKEN","hen, chicken","CHICKEN",1318
+"431-ROOSTER","fighting cock","ROOSTER",1511
+"432-PARAKEET","parakeet, budgerigar","PARAKEET",886
+"433-HERON","heron","HERON",758
+"434-EAGLE","kite (bird)","EAGLE",1905
+"435-BIRD","bird","BIRD",937
+"436-BAT","bat","BAT",1793
+"437-BAT","bat","BAT",1793
+"438-MOUSE","mouse","MOUSE",1491
+"439-RAT","rat","RAT",1490
+"440-NET (FOR CATCHING)","net","NET (FOR CATCHING)",2653
+"441-NET (FOR CATCHING)","net","NET (FOR CATCHING)",2653
+"442-FRESHWATER EEL","eel","FRESHWATER EEL",1013
+"443-LOUSE","louse","LOUSE",1392
 "444-LOUSE","louse","LOUSE",1392
 "445-NIT","nit","NIT",267
 "446-FLEA","flea","FLEA",232
@@ -475,24 +475,24 @@
 "474-MONTH","month (name of the months)","MONTH",1370
 "475-ECLIPSE","moon eclipse","ECLIPSE",2285
 "476-STAR","star","STAR",1430
-"477-NA","earth (globe)",NA,NA
-"478-NA","rain",NA,NA
-"479-NA","cloud",NA,NA
-"480-NA","rainbow",NA,NA
-"481-NA","thunder",NA,NA
+"477-WORLD","earth (globe)","WORLD",965
+"478-RAINING OR RAIN","rain","RAINING OR RAIN",2108
+"479-CLOUD","cloud","CLOUD",1489
+"480-RAINBOW","rainbow","RAINBOW",1733
+"481-THUNDER","thunder","THUNDER",1150
 "482-NA","thunderstone",NA,NA
-"483-NA","earthquake",NA,NA
-"484-NA","wind",NA,NA
-"485-NA","storm",NA,NA
-"486-NA","water",NA,NA
-"487-NA","sea",NA,NA
-"488-NA","ebb",NA,NA
-"489-NA","flood, tide",NA,NA
-"490-NA","wave",NA,NA
-"491-NA","breakers, surf",NA,NA
-"492-NA","bay",NA,NA
-"493-NA","beach",NA,NA
-"494-NA","strait(s)",NA,NA
+"483-EARTHQUAKE","earthquake","EARTHQUAKE",6
+"484-WIND","wind","WIND",960
+"485-STORM","storm","STORM",858
+"486-WATER","water","WATER",948
+"487-SEA","sea","SEA",1474
+"488-CEASE","ebb","CEASE",1928
+"489-HIGH TIDE","flood, tide","HIGH TIDE",613
+"490-WAVE","wave","WAVE",978
+"491-SURF","breakers, surf","SURF",3132
+"492-BAY","bay","BAY",663
+"493-BEACH","beach","BEACH",3460
+"494-STRAIT","strait(s)","STRAIT",1661
 "495-NA","sandbank",NA,NA
 "496-NA","coral reef",NA,NA
 "497-NA","land",NA,NA
@@ -848,18 +848,18 @@
 "847-EARRING","earclip","EARRING",770
 "848-WAR","war","WAR",935
 "849-NA","population",NA,NA
-"850-NA","fence, hedge",NA,NA
+"850-FENCE","fence, hedge","FENCE",1690
 "851-NA","Morinda atrocarpus",NA,NA
-"852-NA","bark",NA,NA
-"853-NA","betel",NA,NA
-"854-NA","wing",NA,NA
-"855-NA","cat",NA,NA
+"852-BARK","bark","BARK",1204
+"853-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
+"854-WING","wing","WING",1257
+"855-CAT","cat","CAT",1208
 "856-MOSQUITO","mosquito","MOSQUITO",1509
 "857-BUTTERFLY","butterfly","BUTTERFLY",1791
 "858-CATERPILLAR","caterpillar","CATERPILLAR",2247
 "859-FROG","frog","FROG",503
 "860-SUNRISE","sunrise","SUNRISE",2296
-"861-NA","earthquake",NA,NA
+"861-EARTHQUAKE","earthquake","EARTHQUAKE",6
 "862-NA","earth (ground)",NA,NA
 "863-NA","sand",NA,NA
 "864-NA","price",NA,NA
