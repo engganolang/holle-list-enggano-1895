@@ -494,68 +494,68 @@
 "493-BEACH","beach","BEACH",3460
 "494-STRAIT","strait(s)","STRAIT",1661
 "495-NA","sandbank",NA,NA
-"496-NA","coral reef",NA,NA
-"497-NA","land",NA,NA
-"498-NA","land (state)",NA,NA
-"499-NA","island",NA,NA
+"496-REEF","coral reef","REEF",660
+"497-LAND","land","LAND",626
+"498-COUNTRY","land (state)","COUNTRY",1300
+"499-ISLAND","island","ISLAND",622
 "500-NA","isthmus",NA,NA
-"501-NA","cape",NA,NA
-"502-NA","mountain",NA,NA
-"503-NA","hill",NA,NA
-"504-NA","plain",NA,NA
-"505-NA","valley",NA,NA
-"506-NA","forest, woods",NA,NA
-"507-NA","bush",NA,NA
-"508-NA","way, road",NA,NA
-"509-NA","border, boundary",NA,NA
-"510-NA","river",NA,NA
-"511-NA","river",NA,NA
-"512-NA","spring, source",NA,NA
-"513-NA","flood",NA,NA
-"514-NA","stone",NA,NA
-"515-NA","earth (ground)",NA,NA
-"516-NA","sand",NA,NA
-"517-NA","iron",NA,NA
-"518-NA","copper",NA,NA
-"519-NA","silver",NA,NA
-"520-NA","tin",NA,NA
-"521-NA","lead",NA,NA
-"522-NA","sulphur",NA,NA
-"523-NA","gift, present",NA,NA
-"524-NA","to make peace",NA,NA
-"525-NA","to sign a treaty",NA,NA
-"526-NA","merchant",NA,NA
-"527-NA","farmer",NA,NA
+"501-CAPE","cape","CAPE",1662
+"502-MOUNTAIN","mountain","MOUNTAIN",639
+"503-HILL","hill","HILL",614
+"504-PLAIN","plain","PLAIN",652
+"505-VALLEY","valley","VALLEY",921
+"506-FOREST","forest, woods","FOREST",420
+"507-BUSH","bush","BUSH",1683
+"508-PATH OR ROAD","way, road","PATH OR ROAD",2457
+"509-BORDER","border, boundary","BORDER",2546
+"510-RIVER","river","RIVER",666
+"511-RIVER","river","RIVER",666
+"512-SPRING (OF WATER)","spring, source","SPRING (OF WATER)",849
+"513-HIGH TIDE","flood","HIGH TIDE",613
+"514-STONE","stone","STONE",857
+"515-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
+"516-SAND","sand","SAND",671
+"517-IRON","iron","IRON",621
+"518-COPPER","copper","COPPER",1825
+"519-SILVER","silver","SILVER",759
+"520-TIN (METAL)","tin","TIN (METAL)",893
+"521-LEAD (CHEMICAL ELEMENT)","lead","LEAD (CHEMICAL ELEMENT)",627
+"522-SULPHUR","sulphur","SULPHUR",3386
+"523-GIFT","gift, present","GIFT",2982
+"524-PEACE","to make peace","PEACE",1338
+"525-AGREEMENT","to sign a treaty","AGREEMENT",3644
+"526-MERCHANT","merchant","MERCHANT",1082
+"527-FARMER","farmer","FARMER",979
 "528-NA","follower",NA,NA
-"529-NA","ally",NA,NA
-"530-NA","to trade",NA,NA
-"531-NA","merchandise",NA,NA
-"532-NA","price",NA,NA
-"533-NA","profit",NA,NA
+"529-COMPANION","ally","COMPANION",3978
+"530-TRADE","to trade","TRADE",898
+"531-MERCHANDISE","merchandise","MERCHANDISE",3406
+"532-PRICE","price","PRICE",657
+"533-BENEFIT","profit","BENEFIT",2929
 "534-NA","loss",NA,NA
-"535-NA","to buy",NA,NA
-"536-NA","expensive",NA,NA
-"537-NA","cheap",NA,NA
-"538-NA","debt",NA,NA
-"539-NA","to dun",NA,NA
-"540-NA","to pay",NA,NA
-"541-NA","to sell",NA,NA
+"535-BUY","to buy","BUY",1869
+"536-EXPENSIVE","expensive","EXPENSIVE",1426
+"537-CHEAP","cheap","CHEAP",1887
+"538-DEBT","debt","DEBT",1914
+"539-GATHER","to dun","GATHER",7
+"540-PAY","to pay","PAY",718
+"541-SELL","to sell","SELL",1571
 "542-NA","borrow",NA,NA
-"543-NA","to exchange",NA,NA
-"544-NA","to offer",NA,NA
+"543-EXCHANGE","to exchange","EXCHANGE",2509
+"544-DONATE","to offer","DONATE",196
 "545-NA","to bargain",NA,NA
-"546-NA","steelyard, weigh-beam",NA,NA
+"546-STEELYARD (BALANCE)","steelyard, weigh-beam","STEELYARD (BALANCE)",2687
 "547-NA","a pair of scales",NA,NA
 "548-NA","measures and weights (length)",NA,NA
 "549-NA","weights and measures",NA,NA
 "550-NA","ship",NA,NA
 "551-NA","steamboat",NA,NA
 "552-NA","rowboat",NA,NA
-"553-NA","proa, canoe",NA,NA
-"554-NA","mast",NA,NA
-"555-NA","to sail",NA,NA
-"556-NA","rudder, helm",NA,NA
-"557-NA","oar, paddle",NA,NA
+"553-CANOE","proa, canoe","CANOE",1970
+"554-MAST","mast","MAST",184
+"555-SAIL","to sail","SAIL",787
+"556-RUDDER","rudder, helm","RUDDER",108
+"557-OAR OR PADDLE","oar, paddle","OAR OR PADDLE",3318
 "558-NA","paddle",NA,NA
 "559-NA","to paddle",NA,NA
 "560-NA","to row, to pull",NA,NA
@@ -682,39 +682,39 @@
 "681-NA","to depart",NA,NA
 "682-NA","to hit (to beat, to slap, etc.)",NA,NA
 "683-NA","to take revenge",NA,NA
-"684-NA","one",NA,NA
-"685-NA","two",NA,NA
-"686-NA","three",NA,NA
-"687-NA","four",NA,NA
-"688-NA","five",NA,NA
-"689-NA","six",NA,NA
-"690-NA","seven",NA,NA
-"691-NA","eight",NA,NA
-"692-NA","nine",NA,NA
-"693-NA","ten",NA,NA
-"694-NA","eleven",NA,NA
-"695-NA","twelve",NA,NA
-"696-NA","thirteen",NA,NA
-"697-NA","fourteen",NA,NA
-"698-NA","fifteen",NA,NA
-"699-NA","sixteen",NA,NA
-"700-NA","seventeen",NA,NA
-"701-NA","eighteen",NA,NA
-"702-NA","nineteen",NA,NA
-"703-NA","twenty",NA,NA
-"704-NA","twenty one",NA,NA
-"705-NA","twenty five",NA,NA
-"706-NA","thirty",NA,NA
+"684-ONE","one","ONE",1493
+"685-TWO","two","TWO",1498
+"686-THREE","three","THREE",492
+"687-FOUR","four","FOUR",1500
+"688-FIVE","five","FIVE",493
+"689-SIX","six","SIX",1703
+"690-SEVEN","seven","SEVEN",1704
+"691-EIGHT","eight","EIGHT",1705
+"692-NINE","nine","NINE",1483
+"693-TEN","ten","TEN",1515
+"694-ELEVEN","eleven","ELEVEN",1706
+"695-TWELVE","twelve","TWELVE",1707
+"696-THIRTEEN","thirteen","THIRTEEN",1708
+"697-FOURTEEN","fourteen","FOURTEEN",2451
+"698-FIFTEEN","fifteen","FIFTEEN",1709
+"699-SIXTEEN","sixteen","SIXTEEN",2454
+"700-SEVENTEEN","seventeen","SEVENTEEN",2453
+"701-EIGHTEEN","eighteen","EIGHTEEN",1713
+"702-NINETEEN","nineteen","NINETEEN",1714
+"703-TWENTY","twenty","TWENTY",1710
+"704-TWENTY ONE","twenty one","TWENTY ONE",1734
+"705-TWENTY FIVE","twenty five","TWENTY FIVE",1738
+"706-THIRTY","thirty","THIRTY",1715
 "707-NA","fourty",NA,NA
-"708-NA","fifty",NA,NA
-"709-NA","sixty",NA,NA
-"710-NA","hundred",NA,NA
-"711-NA","thousand",NA,NA
-"712-NA","ten thousand",NA,NA
-"713-NA","a half",NA,NA
+"708-FIFTY","fifty","FIFTY",1717
+"709-SIXTY","sixty","SIXTY",1718
+"710-HUNDRED","hundred","HUNDRED",1634
+"711-THOUSAND","thousand","THOUSAND",1843
+"712-TEN THOUSAND","ten thousand","TEN THOUSAND",2078
+"713-HALF","a half","HALF",816
 "714-NA","a quarter",NA,NA
 "715-NA","once",NA,NA
-"716-NA","twice",NA,NA
+"716-TWICE","twice","TWICE",1546
 "717-NA","the first",NA,NA
 "718-NA","the second",NA,NA
 "719-NA","the last",NA,NA
@@ -860,11 +860,11 @@
 "859-FROG","frog","FROG",503
 "860-SUNRISE","sunrise","SUNRISE",2296
 "861-EARTHQUAKE","earthquake","EARTHQUAKE",6
-"862-NA","earth (ground)",NA,NA
-"863-NA","sand",NA,NA
-"864-NA","price",NA,NA
-"865-NA","expensive",NA,NA
-"866-NA","to exchange",NA,NA
+"862-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
+"863-SAND","sand","SAND",671
+"864-PRICE","price","PRICE",657
+"865-EXPENSIVE","expensive","EXPENSIVE",1426
+"866-EXCHANGE","to exchange","EXCHANGE",2509
 "867-NA","broad",NA,NA
 "868-NA","good",NA,NA
 "869-NA","full",NA,NA
