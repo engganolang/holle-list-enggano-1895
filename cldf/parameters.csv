@@ -545,143 +545,143 @@
 "544-DONATE","to offer","DONATE",196
 "545-NA","to bargain",NA,NA
 "546-STEELYARD (BALANCE)","steelyard, weigh-beam","STEELYARD (BALANCE)",2687
-"547-NA","a pair of scales",NA,NA
-"548-NA","measures and weights (length)",NA,NA
+"547-SCALES (MEASURE INSTRUMENT)","a pair of scales","SCALES (MEASURE INSTRUMENT)",2783
+"548-LENGTH","measures and weights (length)","LENGTH",2537
 "549-NA","weights and measures",NA,NA
 "550-NA","ship",NA,NA
-"551-NA","steamboat",NA,NA
-"552-NA","rowboat",NA,NA
+"551-BOAT","steamboat","BOAT",1844
+"552-BOAT","rowboat","BOAT",1844
 "553-CANOE","proa, canoe","CANOE",1970
 "554-MAST","mast","MAST",184
 "555-SAIL","to sail","SAIL",787
 "556-RUDDER","rudder, helm","RUDDER",108
 "557-OAR OR PADDLE","oar, paddle","OAR OR PADDLE",3318
-"558-NA","paddle",NA,NA
-"559-NA","to paddle",NA,NA
-"560-NA","to row, to pull",NA,NA
-"561-NA","anchor",NA,NA
-"562-NA","harbour",NA,NA
+"558-PADDLE","paddle","PADDLE",234
+"559-PADDLE (MOVEMENT)","to paddle","PADDLE (MOVEMENT)",3668
+"560-ROW","to row, to pull","ROW",1849
+"561-ANCHOR","anchor","ANCHOR",1870
+"562-PORT","harbour","PORT",610
 "563-NA","to be wrecked",NA,NA
-"564-NA","great, big",NA,NA
-"565-NA","small",NA,NA
-"566-NA","long (things)",NA,NA
-"567-NA","long (time)",NA,NA
-"568-NA","short (things)",NA,NA
-"569-NA","short (time)",NA,NA
-"570-NA","big, fat",NA,NA
-"571-NA","thick",NA,NA
-"572-NA","thick",NA,NA
-"573-NA","thin",NA,NA
-"574-NA","thin, meagre, skinny",NA,NA
+"564-BIG","great, big","BIG",1202
+"565-SMALL","small","SMALL",1246
+"566-LONG","long (things)","LONG",1203
+"567-FOR A LONG TIME","long (time)","FOR A LONG TIME",418
+"568-SHORT","short (things)","SHORT",1645
+"569-SHORT (TIME)","short (time)","SHORT (TIME)",3312
+"570-FAT (OBESE)","big, fat","FAT (OBESE)",1279
+"571-THICK","thick","THICK",1244
+"572-THICK","thick","THICK",1244
+"573-FINE OR THIN","thin","FINE OR THIN",2157
+"574-THIN (SLIM)","thin, meagre, skinny","THIN (SLIM)",1400
 "575-NA","far",NA,NA
-"576-NA","slim",NA,NA
+"576-THIN (SLIM)","slim","THIN (SLIM)",1400
 "577-NA","dwarf",NA,NA
 "578-NA","deep",NA,NA
 "579-NA","shallow",NA,NA
-"580-NA","high",NA,NA
-"581-NA","low",NA,NA
-"582-NA","straight",NA,NA
-"583-NA","crooked, bent",NA,NA
-"584-NA","flat",NA,NA
-"585-NA","light",NA,NA
-"586-NA","slanting, sloping",NA,NA
-"587-NA","sharp",NA,NA
-"588-NA","blunt",NA,NA
-"589-NA","hard",NA,NA
-"590-NA","weak",NA,NA
+"580-HIGH OR TALL","high","HIGH OR TALL",2790
+"581-LOW","low","LOW",721
+"582-STRAIGHT","straight","STRAIGHT",1404
+"583-CROOKED","crooked, bent","CROOKED",297
+"584-THIN (OF SHAPE OF OBJECT)","flat","THIN (OF SHAPE OF OBJECT)",2249
+"585-LIGHT (WEIGHT)","light","LIGHT (WEIGHT)",1052
+"586-SLANTED","slanting, sloping","SLANTED",3075
+"587-SHARP","sharp","SHARP",1396
+"588-BLUNT","blunt","BLUNT",379
+"589-HARD","hard","HARD",1884
+"590-WEAK","weak","WEAK",1601
 "591-NA","hot",NA,NA
 "592-NA","cold",NA,NA
 "593-NA","round",NA,NA
-"594-NA","square",NA,NA
-"595-NA","broad",NA,NA
-"596-NA","small",NA,NA
-"597-NA","narrow",NA,NA
-"598-NA","wide",NA,NA
-"599-NA","strong",NA,NA
-"600-NA","weak",NA,NA
-"601-NA","dry",NA,NA
-"602-NA","wet",NA,NA
-"603-NA","good",NA,NA
-"604-NA","bad",NA,NA
+"594-SQUARE","square","SQUARE",850
+"595-BROAD","broad","BROAD",2531
+"596-SMALL","small","SMALL",1246
+"597-NARROW","narrow","NARROW",1267
+"598-WIDE","wide","WIDE",1243
+"599-STRONG","strong","STRONG",785
+"600-WEAK","weak","WEAK",1601
+"601-DRY","dry","DRY",1398
+"602-WET","wet","WET",1726
+"603-GOOD","good","GOOD",1035
+"604-BAD","bad","BAD",1292
 "605-NA","nice",NA,NA
 "606-NA","ugly",NA,NA
-"607-NA","empty",NA,NA
-"608-NA","full",NA,NA
+"607-EMPTY","empty","EMPTY",1624
+"608-FULL","full","FULL",1429
 "609-NA","fixed",NA,NA
 "610-NA","loose",NA,NA
-"611-NA","old",NA,NA
-"612-NA","old, worn",NA,NA
-"613-NA","young",NA,NA
-"614-NA","new",NA,NA
-"615-NA","poor",NA,NA
-"616-NA","wealthy",NA,NA
-"617-NA","dumb",NA,NA
-"618-NA","clever",NA,NA
+"611-OLD","old","OLD",1229
+"612-OLD (USED)","old, worn","OLD (USED)",2113
+"613-YOUNG","young","YOUNG",1207
+"614-NEW","new","NEW",1231
+"615-POOR","poor","POOR",1674
+"616-RICH","wealthy","RICH",712
+"617-DUMB","dumb","DUMB",1492
+"618-CLEVER","clever","CLEVER",1310
 "619-NA","sweet",NA,NA
-"620-NA","sour",NA,NA
-"621-NA","bitter",NA,NA
-"622-NA","astringent",NA,NA
-"623-NA","salty",NA,NA
-"624-NA","white",NA,NA
-"625-NA","black",NA,NA
-"626-NA","red",NA,NA
-"627-NA","brown",NA,NA
-"628-NA","yellow",NA,NA
-"629-NA","blue",NA,NA
-"630-NA","green",NA,NA
-"631-NA","to look for",NA,NA
-"632-NA","to find",NA,NA
-"633-NA","to give",NA,NA
-"634-NA","to take",NA,NA
-"635-NA","to get",NA,NA
-"636-NA","to know",NA,NA
-"637-NA","to think",NA,NA
-"638-NA","to know",NA,NA
-"639-NA","to remember",NA,NA
-"640-NA","to have forgotten something",NA,NA
-"641-NA","to deny",NA,NA
-"642-NA","to confess",NA,NA
-"643-NA","to be silent",NA,NA
-"644-NA","to mumble",NA,NA
-"645-NA","to speak",NA,NA
-"646-NA","to sing",NA,NA
-"647-NA","to call",NA,NA
-"648-NA","to be able to",NA,NA
-"649-NA","to work",NA,NA
-"650-NA","to shoulder",NA,NA
-"651-NA","to carry on the head",NA,NA
+"620-SOUR","sour","SOUR",1906
+"621-BITTER","bitter","BITTER",887
+"622-ASTRINGENT","astringent","ASTRINGENT",3837
+"623-SALTY","salty","SALTY",1091
+"624-WHITE","white","WHITE",1335
+"625-BLACK","black","BLACK",163
+"626-RED","red","RED",156
+"627-BROWN","brown","BROWN",2409
+"628-YELLOW","yellow","YELLOW",1424
+"629-BLUE","blue","BLUE",837
+"630-GREEN","green","GREEN",1425
+"631-LOOK FOR","to look for","LOOK FOR",1468
+"632-FIND","to find","FIND",719
+"633-GIVE","to give","GIVE",1447
+"634-TAKE","to take","TAKE",1749
+"635-GET","to get","GET",694
+"636-KNOW","to know","KNOW",3626
+"637-THINK","to think","THINK",2271
+"638-KNOW (SOMETHING)","to know","KNOW (SOMETHING)",1410
+"639-REMEMBER","to remember","REMEMBER",707
+"640-FORGET","to have forgotten something","FORGET",1523
+"641-DENY","to deny","DENY",755
+"642-ADMIT","to confess","ADMIT",2022
+"643-BE SILENT","to be silent","BE SILENT",48
+"644-MUMBLE","to mumble","MUMBLE",128
+"645-SPEAK","to speak","SPEAK",1623
+"646-SING","to sing","SING",1261
+"647-CALL","to call","CALL",1084
+"648-BE ABLE","to be able to","BE ABLE",972
+"649-WORK (ACTIVITY)","to work","WORK (ACTIVITY)",1086
+"650-CARRY ON SHOULDER","to shoulder","CARRY ON SHOULDER",413
+"651-CARRY ON HEAD","to carry on the head","CARRY ON HEAD",414
 "652-NA","to carry something hanging from the hand",NA,NA
 "653-NA","to carry on the hip",NA,NA
-"654-NA","to carry on the back",NA,NA
+"654-CARRY ON BACK","to carry on the back","CARRY ON BACK",465
 "655-NA","to watch, to guard",NA,NA
 "656-NA","to spy",NA,NA
-"657-NA","to love",NA,NA
-"658-NA","to hate",NA,NA
-"659-NA","jealous",NA,NA
+"657-LOVE","to love","LOVE",923
+"658-HATE","to hate","HATE",1607
+"659-JEALOUS","jealous","JEALOUS",2821
 "660-NA","wish, want, want something",NA,NA
-"661-NA","to open",NA,NA
-"662-NA","to close",NA,NA
-"663-NA","to hit, to touch",NA,NA
-"664-NA","broken (a stick)",NA,NA
-"665-NA","broken (rope)",NA,NA
-"666-NA","shattered",NA,NA
+"661-OPEN","to open","OPEN",1156
+"662-SHUT","to close","SHUT",1046
+"663-HIT","to hit, to touch","HIT",1433
+"664-BROKEN","broken (a stick)","BROKEN",588
+"665-BROKEN","broken (rope)","BROKEN",588
+"666-BROKEN (SHATTERED)","shattered","BROKEN (SHATTERED)",3191
 "667-NA","to start",NA,NA
 "668-NA","to end",NA,NA
-"669-NA","to bind, to tie",NA,NA
+"669-TIE","to bind, to tie","TIE",1917
 "670-NA","to hide",NA,NA
-"671-NA","to ask",NA,NA
-"672-NA","to answer",NA,NA
-"673-NA","to ask for",NA,NA
-"674-NA","to refuse",NA,NA
-"675-NA","to cheat, to deceive",NA,NA
-"676-NA","to burn (tr.)",NA,NA
-"677-NA","to burn (intr.)",NA,NA
+"671-ASK (INQUIRE)","to ask","ASK (INQUIRE)",1309
+"672-ANSWER","to answer","ANSWER",1275
+"673-ASK (REQUEST)","to ask for","ASK (REQUEST)",1828
+"674-REFUSE","to refuse","REFUSE",49
+"675-DECEIVE","to cheat, to deceive","DECEIVE",3230
+"676-BURN (SOMETHING)","to burn (tr.)","BURN (SOMETHING)",141
+"677-BURNING","to burn (intr.)","BURNING",1428
 "678-NA","to burn",NA,NA
-"679-NA","to dig",NA,NA
-"680-NA","to arrive",NA,NA
-"681-NA","to depart",NA,NA
-"682-NA","to hit (to beat, to slap, etc.)",NA,NA
-"683-NA","to take revenge",NA,NA
+"679-DIG","to dig","DIG",1418
+"680-ARRIVE","to arrive","ARRIVE",1387
+"681-LEAVE","to depart","LEAVE",1752
+"682-STRIKE OR BEAT","to hit (to beat, to slap, etc.)","STRIKE OR BEAT",2133
+"683-REVENGE","to take revenge","REVENGE",495
 "684-ONE","one","ONE",1493
 "685-TWO","two","TWO",1498
 "686-THREE","three","THREE",492
@@ -705,7 +705,7 @@
 "704-TWENTY ONE","twenty one","TWENTY ONE",1734
 "705-TWENTY FIVE","twenty five","TWENTY FIVE",1738
 "706-THIRTY","thirty","THIRTY",1715
-"707-NA","fourty",NA,NA
+"707-FORTY","fourty","FORTY",1716
 "708-FIFTY","fifty","FIFTY",1717
 "709-SIXTY","sixty","SIXTY",1718
 "710-HUNDRED","hundred","HUNDRED",1634
@@ -713,167 +713,168 @@
 "712-TEN THOUSAND","ten thousand","TEN THOUSAND",2078
 "713-HALF","a half","HALF",816
 "714-NA","a quarter",NA,NA
-"715-NA","once",NA,NA
+"715-ONE TIME","once","ONE TIME",374
 "716-TWICE","twice","TWICE",1546
 "717-NA","the first",NA,NA
 "718-NA","the second",NA,NA
 "719-NA","the last",NA,NA
-"720-NA","how much, how many",NA,NA
-"721-NA","many, much",NA,NA
-"722-NA","few, a little",NA,NA
+"720-HOW MANY","how much, how many","HOW MANY",822
+"721-MANY","many, much","MANY",1198
+"722-A LITTLE","few, a little","A LITTLE",2924
 "723-NA","more, most",NA,NA
-"724-NA","less",NA,NA
-"725-NA","all",NA,NA
-"726-NA","a few, some",NA,NA
-"727-NA","I",NA,NA
-"728-NA","you (sing.)",NA,NA
-"729-NA","you (pl.)",NA,NA
-"730-NA","you all (excluding those absent)",NA,NA
-"731-NA","he",NA,NA
-"732-NA","we (inclusive)",NA,NA
-"733-NA","we (exclusive)",NA,NA
+"724-FEW","less","FEW",1242
+"725-ALL","all","ALL",98
+"726-FEW","a few, some","FEW",1242
+"727-I","I","I",1209
+"728-THOU","you (sing.)","THOU",1215
+"729-YOU","you (pl.)","YOU",1213
+"730-YOU","you all (excluding those absent)","YOU",1213
+"731-HE","he","HE",1211
+"732-WE (INCLUSIVE)","we (inclusive)","WE (INCLUSIVE)",1131
+"733-WE (EXCLUSIVE)","we (exclusive)","WE (EXCLUSIVE)",1130
 "734-NA","they",NA,NA
 "735-NA","mine",NA,NA
 "736-NA","your",NA,NA
 "737-NA","their",NA,NA
 "738-NA","her, his",NA,NA
-"739-NA","who?",NA,NA
-"740-NA","what?",NA,NA
-"741-NA","which?",NA,NA
-"742-NA","this",NA,NA
+"739-WHO","who?","WHO",1235
+"740-WHAT","what?","WHAT",1236
+"741-WHICH","which?","WHICH",727
+"742-THIS","this","THIS",1214
 "743-NA","that",NA,NA
-"744-NA","here",NA,NA
-"745-NA","there (near hearer)",NA,NA
-"746-NA","early, soon",NA,NA
-"747-NA","late",NA,NA
-"748-NA","day",NA,NA
-"749-NA","day",NA,NA
-"750-NA","day",NA,NA
-"751-NA","day",NA,NA
-"752-NA","day",NA,NA
-"753-NA","day",NA,NA
-"754-NA","day",NA,NA
-"755-NA","day",NA,NA
-"756-NA","daylight",NA,NA
-"757-NA","light",NA,NA
-"758-NA","night (time of the night)",NA,NA
-"759-NA","monsoon",NA,NA
-"760-NA","monsoon",NA,NA
-"761-NA","now",NA,NA
-"762-NA","shortly",NA,NA
-"763-NA","now, at present",NA,NA
-"764-NA","formerly",NA,NA
+"744-HERE","here","HERE",136
+"745-THERE","there (near hearer)","THERE",1937
+"746-EARLY","early, soon","EARLY",672
+"747-BE LATE","late","BE LATE",425
+"748-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"749-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"750-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"751-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"752-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"753-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"754-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"755-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"756-DAY (NOT NIGHT)","daylight","DAY (NOT NIGHT)",1225
+"757-LIGHT (RADIATION)","light","LIGHT (RADIATION)",630
+"758-NIGHT","night (time of the night)","NIGHT",1233
+"759-SEASON","monsoon","SEASON",691
+"760-SEASON","monsoon","SEASON",691
+"761-NOW","now","NOW",1376
+"762-SOON","shortly","SOON",703
+"763-NOW OR TODAY","now, at present","NOW OR TODAY",2097
+"764-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
 "765-NA","before",NA,NA
-"766-NA","formerly",NA,NA
-"767-NA","a moment ago",NA,NA
-"768-NA","yesterday",NA,NA
-"769-NA","the day before yesterday",NA,NA
-"770-NA","today",NA,NA
-"771-NA","tomorrow",NA,NA
-"772-NA","the day after tomorrow",NA,NA
-"773-NA","now and then, occasionally",NA,NA
-"774-NA","when",NA,NA
-"775-NA","already",NA,NA
-"776-NA","not yet",NA,NA
-"777-NA","not yet",NA,NA
-"778-NA","left",NA,NA
-"779-NA","right",NA,NA
-"780-NA","up, upper, above",NA,NA
-"781-NA","from above",NA,NA
-"782-NA","under",NA,NA
-"783-NA","from underneath",NA,NA
-"784-NA","from-to",NA,NA
-"785-NA","below, beneath",NA,NA
-"786-NA","from",NA,NA
-"787-INSIDE","in, inside","INSIDE",1606
-"788-OUTSIDE","out, outside","OUTSIDE",762
-"789-NEAR","nearby","NEAR",1942
-"790-FAR","far","FAR",1406
-"791-NA","around, surrounding",NA,NA
-"792-MANY","many","MANY",1198
-"793-WHERE","where","WHERE",1237
-"794-HOW","how","HOW",1239
-"795-SIMILAR","like this, like that","SIMILAR",1558
-"796-WHY","why","WHY",1270
-"797-CERTAIN","certainly, sure","CERTAIN",509
-"798-PERHAPS","maybe","PERHAPS",2278
-"799-AND","and","AND",1577
-"800-WITH","with","WITH",1340
-"801-NO","no","NO",1269
-"802-YES","yes","YES",1268
-"803-NO OR NOT","not, no","NO OR NOT",2279
-"804-NA","not",NA,NA
-"805-YES","yes, right, indeed","YES",1268
-"806-ONLY","only","ONLY",1580
-"807-NA","almost",NA,NA
-"808-NO OR NOT","no, not a, none","NO OR NOT",2279
-"809-HEAD","head","HEAD",1256
-"810-FACE","face","FACE",1560
-"811-EAR","ear","EAR",1247
-"812-EYE","eye","EYE",1248
-"813-NA","breasts",NA,NA
-"814-SHOUT","to shout","SHOUT",715
-"815-LAUGH","to laugh","LAUGH",1355
-"816-YAWN","to yawn","YAWN",1028
-"817-WOUND","wound","WOUND",1109
-"818-SCAR","scar","SCAR",497
-"819-BLIND","blind","BLIND",1653
-"820-FATHER","father","FATHER",1217
-"821-MOTHER","mother","MOTHER",1216
-"822-NA","to have forgotten something",NA,NA
-"823-CHEEK","cheek","CHEEK",1730
-"824-LIP","lips","LIP",478
-"825-BEARD","beard","BEARD",678
-"826-NAVEL","navel","NAVEL",1838
-"827-CALF OF LEG","calf","CALF OF LEG",498
-"828-ARMPIT","armpit","ARMPIT",1886
-"829-ELBOW","elbow","ELBOW",981
-"830-PALM OF HAND","palm of the hand","PALM OF HAND",1183
-"831-NA","hair",NA,NA
-"832-FULL","satisfied","FULL",1429
-"833-SNEEZE","to sneeze","SNEEZE",1621
-"834-SICK","ill","SICK",1847
-"835-MUTE PERSON","mute","MUTE PERSON",2320
-"836-DEAF PERSON","deaf","DEAF PERSON",458
-"837-COUNTRY","country","COUNTRY",1300
-"838-FINE (PENALTY)","fine","FINE (PENALTY)",218
-"839-DIVORCE (SEPARATE)","to divorce","DIVORCE (SEPARATE)",3672
-"840-HOUSE","house","HOUSE",1252
-"841-PILLOW","cylindrical bolster","PILLOW",1044
-"842-FIREPLACE","hearth, fireplace","FIREPLACE",185
-"843-FIREWOOD","fire wood","FIREWOOD",10
-"844-SMALL KNIFE","dagger","SMALL KNIFE",3233
-"845-WARDROBE","case for cloth","WARDROBE",3106
-"846-GRANARY","rice barn","GRANARY",3657
-"847-EARRING","earclip","EARRING",770
-"848-WAR","war","WAR",935
-"849-NA","population",NA,NA
-"850-FENCE","fence, hedge","FENCE",1690
-"851-NA","Morinda atrocarpus",NA,NA
-"852-BARK","bark","BARK",1204
-"853-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
-"854-WING","wing","WING",1257
-"855-CAT","cat","CAT",1208
-"856-MOSQUITO","mosquito","MOSQUITO",1509
-"857-BUTTERFLY","butterfly","BUTTERFLY",1791
-"858-CATERPILLAR","caterpillar","CATERPILLAR",2247
-"859-FROG","frog","FROG",503
-"860-SUNRISE","sunrise","SUNRISE",2296
-"861-EARTHQUAKE","earthquake","EARTHQUAKE",6
-"862-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
-"863-SAND","sand","SAND",671
-"864-PRICE","price","PRICE",657
-"865-EXPENSIVE","expensive","EXPENSIVE",1426
-"866-EXCHANGE","to exchange","EXCHANGE",2509
-"867-NA","broad",NA,NA
-"868-NA","good",NA,NA
-"869-NA","full",NA,NA
-"870-NA","loose",NA,NA
-"871-NA","to think",NA,NA
-"872-NA","to work",NA,NA
-"873-NA","first (in space)",NA,NA
-"874-NA","how much, how many",NA,NA
-"875-NA","a moment",NA,NA
-"876-NA","the day after tomorrow",NA,NA
-"877-NA","left",NA,NA
-"878-NA","right",NA,NA
+"766-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
+"767-ONCE (IN THE PAST)","a moment ago","ONCE (IN THE PAST)",2914
+"768-YESTERDAY","yesterday","YESTERDAY",1174
+"769-DAY BEFORE YESTERDAY","the day before yesterday","DAY BEFORE YESTERDAY",1180
+"770-TODAY","today","TODAY",1283
+"771-TOMORROW","tomorrow","TOMORROW",1329
+"772-DAY AFTER TOMORROW","the day after tomorrow","DAY AFTER TOMORROW",1179
+"773-SOMETIMES","now and then, occasionally","SOMETIMES",1544
+"774-WHEN","when","WHEN",1238
+"775-ALREADY","already","ALREADY",2576
+"776-YET","not yet","YET",2577
+"777-YET","not yet","YET",2577
+"778-LEFT","left","LEFT",244
+"779-RIGHT","right","RIGHT",1019
+"780-UP OR ABOVE","up, upper, above","UP OR ABOVE",2379
+"781-HIGH","up, upper, above","HIGH",1265
+"782-ABOVE","from above","ABOVE",1741
+"783-BELOW OR UNDER","under","BELOW OR UNDER",1485
+"784-BELOW OR UNDER","from underneath","BELOW OR UNDER",1485
+"785-NA","from-to",NA,NA
+"786-BELOW OR UNDER","below, beneath","BELOW OR UNDER",1485
+"787-FROM","from","FROM",693
+"788-INSIDE","in, inside","INSIDE",1606
+"789-OUTSIDE","out, outside","OUTSIDE",762
+"790-NEAR","nearby","NEAR",1942
+"791-FAR","far","FAR",1406
+"792-NA","around, surrounding",NA,NA
+"793-MANY","many","MANY",1198
+"794-WHERE","where","WHERE",1237
+"795-HOW","how","HOW",1239
+"796-SIMILAR","like this, like that","SIMILAR",1558
+"797-WHY","why","WHY",1270
+"798-CERTAIN","certainly, sure","CERTAIN",509
+"799-PERHAPS","maybe","PERHAPS",2278
+"800-AND","and","AND",1577
+"801-WITH","with","WITH",1340
+"802-NO","no","NO",1269
+"803-YES","yes","YES",1268
+"804-NO OR NOT","not, no","NO OR NOT",2279
+"805-NA","not",NA,NA
+"806-YES","yes, right, indeed","YES",1268
+"807-ONLY","only","ONLY",1580
+"808-NA","almost",NA,NA
+"809-NO OR NOT","no, not a, none","NO OR NOT",2279
+"810-HEAD","head","HEAD",1256
+"811-FACE","face","FACE",1560
+"812-EAR","ear","EAR",1247
+"813-EYE","eye","EYE",1248
+"814-NA","breasts",NA,NA
+"815-SHOUT","to shout","SHOUT",715
+"816-LAUGH","to laugh","LAUGH",1355
+"817-YAWN","to yawn","YAWN",1028
+"818-WOUND","wound","WOUND",1109
+"819-SCAR","scar","SCAR",497
+"820-BLIND","blind","BLIND",1653
+"821-FATHER","father","FATHER",1217
+"822-MOTHER","mother","MOTHER",1216
+"823-FORGET","to have forgotten something","FORGET",1523
+"824-CHEEK","cheek","CHEEK",1730
+"825-LIP","lips","LIP",478
+"826-BEARD","beard","BEARD",678
+"827-NAVEL","navel","NAVEL",1838
+"828-CALF OF LEG","calf","CALF OF LEG",498
+"829-ARMPIT","armpit","ARMPIT",1886
+"830-ELBOW","elbow","ELBOW",981
+"831-PALM OF HAND","palm of the hand","PALM OF HAND",1183
+"832-NA","hair",NA,NA
+"833-FULL","satisfied","FULL",1429
+"834-SNEEZE","to sneeze","SNEEZE",1621
+"835-SICK","ill","SICK",1847
+"836-MUTE PERSON","mute","MUTE PERSON",2320
+"837-DEAF PERSON","deaf","DEAF PERSON",458
+"838-COUNTRY","country","COUNTRY",1300
+"839-FINE (PENALTY)","fine","FINE (PENALTY)",218
+"840-DIVORCE (SEPARATE)","to divorce","DIVORCE (SEPARATE)",3672
+"841-HOUSE","house","HOUSE",1252
+"842-PILLOW","cylindrical bolster","PILLOW",1044
+"843-FIREPLACE","hearth, fireplace","FIREPLACE",185
+"844-FIREWOOD","fire wood","FIREWOOD",10
+"845-SMALL KNIFE","dagger","SMALL KNIFE",3233
+"846-WARDROBE","case for cloth","WARDROBE",3106
+"847-GRANARY","rice barn","GRANARY",3657
+"848-EARRING","earclip","EARRING",770
+"849-WAR","war","WAR",935
+"850-NA","population",NA,NA
+"851-FENCE","fence, hedge","FENCE",1690
+"852-NA","Morinda atrocarpus",NA,NA
+"853-BARK","bark","BARK",1204
+"854-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
+"855-WING","wing","WING",1257
+"856-CAT","cat","CAT",1208
+"857-MOSQUITO","mosquito","MOSQUITO",1509
+"858-BUTTERFLY","butterfly","BUTTERFLY",1791
+"859-CATERPILLAR","caterpillar","CATERPILLAR",2247
+"860-FROG","frog","FROG",503
+"861-SUNRISE","sunrise","SUNRISE",2296
+"862-EARTHQUAKE","earthquake","EARTHQUAKE",6
+"863-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
+"864-SAND","sand","SAND",671
+"865-PRICE","price","PRICE",657
+"866-EXPENSIVE","expensive","EXPENSIVE",1426
+"867-EXCHANGE","to exchange","EXCHANGE",2509
+"868-BROAD","broad","BROAD",2531
+"869-GOOD","good","GOOD",1035
+"870-FULL","full","FULL",1429
+"871-LOOSE","loose","LOOSE",2506
+"872-THINK","to think","THINK",2271
+"873-WORK (ACTIVITY)","to work","WORK (ACTIVITY)",1086
+"874-FIRST","first (in space)","FIRST",728
+"875-HOW MANY","how much, how many","HOW MANY",822
+"876-INSTANTLY (IMMEDIATELY)","a moment","INSTANTLY (IMMEDIATELY)",2916
+"877-DAY AFTER TOMORROW","the day after tomorrow","DAY AFTER TOMORROW",1179
+"878-LEFT","left","LEFT",244
+"1-RIGHT","right","RIGHT",1019
