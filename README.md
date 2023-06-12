@@ -35,9 +35,6 @@ been [digitised by
 Rajeg](https://engganolang.github.io/digitised-holle-list/)
 ([2023](#ref-rajeg2023)).
 
-**NOTES**: *The mapping of the English gloss with the Concepticon
-concept sets is a work-in-progress!*
-
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
