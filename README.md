@@ -11,6 +11,23 @@ Rajeg](https://www.ling-phil.ox.ac.uk/people/gede-rajeg)
 [![CLDF
 validation](https://github.com/engganolang/holle-list-enggano-1895/workflows/CLDF-validation/badge.svg)](https://github.com/engganolang/holle-list-enggano-1895/actions?query=workflow%3ACLDF-validation)
 
+[<img
+src="https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/file-oxweb-logo.gif"
+width="84" alt="The University of Oxford" />](https://www.ox.ac.uk/)
+[<img
+src="https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/file-lingphil.png"
+width="83"
+alt="Faculty of Linguistics, Philology and Phonetics, the University of Oxford" />](https://www.ling-phil.ox.ac.uk/)
+[<img
+src="https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/file-ahrc.png"
+width="325" alt="Arts and Humanities Research Council (AHRC)" />](https://www.ukri.org/councils/ahrc/)
+</br>*This work is part of the [AHRC-funded
+project](https://gtr.ukri.org/project/8AB0C3DC-F1C9-4CFA-BB4D-5BE748213372)
+on the lexical resources for Enggano, led by the Faculty of Linguistics,
+Philology and Phonetics at the University of Oxford, UK. Visit the
+[central webpage of the Enggano
+project](https://enggano.ling-phil.ox.ac.uk/)*.
+
 <!-- badges: end -->
 
 ## How to cite
