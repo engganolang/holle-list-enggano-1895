@@ -6,7 +6,7 @@
         }
     ],
     "dc:source": "sources.bib",
-    "dc:title": "Enggano wordlist in Stokhof and Almanar (1987) by Gede Primahadi Wijaya Rajeg",
+    "dc:title": "CLDF dataset of Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List by Gede Primahadi Wijaya Rajeg",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "prov:wasDerivedFrom": [
         {
