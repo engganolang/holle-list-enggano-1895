@@ -5,8 +5,15 @@
             "@language": "en"
         }
     ],
+    "dc:creator": [
+        "Gede Primahadi Wijaya Rajeg"
+    ],
+    "dc:identifier": "https://github.com/engganolang/holle-list-enggano-1895",
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset of Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List by Gede Primahadi Wijaya Rajeg",
+    "dc:description": "Repository for the digitised Enggano word list from the late 19th century (c1895) based on the Holle List.",
+    "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dc:title": "CLDF dataset of the Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List by Gede Primahadi Wijaya Rajeg",
+    "dc:bibliographicCitation": "Rajeg, Gede Primahadi Wijaya. (2023). CLDF dataset of the Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8038974.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "prov:wasDerivedFrom": [
         {
