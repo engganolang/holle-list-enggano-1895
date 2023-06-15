@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  CLDF dataset of Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List
+  CLDF dataset of the Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List
 message: 'Cite this data set as follows:'
 type: dataset
 authors:
@@ -18,7 +18,10 @@ identifiers:
   - type: url
     value: 'https://github.com/engganolang/holle-list-enggano-1895'
     description: GitHub repository
-url: 'https://github.com/engganolang/holle-list-enggano-1895'
+  - type: doi
+    value: 10.5281/zenodo.8038974
+    description: The DOI for all versions
+repository-code: 'https://github.com/engganolang/holle-list-enggano-1895'
 keywords:
   - Enggano
   - Holle List
