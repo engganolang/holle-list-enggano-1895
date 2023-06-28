@@ -33,4 +33,6 @@ Cite the contents of this repository as:
 
 This repository [@rajeg2023a] contains processed, digitised word list of the late-19^th^ century Enggano (collected in c1895 by Abs vd Noord) that appears in Stokhof and Almanar's [-@1885-144589] Holle List. The repository also provides the R codes to process the raw word list into tabular format that conforms to the specification of the Wordlist module in the [Cross-Linguistic Data Formats (CLDF)](https://cldf.clld.org/) [@forkel2018]. The tabular format is generated via combining the raw Enggano word list data with the main, new basic list (NBL) of the Holle List in Stockhof [-@holleli1980]. The NBL has been [digitised by Rajeg](https://engganolang.github.io/digitised-holle-list/) [-@rajeg2023].
 
+The repository is also available at the Oxford Research Archive (ORA) <a href="https://ora.ox.ac.uk/objects/uuid:070e5dd2-512f-4c2b-812d-f24bb944a81f" target="_blank">via this link</a>.
+
 ## References

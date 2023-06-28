@@ -55,6 +55,10 @@ has been [digitised by
 Rajeg](https://engganolang.github.io/digitised-holle-list/)
 ([2023a](#ref-rajeg2023)).
 
+The repository is also available at the Oxford Research Archive (ORA)
+<a href="https://ora.ox.ac.uk/objects/uuid:070e5dd2-512f-4c2b-812d-f24bb944a81f" target="_blank">via
+this link</a>.
+
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
