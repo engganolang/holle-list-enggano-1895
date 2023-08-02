@@ -55,8 +55,8 @@ tb <- tb |>
 
 # read the translated data & integrate with the main table ====
 now_translated <- readxl::read_xlsx("data-raw/no-translation-now-translated.xlsx")
-tb$English[is.na(tb$English)] <- now_translated$English
-tb$Indonesian[is.na(tb$Indonesian)] <- now_translated$Indonesian
+tb$English[is.na(tb$English)] <- now_translated$English[which(now_translated$id %in% pull(filter(tb, is.na(English)), id))]
+tb$Indonesian[is.na(tb$Indonesian)] <- now_translated$Indonesian[which(now_translated$id %in% pull(filter(tb, is.na(Indonesian)), id))]
 
 tb <- tb |> 
   select(id, form, Dutch, English, Indonesian, 
@@ -87,6 +87,11 @@ tb <- tb |>
   left_join(concepticon_checked |> 
               rename(id = Index)) |> 
   mutate(Parameter_ID = paste(1:nrow(tb), "-", Concepticon_Gloss, sep = ""))
+
+## save the items with NAs Concepticon Gloss and ID =====
+# tb |>
+#   filter(is.na(Concepticon_Gloss)) |>
+#   write_csv(file = "data-raw/NA-concepticon-gloss.csv")
 
 # CLDF - prepare CLDF FormTable =====
 cldf_form <- tb |> 
