@@ -74,7 +74,7 @@
 "73-FLESH OR MEAT","flesh","FLESH OR MEAT",2615
 "74-TENDON","tendon","TENDON",1137
 "75-SKIN","skin","SKIN",763
-"76-NA","its",NA,NA
+"76-HAIR","hair","HAIR",1040
 "77-SWEAT (SUBSTANCE)","sweat","SWEAT (SUBSTANCE)",125
 "78-SALIVA","saliva","SALIVA",1503
 "79-BREATH OR BREATHE","to breath","BREATH OR BREATHE",3183
@@ -84,7 +84,7 @@
 "83-THIRSTY","thirsty","THIRSTY",847
 "84-SWALLOW","to swallow","SWALLOW",897
 "85-SLEEP","to sleep","SLEEP",1585
-"86-NA","dream",NA,NA
+"86-DREAMING OR DREAM","dream","DREAMING OR DREAM",2455
 "87-STAND","to stand","STAND",1442
 "88-WALK","to walk","WALK",1443
 "89-WALK","to walk","WALK",1443
@@ -156,8 +156,8 @@
 "155-NAME","nickname","NAME",1405
 "156-MALE PERSON","man","MALE PERSON",2106
 "157-WOMAN","woman","WOMAN",962
-"158-NA","male",NA,NA
-"159-NA","female",NA,NA
+"158-MALE","male","MALE",1553
+"159-FEMALE","female","FEMALE",1551
 "160-NA","virgin, virginity",NA,NA
 "161-BOY OR SON","boy, lad","BOY OR SON",2391
 "162-GIRL","girl","GIRL",1646
@@ -165,7 +165,7 @@
 "164-FATHER","father","FATHER",1217
 "165-MOTHER","mother","MOTHER",1216
 "166-MOTHER","mother","MOTHER",1216
-"167-NA","child",NA,NA
+"167-CHILD","child","CHILD",2099
 "168-SON","son","SON",1620
 "169-DAUGHTER","daughter","DAUGHTER",1357
 "170-GRANDFATHER","grandfather","GRANDFATHER",1383
@@ -176,8 +176,8 @@
 "175-NA","elder brother, elder sister",NA,NA
 "176-NA","younger brother, younger sister",NA,NA
 "177-GRANDCHILD","grandchild","GRANDCHILD",1617
-"178-NA","uncle",NA,NA
-"179-NA","aunt",NA,NA
+"178-UNCLE","uncle","UNCLE",1327
+"179-AUNT","aunt","AUNT",1272
 "180-NA","cousin, niece",NA,NA
 "181-SON-IN-LAW","son-in-law","SON-IN-LAW",1056
 "182-DAUGHTER-IN-LAW","daughter-in-law","DAUGHTER-IN-LAW",1057
@@ -217,7 +217,7 @@
 "216-FINE (PENALTY)","fine","FINE (PENALTY)",218
 "217-WITNESS","witness","WITNESS",1144
 "218-FUNERAL","funeral ceremony","FUNERAL",3336
-"219-NA","marry, marriage",NA,NA
+"219-MARRIAGE OR WEDDING","marry, marriage","MARRIAGE OR WEDDING",3182
 "220-DIVORCE (SEPARATE)","to divorce","DIVORCE (SEPARATE)",3672
 "221-BRIDE PRICE","bride price","BRIDE PRICE",3024
 "222-GIVE BIRTH","to give birth to","GIVE BIRTH",1195
@@ -230,13 +230,13 @@
 "229-HOUSE","house","HOUSE",1252
 "230-HUT","hut, shelter","HUT",1678
 "231-ROOF","roof","ROOF",769
-"232-NA","roofing",NA,NA
+"232-ROOF","roofing","ROOF",769
 "233-NA","roofing sirap",NA,NA
 "234-DOOR","door","DOOR",1567
 "235-WINDOW","window","WINDOW",1375
 "236-STAIRS","staircase, steps","STAIRS",34
 "237-LADDER","ladder","LADDER",1464
-"238-NA","floor",NA,NA
+"238-FLOOR","floor","FLOOR",1632
 "239-NA","enclosure",NA,NA
 "240-COLUMN","main posts","COLUMN",2045
 "241-COLUMN","ceiling beams","COLUMN",2045
@@ -288,16 +288,16 @@
 "287-WARDROBE","case for cloth","WARDROBE",3106
 "288-POT","pot, jar","POT",1462
 "289-COOK (SOMETHING)","to cook (in pot)","COOK (SOMETHING)",1100
-"290-NA","to cook",NA,NA
+"290-COOK (SOMETHING)","to cook","COOK (SOMETHING)",1100
 "291-BAKE","to bake, to grill, to fry","BAKE",183
 "292-ROAST (SOMETHING)","to roast (in ashes)","ROAST (SOMETHING)",1962
 "293-ROAST (SOMETHING)","to grill, to roast","ROAST (SOMETHING)",1962
 "294-FOOD","food","FOOD",256
 "295-NA","provisions",NA,NA
 "296-FLESH OR MEAT","meat (raw)","FLESH OR MEAT",2615
-"297-NA","meat",NA,NA
+"297-FLESH OR MEAT","meat","FLESH OR MEAT",2615
 "298-FISH","fish","FISH",227
-"299-NA","rice (husked raw rice, cooked rice)",NA,NA
+"299-RICE","rice (husked raw rice, cooked rice)","RICE",926
 "300-MORTAR","rice pounder, mortar","MORTAR",224
 "301-GRINDSTONE","pounder","GRINDSTONE",2459
 "302-GRIND","to grind","GRIND",1033
@@ -348,11 +348,11 @@
 "347-HOE","hoe","HOE",284
 "348-GARDEN","garden","GARDEN",586
 "349-FENCE","fence, hedge","FENCE",1690
-"350-NA","sow",NA,NA
+"350-SOW SEEDS","sow","SOW SEEDS",748
 "351-TREAD","to thresh with the feet","TREAD",575
 "352-RIPE","ripe","RIPE",178
 "353-UNRIPE","unripe","UNRIPE",1958
-"354-NA","harvest",NA,NA
+"354-HARVEST","harvest","HARVEST",611
 "355-MAIZE","maize, corn","MAIZE",506
 "356-BEAN","beans","BEAN",832
 "357-BEAN","bean","BEAN",832
@@ -376,7 +376,7 @@
 "375-MANGO","mango","MANGO",2398
 "376-JACKFRUIT","Artocarpus integrifolia, Jack fruit","JACKFRUIT",2655
 "377-NA","Durio zibethinus",NA,NA
-"378-NA","banana",NA,NA
+"378-BANANA","banana","BANANA",868
 "379-GRAPE","grape fruit","GRAPE",920
 "380-LEMON","lemon","LEMON",3091
 "381-NA","Morinda atrocarpus",NA,NA
@@ -388,10 +388,10 @@
 "387-TREE","tree","TREE",906
 "388-TREE","tree","TREE",906
 "389-TREE","tree","TREE",906
-"390-NA","branch",NA,NA
+"390-BRANCH","branch","BRANCH",1531
 "391-ROOT","main root, taproot","ROOT",670
 "392-ROOT","side-root","ROOT",670
-"393-NA","root",NA,NA
+"393-ROOT","root","ROOT",670
 "394-LEAF","leaf","LEAF",628
 "395-BARK","bark","BARK",1204
 "396-SAP","sap","SAP",345
@@ -540,7 +540,7 @@
 "539-GATHER","to dun","GATHER",7
 "540-PAY","to pay","PAY",718
 "541-SELL","to sell","SELL",1571
-"542-NA","borrow",NA,NA
+"542-BORROW","borrow","BORROW",1823
 "543-EXCHANGE","to exchange","EXCHANGE",2509
 "544-DONATE","to offer","DONATE",196
 "545-NA","to bargain",NA,NA
@@ -548,7 +548,7 @@
 "547-SCALES (MEASURE INSTRUMENT)","a pair of scales","SCALES (MEASURE INSTRUMENT)",2783
 "548-LENGTH","measures and weights (length)","LENGTH",2537
 "549-NA","weights and measures",NA,NA
-"550-NA","ship",NA,NA
+"550-SHIP","ship","SHIP",740
 "551-BOAT","steamboat","BOAT",1844
 "552-BOAT","rowboat","BOAT",1844
 "553-CANOE","proa, canoe","CANOE",1970
@@ -573,11 +573,11 @@
 "572-THICK","thick","THICK",1244
 "573-FINE OR THIN","thin","FINE OR THIN",2157
 "574-THIN (SLIM)","thin, meagre, skinny","THIN (SLIM)",1400
-"575-NA","far",NA,NA
+"575-FAR","far","FAR",1406
 "576-THIN (SLIM)","slim","THIN (SLIM)",1400
 "577-NA","dwarf",NA,NA
-"578-NA","deep",NA,NA
-"579-NA","shallow",NA,NA
+"578-DEEP","deep","DEEP",1593
+"579-SHALLOW","shallow","SHALLOW",193
 "580-HIGH OR TALL","high","HIGH OR TALL",2790
 "581-LOW","low","LOW",721
 "582-STRAIGHT","straight","STRAIGHT",1404
@@ -589,9 +589,9 @@
 "588-BLUNT","blunt","BLUNT",379
 "589-HARD","hard","HARD",1884
 "590-WEAK","weak","WEAK",1601
-"591-NA","hot",NA,NA
-"592-NA","cold",NA,NA
-"593-NA","round",NA,NA
+"591-HOT OR WARM","hot","HOT OR WARM",2272
+"592-COLD","cold","COLD",1287
+"593-ROUND","round","ROUND",1395
 "594-SQUARE","square","SQUARE",850
 "595-BROAD","broad","BROAD",2531
 "596-SMALL","small","SMALL",1246
@@ -603,12 +603,12 @@
 "602-WET","wet","WET",1726
 "603-GOOD","good","GOOD",1035
 "604-BAD","bad","BAD",1292
-"605-NA","nice",NA,NA
-"606-NA","ugly",NA,NA
+"605-GOOD","nice","GOOD",1035
+"606-UGLY","ugly","UGLY",1548
 "607-EMPTY","empty","EMPTY",1624
 "608-FULL","full","FULL",1429
 "609-NA","fixed",NA,NA
-"610-NA","loose",NA,NA
+"610-LOOSE","loose","LOOSE",2506
 "611-OLD","old","OLD",1229
 "612-OLD (USED)","old, worn","OLD (USED)",2113
 "613-YOUNG","young","YOUNG",1207
@@ -617,7 +617,7 @@
 "616-RICH","wealthy","RICH",712
 "617-DUMB","dumb","DUMB",1492
 "618-CLEVER","clever","CLEVER",1310
-"619-NA","sweet",NA,NA
+"619-SWEET","sweet","SWEET",717
 "620-SOUR","sour","SOUR",1906
 "621-BITTER","bitter","BITTER",887
 "622-ASTRINGENT","astringent","ASTRINGENT",3837
@@ -653,22 +653,22 @@
 "652-NA","to carry something hanging from the hand",NA,NA
 "653-NA","to carry on the hip",NA,NA
 "654-CARRY ON BACK","to carry on the back","CARRY ON BACK",465
-"655-NA","to watch, to guard",NA,NA
+"655-GUARD","to watch, to guard","GUARD",1940
 "656-NA","to spy",NA,NA
 "657-LOVE","to love","LOVE",923
 "658-HATE","to hate","HATE",1607
 "659-JEALOUS","jealous","JEALOUS",2821
-"660-NA","wish, want, want something",NA,NA
+"660-DESIRE","wish, want, want something","DESIRE",2117
 "661-OPEN","to open","OPEN",1156
 "662-SHUT","to close","SHUT",1046
 "663-HIT","to hit, to touch","HIT",1433
 "664-BROKEN","broken (a stick)","BROKEN",588
 "665-BROKEN","broken (rope)","BROKEN",588
 "666-BROKEN (SHATTERED)","shattered","BROKEN (SHATTERED)",3191
-"667-NA","to start",NA,NA
-"668-NA","to end",NA,NA
+"667-START","to start","START",3449
+"668-CEASE OR FINISH","to end","CEASE OR FINISH",2115
 "669-TIE","to bind, to tie","TIE",1917
-"670-NA","to hide",NA,NA
+"670-HIDE (CONCEAL)","to hide","HIDE (CONCEAL)",602
 "671-ASK (INQUIRE)","to ask","ASK (INQUIRE)",1309
 "672-ANSWER","to answer","ANSWER",1275
 "673-ASK (REQUEST)","to ask for","ASK (REQUEST)",1828
@@ -676,7 +676,7 @@
 "675-DECEIVE","to cheat, to deceive","DECEIVE",3230
 "676-BURN (SOMETHING)","to burn (tr.)","BURN (SOMETHING)",141
 "677-BURNING","to burn (intr.)","BURNING",1428
-"678-NA","to burn",NA,NA
+"678-BURN (SOMETHING)","to burn","BURN (SOMETHING)",141
 "679-DIG","to dig","DIG",1418
 "680-ARRIVE","to arrive","ARRIVE",1387
 "681-LEAVE","to depart","LEAVE",1752
@@ -715,9 +715,9 @@
 "714-NA","a quarter",NA,NA
 "715-ONE TIME","once","ONE TIME",374
 "716-TWICE","twice","TWICE",1546
-"717-NA","the first",NA,NA
-"718-NA","the second",NA,NA
-"719-NA","the last",NA,NA
+"717-FIRST","the first","FIRST",728
+"718-SECOND","the second","SECOND",1384
+"719-LAST (FINAL)","the last","LAST (FINAL)",1529
 "720-HOW MANY","how much, how many","HOW MANY",822
 "721-MANY","many, much","MANY",1198
 "722-A LITTLE","few, a little","A LITTLE",2924
@@ -732,16 +732,16 @@
 "731-HE","he","HE",1211
 "732-WE (INCLUSIVE)","we (inclusive)","WE (INCLUSIVE)",1131
 "733-WE (EXCLUSIVE)","we (exclusive)","WE (EXCLUSIVE)",1130
-"734-NA","they",NA,NA
-"735-NA","mine",NA,NA
-"736-NA","your",NA,NA
-"737-NA","their",NA,NA
-"738-NA","her, his",NA,NA
+"734-THEY","they","THEY",817
+"735-MY","mine","MY",2090
+"736-YOUR (SINGULAR)","your","YOUR (SINGULAR)",732
+"737-THEIR","their","THEIR",2400
+"738-HIS OR HER","her, his","HIS OR HER",2092
 "739-WHO","who?","WHO",1235
 "740-WHAT","what?","WHAT",1236
 "741-WHICH","which?","WHICH",727
 "742-THIS","this","THIS",1214
-"743-NA","that",NA,NA
+"743-THAT","that","THAT",78
 "744-HERE","here","HERE",136
 "745-THERE","there (near hearer)","THERE",1937
 "746-EARLY","early, soon","EARLY",672
@@ -763,7 +763,7 @@
 "762-SOON","shortly","SOON",703
 "763-NOW OR TODAY","now, at present","NOW OR TODAY",2097
 "764-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
-"765-NA","before",NA,NA
+"765-BEFORE","before","BEFORE",1882
 "766-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
 "767-ONCE (IN THE PAST)","a moment ago","ONCE (IN THE PAST)",2914
 "768-YESTERDAY","yesterday","YESTERDAY",1174
@@ -802,7 +802,7 @@
 "801-NO","no","NO",1269
 "802-YES","yes","YES",1268
 "803-NO OR NOT","not, no","NO OR NOT",2279
-"804-NA","not",NA,NA
+"804-NO OR NOT","not","NO OR NOT",2279
 "805-YES","yes, right, indeed","YES",1268
 "806-ONLY","only","ONLY",1580
 "807-NA","almost",NA,NA
@@ -811,7 +811,7 @@
 "810-FACE","face","FACE",1560
 "811-EAR","ear","EAR",1247
 "812-EYE","eye","EYE",1248
-"813-NA","breasts",NA,NA
+"813-BREAST","breasts","BREAST",1402
 "814-SHOUT","to shout","SHOUT",715
 "815-LAUGH","to laugh","LAUGH",1355
 "816-YAWN","to yawn","YAWN",1028
@@ -829,7 +829,7 @@
 "828-ARMPIT","armpit","ARMPIT",1886
 "829-ELBOW","elbow","ELBOW",981
 "830-PALM OF HAND","palm of the hand","PALM OF HAND",1183
-"831-NA","hair",NA,NA
+"831-HAIR","hair","HAIR",1040
 "832-FULL","satisfied","FULL",1429
 "833-SNEEZE","to sneeze","SNEEZE",1621
 "834-SICK","ill","SICK",1847
