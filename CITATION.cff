@@ -4,23 +4,23 @@
 cff-version: 1.2.0
 title: >-
   CLDF dataset of the Enggano word list from 1895 in Stokhof and Almanar’s (1987) Holle List
-message: 'Cite this data set as follows:'
+message: 'If you use this dataset, please cite it as shown in the README on its GitHub repository'
 type: dataset
 authors:
   - given-names: Gede Primahadi Wijaya
     family-names: Rajeg
     email: primahadi_wijaya@unud.ac.id
     affiliation: >-
-      University of Oxford, UK and Universitas Udayana,
+      University of Oxford & Udayana University,
       Indonesia
     orcid: 'https://orcid.org/0000-0002-2047-8621'
 identifiers:
   - type: url
-    value: 'https://ora.ox.ac.uk/objects/uuid:070e5dd2-512f-4c2b-812d-f24bb944a81f'
-    description: Oxford Research Archive (ORA)
+    value: 'https://portal.sds.ox.ac.uk/articles/dataset/CLDF_dataset_of_the_Enggano_word_list_from_1895_in_Stokhof_and_Almanar_s_1987_Holle_List/23515788'
+    description: University of Oxford's Sustainable Digital Scholarship (SDS)
   - type: doi
-    value: 10.5281/zenodo.8038974
-    description: The DOI for all versions
+    value: 10.25446/oxford.23515788.v2
+    description: The DOI for v1.1.0 on GitHub repository
 repository-code: 'https://github.com/engganolang/holle-list-enggano-1895'
 keywords:
   - Enggano
@@ -28,5 +28,9 @@ keywords:
   - Lexical database
   - Cross-Linguistic Data Format
   - CLDF
+  - Austronesian
+  - Digital Humanities
+  - Legacy Material
+  - Old Enggano
 license: CC-BY-SA-4.0
-date-released: '2023-06-06'
+date-released: '2023-08-02'
