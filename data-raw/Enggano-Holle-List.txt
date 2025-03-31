@@ -882,7 +882,7 @@
 23.	<n><eno>èjobie, eapoeha, èafauje, pakoehoeĕ</eno></n>
 24.	<n><eno>pakamai, fakamai, kaoekaoe</eno></n>
 25.	<n><eno>fedjie kiēēbārā</eno></n> ; <n><eno>fedjie kikoedŏtiĕ</eno></n>
-26. <n><eno>è oenèkè</eno></n> ; <n><eno>kidĕdieĕ</eno></n> ; <n><trans><eng>a larger kind</eng></trans> is: <eno>èŏnŏnie</eno></n> ; <n><trans><eng>with a lid</eng></trans>: <eno>èoenèkè</eno></n> ; <n><trans><eng>without a lid (can be folded up)</eng></trans>: <eno>oraj</eno></n>
+26. <n><eno>è oenèkè</eno></n> ; <n><eno>kidĕdieĕ</eno></n> ; <n><trans><eng>a larger kind (than "kidĕdieĕ" [GPWR])</eng></trans> is: <eno>èŏnŏnie</eno></n> ; <n><trans><eng>with a lid</eng></trans>: <eno>èoenèkè</eno></n> ; <n><trans><eng>without a lid (can be folded up)</eng></trans>: <eno>oraj</eno></n>
 27.	<n><eno>kioedŏ</eno> (<trans><idn>daoen klapa</idn></trans>)</n> ; <n><trans><eng>made from the spathe of the coconut tree</eng></trans>: <eno>pĕkak</eno></n>
 28.	<n><eno>enoho(k)</eno>: <trans><idn>ikan</idn></trans></n>
 29.	<n><eno>èēja(k), bakèkèk, pakakak</eno></n>
