@@ -195,7 +195,7 @@ mediaTable <- img_files_tb |>
   mutate(Media_Type = "image/png") |> 
   rename(Name = notes_eno) |> 
   # mutate(Name = "krandjang") |> 
-  mutate(Download_URL = str_c("../", img, sep = "")) |> 
+  mutate(Download_URL = str_c("https://github.com/engganolang/holle-list-enggano-1895/blob/main/", img, sep = "")) |> 
   select(-img) |> 
   relocate(ID, .before = Name)
 
