@@ -1,879 +1,1187 @@
 ﻿"ID","Name","Concepticon_Gloss","Concepticon_ID"
 "1-BODY","body","BODY",1480
-"2-HEAD","head","HEAD",1256
-"3-FACE","face","FACE",1560
-"4-FOREHEAD","forehead","FOREHEAD",123
-"5-SKULL","skull","SKULL",1605
-"6-HAIR","hair","HAIR",1040
-"7-CROWN (OF HEAD)","crown","CROWN (OF HEAD)",1943
-"8-EAR","ear","EAR",1247
-"9-EYE","eye","EYE",1248
-"10-EYEBROW","eyebrow","EYEBROW",1173
-"11-TEAR (OF EYE)","tear","TEAR (OF EYE)",1651
-"12-NOSE","nose","NOSE",1221
-"13-CHEEK","cheek","CHEEK",1730
-"14-MOUTH","mouth","MOUTH",674
-"15-LIP","lips","LIP",478
-"16-MOUSTACHE","moustache","MOUSTACHE",1165
-"17-BEARD","goatee","BEARD",678
-"18-CHIN","chin","CHIN",1510
-"19-BEARD","beard","BEARD",678
-"20-TONGUE","tongue","TONGUE",1205
-"21-PALATE","palate","PALATE",540
-"22-TOOTH","tooth","TOOTH",1380
-"23-MOLAR TOOTH","molar","MOLAR TOOTH",1049
-"24-GUMS","gums","GUMS",139
-"25-THROAT","throat","THROAT",1346
-"26-NECK","neck","NECK",1333
-"27-NAPE (OF NECK)","nape","NAPE (OF NECK)",1347
-"28-CHEST","chest, breast (male)","CHEST",1592
-"29-BREAST","breasts (female)","BREAST",1402
-"30-NIPPLE","nipple","NIPPLE",796
-"31-BREAST MILK","breast milk","BREAST MILK",3912
-"32-BREAST MILK","breast milk","BREAST MILK",3912
-"33-SUCKLE (BREASTFEED, NURSE)","to suck at the breast","SUCKLE (BREASTFEED, NURSE)",2472
-"34-RIB","rib","RIB",801
-"35-LUNG","lung","LUNG",688
-"36-HEART","heart","HEART",1223
-"37-STOMACH","stomach","STOMACH",819
-"38-BELLY","belly","BELLY",1251
-"39-LIVER","liver","LIVER",1224
-"40-NAVEL","navel","NAVEL",1838
-"41-UMBILICAL CORD","umbilical cord","UMBILICAL CORD",2663
-"42-BACK","back","BACK",1291
-"43-SHOULDERBLADE","shoulderblade","SHOULDERBLADE",172
-"44-BUTTOCKS","buttock","BUTTOCKS",834
-"45-BUTTOCKS","posterior, buttocks","BUTTOCKS",834
-"46-NA","tailbone, coccyx",NA,NA
-"47-SHIT (DEFECATE)","to defecate","SHIT (DEFECATE)",676
-"48-FAECES (EXCREMENT)","faeces","FAECES (EXCREMENT)",675
-"49-FART","to fart","FART",1159
-"50-PENIS","penis","PENIS",1222
-"51-VAGINA","vagina","VAGINA",1836
-"52-PISS","to urinate","PISS",592
-"53-URINE","piss, urine","URINE",1142
-"54-LEG","leg","LEG",1297
-"55-FOOT","foot","FOOT",1301
-"56-SOLE (FOOT)","sole of the foot","SOLE (FOOT)",2666
-"57-ANKLE","ankle","ANKLE",803
-"58-HEEL","heel","HEEL",980
-"59-UPPER LEG (THIGH)","thigh","UPPER LEG (THIGH)",471
-"60-KNEE","knee","KNEE",1371
-"61-CALF OF LEG","calf","CALF OF LEG",498
-"62-ARM","arm","ARM",1673
-"63-HAND","hand","HAND",1277
-"64-ARMPIT","armpit","ARMPIT",1886
-"65-ELBOW","elbow","ELBOW",981
-"66-PALM OF HAND","palm of the hand","PALM OF HAND",1183
-"67-FINGER","fingers","FINGER",1303
-"68-FINGERNAIL OR TOENAIL","(finger)nail","FINGERNAIL OR TOENAIL",1896
-"69-THUMB","thumb","THUMB",1781
-"70-LITTLE FINGER","little finger","LITTLE FINGER",2774
-"71-BONE","bone","BONE",1394
-"72-BLOOD","blood","BLOOD",946
-"73-FLESH OR MEAT","flesh","FLESH OR MEAT",2615
-"74-TENDON","tendon","TENDON",1137
-"75-SKIN","skin","SKIN",763
-"76-HAIR","hair","HAIR",1040
-"77-SWEAT (SUBSTANCE)","sweat","SWEAT (SUBSTANCE)",125
-"78-SALIVA","saliva","SALIVA",1503
-"79-BREATH OR BREATHE","to breath","BREATH OR BREATHE",3183
-"80-EAT","to eat","EAT",1336
-"81-BE HUNGRY","hungry","BE HUNGRY",1533
-"82-DRINK","to drink","DRINK",1401
-"83-THIRSTY","thirsty","THIRSTY",847
-"84-SWALLOW","to swallow","SWALLOW",897
-"85-SLEEP","to sleep","SLEEP",1585
-"86-DREAMING OR DREAM","dream","DREAMING OR DREAM",2455
-"87-STAND","to stand","STAND",1442
-"88-WALK","to walk","WALK",1443
-"89-WALK","to walk","WALK",1443
-"90-WALK","to walk","WALK",1443
-"91-WALK","to walk","WALK",1443
-"92-LIE (REST)","to lie supine","LIE (REST)",1411
-"93-LIE DOWN","to lie prone","LIE DOWN",215
-"94-LIE DOWN","to lie","LIE DOWN",215
-"95-SIT DOWN","to sit (on a chair)","SIT DOWN",1649
-"96-NA","to sit (with the legs crossed)",NA,NA
-"97-SQUAT","to squat","SQUAT",3163
-"98-SWIM","to swim","SWIM",1439
-"99-WASH","to take a bath","WASH",1453
-"100-STUTTER","to stammer","STUTTER",1866
-"101-VOICE","voice","VOICE",1363
-"102-SHOUT","to shout","SHOUT",715
-"103-LAUGH","to laugh","LAUGH",1355
-"104-CRY","to weep","CRY",1839
-"105-SMILE","to smile","SMILE",1451
-"106-NA","to sigh",NA,NA
-"107-SPIT","to spit","SPIT",1440
-"108-SNEEZE","to sneeze","SNEEZE",1621
-"109-COUGH","to cough","COUGH",879
-"110-YAWN","to yawn","YAWN",1028
-"111-NA","to nod",NA,NA
-"112-BE ALIVE","to live (alive)","BE ALIVE",1422
-"113-DIE","to die","DIE",1494
-"114-DEAD","dead","DEAD",1625
-"115-CORPSE","corpse","CORPSE",767
-"116-GRAVE","grave","GRAVE",1773
-"117-KILL","to kill","KILL",1417
-"118-INHERIT","to inherit","INHERIT",3664
-"119-NA","inheritance",NA,NA
-"120-NA","inheritance",NA,NA
-"121-NA","inheritance",NA,NA
-"122-WOUND","wound","WOUND",1109
-"123-INFECTED","an infected wound","INFECTED",548
-"124-SCAR","scar","SCAR",497
-"125-SICK","ill","SICK",1847
-"126-SICK","to be ill","SICK",1847
-"127-HURT (SENSE PAIN)","to (be in) pain","HURT (SENSE PAIN)",2561
-"128-HEALTHY","healthy","HEALTHY",1364
-"129-BOIL (OF SKIN)","boil","BOIL (OF SKIN)",793
-"130-FEVER","fever","FEVER",1534
-"131-NA","stomach ache",NA,NA
-"132-DIARRHEA","diarrhoea","DIARRHEA",1177
-"133-SMALLPOX","small pox","SMALLPOX",1054
-"134-MEASLES","measles","MEASLES",3389
-"135-NA","eruption (of rash)",NA,NA
-"136-NA","framboesia",NA,NA
-"137-HEADACHE","headache","HEADACHE",3625
-"138-NA","rheumatism",NA,NA
-"139-COMMON COLD (DISEASE)","a cold","COMMON COLD (DISEASE)",102
-"140-NA","gone to sleep (limbs)",NA,NA
-"141-NA","cramp",NA,NA
-"142-DISABLED PERSON","paralysed","DISABLED PERSON",3621
-"143-LAME","crippled","LAME",320
-"144-MUTE PERSON","mute","MUTE PERSON",2320
-"145-DEAF PERSON","deaf","DEAF PERSON",458
-"146-BLIND","blind","BLIND",1653
-"147-SQUINT-EYED","squinting","SQUINT-EYED",87
-"148-CURE","cured","CURE",499
-"149-MEDICINE","medicine","MEDICINE",1372
-"150-SHAMAN (FOLK HEALER)","doctor (medicine man)","SHAMAN (FOLK HEALER)",394
-"151-PERSON","man, mankind","PERSON",683
-"152-PEOPLE","people","PEOPLE",789
-"153-PEOPLE","people","PEOPLE",789
-"154-NAME","name","NAME",1405
-"155-NAME","nickname","NAME",1405
-"156-MALE PERSON","man","MALE PERSON",2106
-"157-WOMAN","woman","WOMAN",962
-"158-MALE","male","MALE",1553
-"159-FEMALE","female","FEMALE",1551
-"160-NA","virgin, virginity",NA,NA
-"161-BOY OR SON","boy, lad","BOY OR SON",2391
-"162-GIRL","girl","GIRL",1646
-"163-FATHER","father","FATHER",1217
-"164-FATHER","father","FATHER",1217
-"165-MOTHER","mother","MOTHER",1216
-"166-MOTHER","mother","MOTHER",1216
-"167-CHILD","child","CHILD",2099
-"168-SON","son","SON",1620
-"169-DAUGHTER","daughter","DAUGHTER",1357
-"170-GRANDFATHER","grandfather","GRANDFATHER",1383
-"171-GRANDMOTHER","grandmother","GRANDMOTHER",1496
-"172-ANCESTORS","ancestors","ANCESTORS",1669
-"173-BROTHER","brother","BROTHER",1262
-"174-SISTER","sister","SISTER",1263
-"175-NA","elder brother, elder sister",NA,NA
-"176-NA","younger brother, younger sister",NA,NA
-"177-GRANDCHILD","grandchild","GRANDCHILD",1617
-"178-UNCLE","uncle","UNCLE",1327
-"179-AUNT","aunt","AUNT",1272
-"180-NA","cousin, niece",NA,NA
-"181-SON-IN-LAW","son-in-law","SON-IN-LAW",1056
-"182-DAUGHTER-IN-LAW","daughter-in-law","DAUGHTER-IN-LAW",1057
-"183-STEPSON","stepson","STEPSON",1059
-"184-NA","stepparents",NA,NA
-"185-FAMILY","related","FAMILY",194
-"186-NA","unrelated",NA,NA
-"187-HUSBAND","husband","HUSBAND",1200
-"188-WIFE","wife","WIFE",1199
-"189-COUNTRY","country","COUNTRY",1300
-"190-VILLAGE","main village","VILLAGE",930
-"191-GHOST","ghost","GHOST",1175
-"192-SPIRIT","spirit","SPIRIT",53
-"193-DEMON","evil spirit","DEMON",1973
-"194-NA","soul, spirit (living, dead)",NA,NA
-"195-NA","writing",NA,NA
-"196-PAPER","paper","PAPER",648
-"197-LETTER","letter","LETTER",1612
-"198-BOOK","book","BOOK",963
-"199-NA","history, legend",NA,NA
-"200-POETRY","poem","POETRY",541
-"201-SONG","tune, melody","SONG",1096
-"202-NA","the afterlife",NA,NA
-"203-NA","virtue",NA,NA
-"204-SIN","sin","SIN",2971
-"205-NA","forbidden",NA,NA
-"206-NA","forbidden, taboo",NA,NA
-"207-TEMPLE","holy place","TEMPLE",911
-"208-KING","king","KING",1508
-"209-MINISTER","mantri","MINISTER",486
-"210-PLACE (POSITION)","(sacred) place (held in awe)","PLACE (POSITION)",723
-"211-OLD (AGED)","village elders","OLD (AGED)",2112
-"212-SADNESS","unhappiness","SADNESS",3854
-"213-SLAVE","slave","SLAVE",812
-"214-ADJUDICATE","to judge","ADJUDICATE",1818
-"215-PUNISH","to punish","PUNISH",3649
-"216-FINE (PENALTY)","fine","FINE (PENALTY)",218
-"217-WITNESS","witness","WITNESS",1144
-"218-FUNERAL","funeral ceremony","FUNERAL",3336
-"219-MARRIAGE OR WEDDING","marry, marriage","MARRIAGE OR WEDDING",3182
-"220-DIVORCE (SEPARATE)","to divorce","DIVORCE (SEPARATE)",3672
-"221-BRIDE PRICE","bride price","BRIDE PRICE",3024
-"222-GIVE BIRTH","to give birth to","GIVE BIRTH",1195
-"223-MIDWIFE","midwife","MIDWIFE",3859
-"224-ADULTERY","to commit adultery","ADULTERY",902
-"225-FLUTE","flute","FLUTE",777
-"226-NA","xylophone",NA,NA
-"227-HORN (INSTRUMENT)","horn","HORN (INSTRUMENT)",939
-"228-DANCE","to dance","DANCE",1879
-"229-HOUSE","house","HOUSE",1252
-"230-HUT","hut, shelter","HUT",1678
-"231-ROOF","roof","ROOF",769
-"232-ROOF","roofing","ROOF",769
-"233-NA","roofing sirap",NA,NA
-"234-DOOR","door","DOOR",1567
-"235-WINDOW","window","WINDOW",1375
-"236-STAIRS","staircase, steps","STAIRS",34
-"237-LADDER","ladder","LADDER",1464
-"238-FLOOR","floor","FLOOR",1632
-"239-NA","enclosure",NA,NA
-"240-COLUMN","main posts","COLUMN",2045
-"241-COLUMN","ceiling beams","COLUMN",2045
-"242-BED","bed","BED",1663
-"243-CURTAIN","curtain","CURTAIN",2621
-"244-BEDROOM","sleeping place","BEDROOM",2505
-"245-PILLOW","cylindrical bolster","PILLOW",1044
-"246-MATTRESS","sleeping mat","MATTRESS",105
-"247-PILLOW","pillow","PILLOW",1044
-"248-SOFA","couch","SOFA",3099
-"249-NA","attic, attic rack",NA,NA
-"250-FIREPLACE","hearth, fireplace","FIREPLACE",185
-"251-FIRE","fire","FIRE",221
-"252-FIRE","fire","FIRE",221
-"253-LIGHT (IGNITE)","to make a fire","LIGHT (IGNITE)",737
-"254-EXTINGUISH","to extinguish (with water)","EXTINGUISH",127
-"255-SMOKE (EXHAUST)","smoke","SMOKE (EXHAUST)",778
-"256-ASH","ashes","ASH",646
-"257-FIREWOOD","fire wood","FIREWOOD",10
-"258-LIGHT (IGNITE)","to put on (light)","LIGHT (IGNITE)",737
-"259-EXTINGUISH","to put off (light)","EXTINGUISH",127
-"260-AREA UNDER HOUSE","space under the house","AREA UNDER HOUSE",2632
-"261-CURTAIN","bed curtain","CURTAIN",2621
-"262-BENCH","bench, seat","BENCH",2584
-"263-POT","pot (iron)","POT",1462
-"264-CLAY POT","pot (earthenware)","CLAY POT",2055
-"265-RICE STEAMER","rice kettle (copper)","RICE STEAMER",854
-"266-RICE STEAMER","rice kettle (earthenware)","RICE STEAMER",854
-"267-PLATE","dish","PLATE",480
-"268-CUP","cup","CUP",476
-"269-STORING POT","(tea) pot","STORING POT",3765
-"270-KNIFE","knife","KNIFE",1352
-"271-CLEAVER","chopper","CLEAVER",3067
-"272-CLEAVER","chopper","CLEAVER",3067
-"273-SMALL KNIFE","dagger","SMALL KNIFE",3233
-"274-AXE","axe, hatchet","AXE",677
-"275-SPOON","spoon","SPOON",1378
-"276-LADLE","ladle","LADLE",2657
-"277-BASKET","basket (all sorts of)","BASKET",1539
-"278-BASKET","basket (all sorts of)","BASKET",1539
-"279-BASKET","basket (all sorts of)","BASKET",1539
-"280-BASKET","basket (all sorts of)","BASKET",1539
-"281-BASKET","basket (all sorts of)","BASKET",1539
-"282-LAMP","lamp","LAMP",625
-"283-NA","lamp wick",NA,NA
-"284-TORCH","torch","TORCH",1919
-"285-TORCH","torch","TORCH",1919
-"286-BOX OR CHEST","box, case","BOX OR CHEST",3150
-"287-WARDROBE","case for cloth","WARDROBE",3106
-"288-POT","pot, jar","POT",1462
-"289-COOK (SOMETHING)","to cook (in pot)","COOK (SOMETHING)",1100
-"290-COOK (SOMETHING)","to cook","COOK (SOMETHING)",1100
-"291-BAKE","to bake, to grill, to fry","BAKE",183
-"292-ROAST (SOMETHING)","to roast (in ashes)","ROAST (SOMETHING)",1962
-"293-ROAST (SOMETHING)","to grill, to roast","ROAST (SOMETHING)",1962
-"294-FOOD","food","FOOD",256
-"295-NA","provisions",NA,NA
-"296-FLESH OR MEAT","meat (raw)","FLESH OR MEAT",2615
-"297-FLESH OR MEAT","meat","FLESH OR MEAT",2615
-"298-FISH","fish","FISH",227
-"299-RICE","rice (husked raw rice, cooked rice)","RICE",926
-"300-MORTAR","rice pounder, mortar","MORTAR",224
-"301-GRINDSTONE","pounder","GRINDSTONE",2459
-"302-GRIND","to grind","GRIND",1033
-"303-CAKE","cake","CAKE",2408
-"304-CONGEE","porridge","CONGEE",2049
-"305-PEPPER","black pepper","PEPPER",1385
-"306-SALT","salt","SALT",1274
-"307-SARONG","sarong","SARONG",2413
-"308-TROUSERS","trousers","TROUSERS",809
-"309-NA","kebaya",NA,NA
-"310-COMB","comb","COMB",1475
-"311-RING","ring","RING",1374
-"312-BELT","waist belt/band","BELT",772
-"313-BELT","metal waist band","BELT",772
-"314-NA","band or ring",NA,NA
-"315-EARRING","earclip","EARRING",770
-"316-SHAWL","shawl","SHAWL",2771
-"317-LOINCLOTH","loin cloth","LOINCLOTH",1965
-"318-CLOTH","cotton fabric (local, European)","CLOTH",1616
-"319-SILK","silk","SILK",1641
-"320-CLOTH","flannel","CLOTH",1616
-"321-BRAID (VERB) OR WEAVE (BASKET)","to weave, to plait","BRAID (VERB) OR WEAVE (BASKET)",3294
-"322-SPIN","to twine a rope","SPIN",121
-"323-ROPE","rope","ROPE",1218
-"324-THREAD","thread, yarn","THREAD",1161
-"325-KNOT","to knot, to knit","KNOT",760
-"326-NA","bag or sack",NA,NA
-"327-SWORD","sabre","SWORD",1535
-"328-SPEAR","pike, lance, javelin","SPEAR",945
-"329-BOW","bow","BOW",994
-"330-BOW STRING","bowstring","BOW STRING",2119
-"331-ARROW","arrow","ARROW",977
-"332-SHIELD","shield","SHIELD",1064
-"333-FLAG","flag","FLAG",2623
-"334-CANNON","kind of small cannon","CANNON",3202
-"335-PISTOL","rifle","PISTOL",3881
-"336-GUNPOWDER","gun powder","GUNPOWDER",1798
-"337-BULLET","bullet","BULLET",1114
-"338-SHOOT","to shoot","SHOOT",1172
-"339-WAR","to wage war","WAR",935
-"340-WAR","war","WAR",935
-"341-ENEMY","enemy","ENEMY",1358
-"342-CANNON","cannon","CANNON",3202
-"343-PEACE","peace","PEACE",1338
-"344-FORTRESS","fortification","FORTRESS",1938
-"345-NA","delegate",NA,NA
-"346-DIBBLE STICK","dibble","DIBBLE STICK",3155
-"347-HOE","hoe","HOE",284
-"348-GARDEN","garden","GARDEN",586
-"349-FENCE","fence, hedge","FENCE",1690
-"350-SOW SEEDS","sow","SOW SEEDS",748
-"351-TREAD","to thresh with the feet","TREAD",575
-"352-RIPE","ripe","RIPE",178
-"353-UNRIPE","unripe","UNRIPE",1958
-"354-HARVEST","harvest","HARVEST",611
-"355-MAIZE","maize, corn","MAIZE",506
-"356-BEAN","beans","BEAN",832
-"357-BEAN","bean","BEAN",832
-"358-CUCUMBER","cucumber","CUCUMBER",496
-"359-TOBACCO","tobacco","TOBACCO",974
-"360-SUGAR CANE","sugarcane","SUGAR CANE",146
-"361-SWEET POTATO","species of tuber","SWEET POTATO",159
-"362-TARO","taro","TARO",351
-"363-CHILI PEPPER","red pepper","CHILI PEPPER",919
-"364-COCONUT TREE","coconut (tree)","COCONUT TREE",147
-"365-COCONUT","coconut (other parts of the tree)","COCONUT",970
-"366-COCONUT","coconut (other parts of the tree)","COCONUT",970
-"367-COCONUT","coconut (other parts of the tree)","COCONUT",970
-"368-COCONUT","coconut (other parts of the tree)","COCONUT",970
-"369-SUGAR PALM","sugarpalm, aren tree","SUGAR PALM",3029
-"370-ALCOHOL (FERMENTED DRINK)","palm wine (fermented)","ALCOHOL (FERMENTED DRINK)",404
-"371-ALCOHOL (FERMENTED DRINK)","palmwine","ALCOHOL (FERMENTED DRINK)",404
-"372-NA","nipa palm",NA,NA
-"373-KAPOK TREE","kapok","KAPOK TREE",2499
-"374-PANDANUS","pandanus","PANDANUS",469
-"375-MANGO","mango","MANGO",2398
-"376-JACKFRUIT","Artocarpus integrifolia, Jack fruit","JACKFRUIT",2655
-"377-NA","Durio zibethinus",NA,NA
-"378-BANANA","banana","BANANA",868
-"379-GRAPE","grape fruit","GRAPE",920
-"380-LEMON","lemon","LEMON",3091
-"381-NA","Morinda atrocarpus",NA,NA
-"382-LIME (MATERIAL)","lime","LIME (MATERIAL)",2540
-"383-TURMERIC","Curcuma domestica","TURMERIC",2842
-"384-RATTAN","rattan, cane","RATTAN",2497
-"385-BAMBOO","bamboo","BAMBOO",1927
-"386-BAMBOO SHOOT","bamboo shoot, young sprout","BAMBOO SHOOT",2494
-"387-TREE","tree","TREE",906
-"388-TREE","tree","TREE",906
-"389-TREE","tree","TREE",906
-"390-BRANCH","branch","BRANCH",1531
-"391-ROOT","main root, taproot","ROOT",670
-"392-ROOT","side-root","ROOT",670
-"393-ROOT","root","ROOT",670
-"394-LEAF","leaf","LEAF",628
-"395-BARK","bark","BARK",1204
-"396-SAP","sap","SAP",345
-"397-GUMS","gum","GUMS",139
-"398-BETELNUT","Areca catechu LINN","BETELNUT",217
-"399-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
-"400-SPROUT (SHOOT)","sprout","SPROUT (SHOOT)",3358
-"401-FLOWER","flower","FLOWER",239
-"402-FRUIT","fruit","FRUIT",1507
-"403-SKIN (OF FRUIT)","rind, peel","SKIN (OF FRUIT)",2373
-"404-STONE (OF FRUIT)","pip, stone","STONE (OF FRUIT)",1762
-"405-FLESH","the flesh of the fruit","FLESH",2259
-"406-BUNCH","bunch","BUNCH",1966
-"407-OIL (HYDROPHOBIC LIQUID)","oil","OIL (HYDROPHOBIC LIQUID)",2556
-"408-GRASS","grass","GRASS",606
-"409-WEED","weeds","WEED",3288
-"410-REED","Imperata cylindria (Kunai grass)","REED",659
-"411-REED","Saccharum spontaneum","REED",659
-"412-ANIMAL","animal, beast","ANIMAL",619
-"413-ANIMAL","young of animal (calf, foal, chicken, etc.)","ANIMAL",619
-"414-TAIL","tail","TAIL",1220
-"415-PAW","paw","PAW",2965
-"416-HOOF","hoof","HOOF",152
-"417-CLAW","claw","CLAW",72
-"418-WING","wing","WING",1257
-"419-FEATHER","feather","FEATHER",1201
-"420-NEST","nest","NEST",539
-"421-EGG","egg","EGG",744
-"422-PIG","domesticated pig","PIG",1337
-"423-NA","to grunt",NA,NA
-"424-SHEEP","sheep","SHEEP",1331
-"425-DOG","dog","DOG",2009
-"426-BARKING","to bark","BARKING",1206
-"427-CAT","cat","CAT",1208
-"428-NA","to miaow",NA,NA
-"429-DOVE","pigeon","DOVE",1853
-"430-CHICKEN","hen, chicken","CHICKEN",1318
-"431-ROOSTER","fighting cock","ROOSTER",1511
-"432-PARAKEET","parakeet, budgerigar","PARAKEET",886
-"433-HERON","heron","HERON",758
-"434-EAGLE","kite (bird)","EAGLE",1905
-"435-BIRD","bird","BIRD",937
-"436-BAT","bat","BAT",1793
-"437-BAT","bat","BAT",1793
-"438-MOUSE","mouse","MOUSE",1491
-"439-RAT","rat","RAT",1490
-"440-NET (FOR CATCHING)","net","NET (FOR CATCHING)",2653
-"441-NET (FOR CATCHING)","net","NET (FOR CATCHING)",2653
-"442-FRESHWATER EEL","eel","FRESHWATER EEL",1013
-"443-LOUSE","louse","LOUSE",1392
-"444-LOUSE","louse","LOUSE",1392
-"445-NIT","nit","NIT",267
-"446-FLEA","flea","FLEA",232
-"447-SPIDER","spider","SPIDER",843
-"448-FLY (INSECT)","fly","FLY (INSECT)",1504
-"449-MOSQUITO","mosquito","MOSQUITO",1509
-"450-MOSQUITO","mosquito","MOSQUITO",1509
-"451-BUTTERFLY","butterfly","BUTTERFLY",1791
-"452-CATERPILLAR","caterpillar","CATERPILLAR",2247
-"453-GRASSHOPPER","grasshopper","GRASSHOPPER",607
-"454-ANT","ant","ANT",587
-"455-ANT","ant","ANT",587
-"456-ANT","ant","ANT",587
-"457-ANT","ant","ANT",587
-"458-SNAKE","snake","SNAKE",730
-"459-SNAKE","snake","SNAKE",730
-"460-SNAKE","snake","SNAKE",730
-"461-WORM","worm","WORM",1219
-"462-SHRIMP","shrimp","SHRIMP",2349
-"463-CRAB","crab","CRAB",2348
-"464-SHELL","shell","SHELL",598
-"465-FROG","frog","FROG",503
-"466-LIZARD","lizard","LIZARD",632
-"467-IGUANA","iguana","IGUANA",1578
-"468-CROCODILE","crocodile","CROCODILE",1857
-"469-TORTOISE","tortoise","TORTOISE",895
-"470-TURTLE","turtle","TURTLE",112
-"471-SKY","sky","SKY",1732
-"472-SUN","sun","SUN",1343
-"473-MOON","moon","MOON",1313
-"474-MONTH","month (name of the months)","MONTH",1370
-"475-ECLIPSE","moon eclipse","ECLIPSE",2285
-"476-STAR","star","STAR",1430
-"477-WORLD","earth (globe)","WORLD",965
-"478-RAINING OR RAIN","rain","RAINING OR RAIN",2108
-"479-CLOUD","cloud","CLOUD",1489
-"480-RAINBOW","rainbow","RAINBOW",1733
-"481-THUNDER","thunder","THUNDER",1150
-"482-NA","thunderstone",NA,NA
-"483-EARTHQUAKE","earthquake","EARTHQUAKE",6
-"484-WIND","wind","WIND",960
-"485-STORM","storm","STORM",858
-"486-WATER","water","WATER",948
-"487-SEA","sea","SEA",1474
-"488-CEASE","ebb","CEASE",1928
-"489-HIGH TIDE","flood, tide","HIGH TIDE",613
-"490-WAVE","wave","WAVE",978
-"491-SURF","breakers, surf","SURF",3132
-"492-BAY","bay","BAY",663
-"493-BEACH","beach","BEACH",3460
-"494-STRAIT","strait(s)","STRAIT",1661
-"495-NA","sandbank",NA,NA
-"496-REEF","coral reef","REEF",660
-"497-LAND","land","LAND",626
-"498-COUNTRY","land (state)","COUNTRY",1300
-"499-ISLAND","island","ISLAND",622
-"500-NA","isthmus",NA,NA
-"501-CAPE","cape","CAPE",1662
-"502-MOUNTAIN","mountain","MOUNTAIN",639
-"503-HILL","hill","HILL",614
-"504-PLAIN","plain","PLAIN",652
-"505-VALLEY","valley","VALLEY",921
-"506-FOREST","forest, woods","FOREST",420
-"507-BUSH","bush","BUSH",1683
-"508-PATH OR ROAD","way, road","PATH OR ROAD",2457
-"509-BORDER","border, boundary","BORDER",2546
-"510-RIVER","river","RIVER",666
-"511-RIVER","river","RIVER",666
-"512-SPRING (OF WATER)","spring, source","SPRING (OF WATER)",849
-"513-HIGH TIDE","flood","HIGH TIDE",613
-"514-STONE","stone","STONE",857
-"515-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
-"516-SAND","sand","SAND",671
-"517-IRON","iron","IRON",621
-"518-COPPER","copper","COPPER",1825
-"519-SILVER","silver","SILVER",759
-"520-TIN (METAL)","tin","TIN (METAL)",893
-"521-LEAD (CHEMICAL ELEMENT)","lead","LEAD (CHEMICAL ELEMENT)",627
-"522-SULPHUR","sulphur","SULPHUR",3386
-"523-GIFT","gift, present","GIFT",2982
-"524-PEACE","to make peace","PEACE",1338
-"525-AGREEMENT","to sign a treaty","AGREEMENT",3644
-"526-MERCHANT","merchant","MERCHANT",1082
-"527-FARMER","farmer","FARMER",979
-"528-NA","follower",NA,NA
-"529-COMPANION","ally","COMPANION",3978
-"530-TRADE","to trade","TRADE",898
-"531-MERCHANDISE","merchandise","MERCHANDISE",3406
-"532-PRICE","price","PRICE",657
-"533-BENEFIT","profit","BENEFIT",2929
-"534-NA","loss",NA,NA
-"535-BUY","to buy","BUY",1869
-"536-EXPENSIVE","expensive","EXPENSIVE",1426
-"537-CHEAP","cheap","CHEAP",1887
-"538-DEBT","debt","DEBT",1914
-"539-GATHER","to dun","GATHER",7
-"540-PAY","to pay","PAY",718
-"541-SELL","to sell","SELL",1571
-"542-BORROW","borrow","BORROW",1823
-"543-EXCHANGE","to exchange","EXCHANGE",2509
-"544-DONATE","to offer","DONATE",196
-"545-NA","to bargain",NA,NA
-"546-STEELYARD (BALANCE)","steelyard, weigh-beam","STEELYARD (BALANCE)",2687
-"547-SCALES (MEASURE INSTRUMENT)","a pair of scales","SCALES (MEASURE INSTRUMENT)",2783
-"548-LENGTH","measures and weights (length)","LENGTH",2537
-"549-NA","weights and measures",NA,NA
-"550-SHIP","ship","SHIP",740
-"551-BOAT","steamboat","BOAT",1844
-"552-BOAT","rowboat","BOAT",1844
-"553-CANOE","proa, canoe","CANOE",1970
-"554-MAST","mast","MAST",184
-"555-SAIL","to sail","SAIL",787
-"556-RUDDER","rudder, helm","RUDDER",108
-"557-OAR OR PADDLE","oar, paddle","OAR OR PADDLE",3318
-"558-PADDLE","paddle","PADDLE",234
-"559-PADDLE (MOVEMENT)","to paddle","PADDLE (MOVEMENT)",3668
-"560-ROW","to row, to pull","ROW",1849
-"561-ANCHOR","anchor","ANCHOR",1870
-"562-PORT","harbour","PORT",610
-"563-NA","to be wrecked",NA,NA
-"564-BIG","great, big","BIG",1202
-"565-SMALL","small","SMALL",1246
-"566-LONG","long (things)","LONG",1203
-"567-FOR A LONG TIME","long (time)","FOR A LONG TIME",418
-"568-SHORT","short (things)","SHORT",1645
-"569-SHORT (TIME)","short (time)","SHORT (TIME)",3312
-"570-FAT (OBESE)","big, fat","FAT (OBESE)",1279
-"571-THICK","thick","THICK",1244
-"572-THICK","thick","THICK",1244
-"573-FINE OR THIN","thin","FINE OR THIN",2157
-"574-THIN (SLIM)","thin, meagre, skinny","THIN (SLIM)",1400
-"575-FAR","far","FAR",1406
-"576-THIN (SLIM)","slim","THIN (SLIM)",1400
-"577-NA","dwarf",NA,NA
-"578-DEEP","deep","DEEP",1593
-"579-SHALLOW","shallow","SHALLOW",193
-"580-HIGH OR TALL","high","HIGH OR TALL",2790
-"581-LOW","low","LOW",721
-"582-STRAIGHT","straight","STRAIGHT",1404
-"583-CROOKED","crooked, bent","CROOKED",297
-"584-THIN (OF SHAPE OF OBJECT)","flat","THIN (OF SHAPE OF OBJECT)",2249
-"585-LIGHT (WEIGHT)","light","LIGHT (WEIGHT)",1052
-"586-SLANTED","slanting, sloping","SLANTED",3075
-"587-SHARP","sharp","SHARP",1396
-"588-BLUNT","blunt","BLUNT",379
-"589-HARD","hard","HARD",1884
-"590-WEAK","weak","WEAK",1601
-"591-HOT OR WARM","hot","HOT OR WARM",2272
-"592-COLD","cold","COLD",1287
-"593-ROUND","round","ROUND",1395
-"594-SQUARE","square","SQUARE",850
-"595-BROAD","broad","BROAD",2531
-"596-SMALL","small","SMALL",1246
-"597-NARROW","narrow","NARROW",1267
-"598-WIDE","wide","WIDE",1243
-"599-STRONG","strong","STRONG",785
-"600-WEAK","weak","WEAK",1601
-"601-DRY","dry","DRY",1398
-"602-WET","wet","WET",1726
-"603-GOOD","good","GOOD",1035
-"604-BAD","bad","BAD",1292
-"605-GOOD","nice","GOOD",1035
-"606-UGLY","ugly","UGLY",1548
-"607-EMPTY","empty","EMPTY",1624
-"608-FULL","full","FULL",1429
-"609-NA","fixed",NA,NA
-"610-LOOSE","loose","LOOSE",2506
-"611-OLD","old","OLD",1229
-"612-OLD (USED)","old, worn","OLD (USED)",2113
-"613-YOUNG","young","YOUNG",1207
-"614-NEW","new","NEW",1231
-"615-POOR","poor","POOR",1674
-"616-RICH","wealthy","RICH",712
-"617-DUMB","dumb","DUMB",1492
-"618-CLEVER","clever","CLEVER",1310
-"619-SWEET","sweet","SWEET",717
-"620-SOUR","sour","SOUR",1906
-"621-BITTER","bitter","BITTER",887
-"622-ASTRINGENT","astringent","ASTRINGENT",3837
-"623-SALTY","salty","SALTY",1091
-"624-WHITE","white","WHITE",1335
-"625-BLACK","black","BLACK",163
-"626-RED","red","RED",156
-"627-BROWN","brown","BROWN",2409
-"628-YELLOW","yellow","YELLOW",1424
-"629-BLUE","blue","BLUE",837
-"630-GREEN","green","GREEN",1425
-"631-LOOK FOR","to look for","LOOK FOR",1468
-"632-FIND","to find","FIND",719
-"633-GIVE","to give","GIVE",1447
-"634-TAKE","to take","TAKE",1749
-"635-GET","to get","GET",694
-"636-KNOW","to know","KNOW",3626
-"637-THINK","to think","THINK",2271
-"638-KNOW (SOMETHING)","to know","KNOW (SOMETHING)",1410
-"639-REMEMBER","to remember","REMEMBER",707
-"640-FORGET","to have forgotten something","FORGET",1523
-"641-DENY","to deny","DENY",755
-"642-ADMIT","to confess","ADMIT",2022
-"643-BE SILENT","to be silent","BE SILENT",48
-"644-MUMBLE","to mumble","MUMBLE",128
-"645-SPEAK","to speak","SPEAK",1623
-"646-SING","to sing","SING",1261
-"647-CALL","to call","CALL",1084
-"648-BE ABLE","to be able to","BE ABLE",972
-"649-WORK (ACTIVITY)","to work","WORK (ACTIVITY)",1086
-"650-CARRY ON SHOULDER","to shoulder","CARRY ON SHOULDER",413
-"651-CARRY ON HEAD","to carry on the head","CARRY ON HEAD",414
-"652-NA","to carry something hanging from the hand",NA,NA
-"653-NA","to carry on the hip",NA,NA
-"654-CARRY ON BACK","to carry on the back","CARRY ON BACK",465
-"655-GUARD","to watch, to guard","GUARD",1940
-"656-NA","to spy",NA,NA
-"657-LOVE","to love","LOVE",923
-"658-HATE","to hate","HATE",1607
-"659-JEALOUS","jealous","JEALOUS",2821
-"660-DESIRE","wish, want, want something","DESIRE",2117
-"661-OPEN","to open","OPEN",1156
-"662-SHUT","to close","SHUT",1046
-"663-HIT","to hit, to touch","HIT",1433
-"664-BROKEN","broken (a stick)","BROKEN",588
-"665-BROKEN","broken (rope)","BROKEN",588
-"666-BROKEN (SHATTERED)","shattered","BROKEN (SHATTERED)",3191
-"667-START","to start","START",3449
-"668-CEASE OR FINISH","to end","CEASE OR FINISH",2115
-"669-TIE","to bind, to tie","TIE",1917
-"670-HIDE (CONCEAL)","to hide","HIDE (CONCEAL)",602
-"671-ASK (INQUIRE)","to ask","ASK (INQUIRE)",1309
-"672-ANSWER","to answer","ANSWER",1275
-"673-ASK (REQUEST)","to ask for","ASK (REQUEST)",1828
-"674-REFUSE","to refuse","REFUSE",49
-"675-DECEIVE","to cheat, to deceive","DECEIVE",3230
-"676-BURN (SOMETHING)","to burn (tr.)","BURN (SOMETHING)",141
-"677-BURNING","to burn (intr.)","BURNING",1428
-"678-BURN (SOMETHING)","to burn","BURN (SOMETHING)",141
-"679-DIG","to dig","DIG",1418
-"680-ARRIVE","to arrive","ARRIVE",1387
-"681-LEAVE","to depart","LEAVE",1752
-"682-STRIKE OR BEAT","to hit (to beat, to slap, etc.)","STRIKE OR BEAT",2133
-"683-REVENGE","to take revenge","REVENGE",495
-"684-ONE","one","ONE",1493
-"685-TWO","two","TWO",1498
-"686-THREE","three","THREE",492
-"687-FOUR","four","FOUR",1500
-"688-FIVE","five","FIVE",493
-"689-SIX","six","SIX",1703
-"690-SEVEN","seven","SEVEN",1704
-"691-EIGHT","eight","EIGHT",1705
-"692-NINE","nine","NINE",1483
-"693-TEN","ten","TEN",1515
-"694-ELEVEN","eleven","ELEVEN",1706
-"695-TWELVE","twelve","TWELVE",1707
-"696-THIRTEEN","thirteen","THIRTEEN",1708
-"697-FOURTEEN","fourteen","FOURTEEN",2451
-"698-FIFTEEN","fifteen","FIFTEEN",1709
-"699-SIXTEEN","sixteen","SIXTEEN",2454
-"700-SEVENTEEN","seventeen","SEVENTEEN",2453
-"701-EIGHTEEN","eighteen","EIGHTEEN",1713
-"702-NINETEEN","nineteen","NINETEEN",1714
-"703-TWENTY","twenty","TWENTY",1710
-"704-TWENTY ONE","twenty one","TWENTY ONE",1734
-"705-TWENTY FIVE","twenty five","TWENTY FIVE",1738
-"706-THIRTY","thirty","THIRTY",1715
-"707-FORTY","fourty","FORTY",1716
-"708-FIFTY","fifty","FIFTY",1717
-"709-SIXTY","sixty","SIXTY",1718
-"710-HUNDRED","hundred","HUNDRED",1634
-"711-THOUSAND","thousand","THOUSAND",1843
-"712-TEN THOUSAND","ten thousand","TEN THOUSAND",2078
-"713-HALF","a half","HALF",816
-"714-NA","a quarter",NA,NA
-"715-ONE TIME","once","ONE TIME",374
-"716-TWICE","twice","TWICE",1546
-"717-FIRST","the first","FIRST",728
-"718-SECOND","the second","SECOND",1384
-"719-LAST (FINAL)","the last","LAST (FINAL)",1529
-"720-HOW MANY","how much, how many","HOW MANY",822
-"721-MANY","many, much","MANY",1198
-"722-A LITTLE","few, a little","A LITTLE",2924
-"723-NA","more, most",NA,NA
-"724-FEW","less","FEW",1242
-"725-ALL","all","ALL",98
-"726-FEW","a few, some","FEW",1242
-"727-I","I","I",1209
-"728-THOU","you (sing.)","THOU",1215
-"729-YOU","you (pl.)","YOU",1213
-"730-YOU","you all (excluding those absent)","YOU",1213
-"731-HE","he","HE",1211
-"732-WE (INCLUSIVE)","we (inclusive)","WE (INCLUSIVE)",1131
-"733-WE (EXCLUSIVE)","we (exclusive)","WE (EXCLUSIVE)",1130
-"734-THEY","they","THEY",817
-"735-MY","mine","MY",2090
-"736-YOUR (SINGULAR)","your","YOUR (SINGULAR)",732
-"737-THEIR","their","THEIR",2400
-"738-HIS OR HER","her, his","HIS OR HER",2092
-"739-WHO","who?","WHO",1235
-"740-WHAT","what?","WHAT",1236
-"741-WHICH","which?","WHICH",727
-"742-THIS","this","THIS",1214
-"743-THAT","that","THAT",78
-"744-HERE","here","HERE",136
-"745-THERE","there (near hearer)","THERE",1937
-"746-EARLY","early, soon","EARLY",672
-"747-BE LATE","late","BE LATE",425
-"748-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"749-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"750-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"751-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"752-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"753-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"754-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"755-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
-"756-DAY (NOT NIGHT)","daylight","DAY (NOT NIGHT)",1225
-"757-LIGHT (RADIATION)","light","LIGHT (RADIATION)",630
-"758-NIGHT","night (time of the night)","NIGHT",1233
-"759-SEASON","monsoon","SEASON",691
-"760-SEASON","monsoon","SEASON",691
-"761-NOW","now","NOW",1376
-"762-SOON","shortly","SOON",703
-"763-NOW OR TODAY","now, at present","NOW OR TODAY",2097
-"764-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
-"765-BEFORE","before","BEFORE",1882
-"766-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
-"767-ONCE (IN THE PAST)","a moment ago","ONCE (IN THE PAST)",2914
-"768-YESTERDAY","yesterday","YESTERDAY",1174
-"769-DAY BEFORE YESTERDAY","the day before yesterday","DAY BEFORE YESTERDAY",1180
-"770-TODAY","today","TODAY",1283
-"771-TOMORROW","tomorrow","TOMORROW",1329
-"772-DAY AFTER TOMORROW","the day after tomorrow","DAY AFTER TOMORROW",1179
-"773-SOMETIMES","now and then, occasionally","SOMETIMES",1544
-"774-WHEN","when","WHEN",1238
-"775-ALREADY","already","ALREADY",2576
-"776-YET","not yet","YET",2577
-"777-YET","not yet","YET",2577
-"778-LEFT","left","LEFT",244
-"779-RIGHT","right","RIGHT",1019
-"780-UP OR ABOVE","up, upper, above","UP OR ABOVE",2379
-"781-ABOVE","from above","ABOVE",1741
-"782-BELOW OR UNDER","under","BELOW OR UNDER",1485
-"783-BELOW OR UNDER","from underneath","BELOW OR UNDER",1485
-"784-NA","from-to",NA,NA
-"785-BELOW OR UNDER","below, beneath","BELOW OR UNDER",1485
-"786-FROM","from","FROM",693
-"787-INSIDE","in, inside","INSIDE",1606
-"788-OUTSIDE","out, outside","OUTSIDE",762
-"789-NEAR","nearby","NEAR",1942
-"790-FAR","far","FAR",1406
-"791-NA","around, surrounding",NA,NA
-"792-MANY","many","MANY",1198
-"793-WHERE","where","WHERE",1237
-"794-HOW","how","HOW",1239
-"795-SIMILAR","like this, like that","SIMILAR",1558
-"796-WHY","why","WHY",1270
-"797-CERTAIN","certainly, sure","CERTAIN",509
-"798-PERHAPS","maybe","PERHAPS",2278
-"799-AND","and","AND",1577
-"800-WITH","with","WITH",1340
-"801-NO","no","NO",1269
-"802-YES","yes","YES",1268
-"803-NO OR NOT","not, no","NO OR NOT",2279
-"804-NO OR NOT","not","NO OR NOT",2279
-"805-YES","yes, right, indeed","YES",1268
-"806-ONLY","only","ONLY",1580
-"807-NA","almost",NA,NA
-"808-NO OR NOT","no, not a, none","NO OR NOT",2279
-"809-HEAD","head","HEAD",1256
-"810-FACE","face","FACE",1560
-"811-EAR","ear","EAR",1247
-"812-EYE","eye","EYE",1248
-"813-BREAST","breasts","BREAST",1402
-"814-SHOUT","to shout","SHOUT",715
-"815-LAUGH","to laugh","LAUGH",1355
-"816-YAWN","to yawn","YAWN",1028
-"817-WOUND","wound","WOUND",1109
-"818-SCAR","scar","SCAR",497
-"819-BLIND","blind","BLIND",1653
-"820-FATHER","father","FATHER",1217
-"821-MOTHER","mother","MOTHER",1216
-"822-FORGET","to have forgotten something","FORGET",1523
-"823-CHEEK","cheek","CHEEK",1730
-"824-LIP","lips","LIP",478
-"825-BEARD","beard","BEARD",678
-"826-NAVEL","navel","NAVEL",1838
-"827-CALF OF LEG","calf","CALF OF LEG",498
-"828-ARMPIT","armpit","ARMPIT",1886
-"829-ELBOW","elbow","ELBOW",981
-"830-PALM OF HAND","palm of the hand","PALM OF HAND",1183
-"831-HAIR","hair","HAIR",1040
-"832-FULL","satisfied","FULL",1429
-"833-SNEEZE","to sneeze","SNEEZE",1621
-"834-SICK","ill","SICK",1847
-"835-MUTE PERSON","mute","MUTE PERSON",2320
-"836-DEAF PERSON","deaf","DEAF PERSON",458
-"837-COUNTRY","country","COUNTRY",1300
-"838-FINE (PENALTY)","fine","FINE (PENALTY)",218
-"839-DIVORCE (SEPARATE)","to divorce","DIVORCE (SEPARATE)",3672
-"840-HOUSE","house","HOUSE",1252
-"841-PILLOW","cylindrical bolster","PILLOW",1044
-"842-FIREPLACE","hearth, fireplace","FIREPLACE",185
-"843-FIREWOOD","fire wood","FIREWOOD",10
-"844-SMALL KNIFE","dagger","SMALL KNIFE",3233
-"845-WARDROBE","case for cloth","WARDROBE",3106
-"846-GRANARY","rice barn","GRANARY",3657
-"847-EARRING","earclip","EARRING",770
-"848-WAR","war","WAR",935
-"849-NA","population",NA,NA
-"850-FENCE","fence, hedge","FENCE",1690
-"851-NA","Morinda atrocarpus",NA,NA
-"852-BARK","bark","BARK",1204
-"853-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
-"854-WING","wing","WING",1257
-"855-CAT","cat","CAT",1208
-"856-MOSQUITO","mosquito","MOSQUITO",1509
-"857-BUTTERFLY","butterfly","BUTTERFLY",1791
-"858-CATERPILLAR","caterpillar","CATERPILLAR",2247
-"859-FROG","frog","FROG",503
-"860-SUNRISE","sunrise","SUNRISE",2296
-"861-EARTHQUAKE","earthquake","EARTHQUAKE",6
-"862-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
-"863-SAND","sand","SAND",671
-"864-PRICE","price","PRICE",657
-"865-EXPENSIVE","expensive","EXPENSIVE",1426
-"866-EXCHANGE","to exchange","EXCHANGE",2509
-"867-BROAD","broad","BROAD",2531
-"868-GOOD","good","GOOD",1035
-"869-FULL","full","FULL",1429
-"870-LOOSE","loose","LOOSE",2506
-"871-THINK","to think","THINK",2271
-"872-WORK (ACTIVITY)","to work","WORK (ACTIVITY)",1086
-"873-FIRST","first (in space)","FIRST",728
-"874-HOW MANY","how much, how many","HOW MANY",822
-"875-INSTANTLY (IMMEDIATELY)","a moment","INSTANTLY (IMMEDIATELY)",2916
-"876-DAY AFTER TOMORROW","the day after tomorrow","DAY AFTER TOMORROW",1179
-"877-LEFT","left","LEFT",244
-"878-RIGHT","right","RIGHT",1019
+"2-BODY","body","BODY",1480
+"3-HEAD","head","HEAD",1256
+"4-HEAD","head","HEAD",1256
+"5-FACE","face","FACE",1560
+"6-FOREHEAD","forehead","FOREHEAD",123
+"7-SKULL","skull","SKULL",1605
+"8-HAIR","hair","HAIR",1040
+"9-CROWN (OF HEAD)","crown","CROWN (OF HEAD)",1943
+"10-EAR","ear","EAR",1247
+"11-EAR","ear","EAR",1247
+"12-EYE","eye","EYE",1248
+"13-EYEBROW","eyebrow","EYEBROW",1173
+"14-TEAR (OF EYE)","tear","TEAR (OF EYE)",1651
+"15-NOSE","nose","NOSE",1221
+"16-NOSE","nose","NOSE",1221
+"17-CHEEK","cheek","CHEEK",1730
+"18-MOUTH","mouth","MOUTH",674
+"19-LIP","lips","LIP",478
+"20-MOUSTACHE","moustache","MOUSTACHE",1165
+"21-BEARD","goatee","BEARD",678
+"22-CHIN","chin","CHIN",1510
+"23-BEARD","beard","BEARD",678
+"24-TONGUE","tongue","TONGUE",1205
+"25-TONGUE","tongue","TONGUE",1205
+"26-PALATE","palate","PALATE",540
+"27-TOOTH","tooth","TOOTH",1380
+"28-MOLAR TOOTH","molar","MOLAR TOOTH",1049
+"29-GUMS","gums","GUMS",139
+"30-THROAT","throat","THROAT",1346
+"31-NECK","neck","NECK",1333
+"32-NAPE (OF NECK)","nape","NAPE (OF NECK)",1347
+"33-CHEST","chest, breast (male)","CHEST",1592
+"34-BREAST","breasts (female)","BREAST",1402
+"35-NIPPLE","nipple","NIPPLE",796
+"36-BREAST MILK","breast milk","BREAST MILK",3912
+"37-BREAST MILK","breast milk","BREAST MILK",3912
+"38-SUCKLE (BREASTFEED, NURSE)","to suck at the breast","SUCKLE (BREASTFEED, NURSE)",2472
+"39-SUCKLE (BREASTFEED, NURSE)","to suck at the breast","SUCKLE (BREASTFEED, NURSE)",2472
+"40-RIB","rib","RIB",801
+"41-LUNG","lung","LUNG",688
+"42-HEART","heart","HEART",1223
+"43-STOMACH","stomach","STOMACH",819
+"44-STOMACH","stomach","STOMACH",819
+"45-BELLY","belly","BELLY",1251
+"46-LIVER","liver","LIVER",1224
+"47-NAVEL","navel","NAVEL",1838
+"48-UMBILICAL CORD","umbilical cord","UMBILICAL CORD",2663
+"49-BACK","back","BACK",1291
+"50-BACK","back","BACK",1291
+"51-SHOULDERBLADE","shoulderblade","SHOULDERBLADE",172
+"52-BUTTOCKS","buttock","BUTTOCKS",834
+"53-BUTTOCKS","posterior, buttocks","BUTTOCKS",834
+"54-NA","tailbone, coccyx",NA,NA
+"55-NA","tailbone, coccyx",NA,NA
+"56-SHIT (DEFECATE)","to defecate","SHIT (DEFECATE)",676
+"57-SHIT (DEFECATE)","to defecate","SHIT (DEFECATE)",676
+"58-SHIT (DEFECATE)","to defecate","SHIT (DEFECATE)",676
+"59-FAECES (EXCREMENT)","faeces","FAECES (EXCREMENT)",675
+"60-FAECES (EXCREMENT)","faeces","FAECES (EXCREMENT)",675
+"61-FAECES (EXCREMENT)","faeces","FAECES (EXCREMENT)",675
+"62-FART","to fart","FART",1159
+"63-PENIS","penis","PENIS",1222
+"64-PENIS","penis","PENIS",1222
+"65-VAGINA","vagina","VAGINA",1836
+"66-PISS","to urinate","PISS",592
+"67-PISS","to urinate","PISS",592
+"68-PISS","to urinate","PISS",592
+"69-PISS","to urinate","PISS",592
+"70-PISS","to urinate","PISS",592
+"71-URINE","piss, urine","URINE",1142
+"72-URINE","piss, urine","URINE",1142
+"73-URINE","piss, urine","URINE",1142
+"74-URINE","piss, urine","URINE",1142
+"75-URINE","piss, urine","URINE",1142
+"76-LEG","leg","LEG",1297
+"77-FOOT","foot","FOOT",1301
+"78-SOLE (FOOT)","sole of the foot","SOLE (FOOT)",2666
+"79-ANKLE","ankle","ANKLE",803
+"80-HEEL","heel","HEEL",980
+"81-UPPER LEG (THIGH)","thigh","UPPER LEG (THIGH)",471
+"82-KNEE","knee","KNEE",1371
+"83-CALF OF LEG","calf","CALF OF LEG",498
+"84-ARM","arm","ARM",1673
+"85-HAND","hand","HAND",1277
+"86-ARMPIT","armpit","ARMPIT",1886
+"87-ELBOW","elbow","ELBOW",981
+"88-PALM OF HAND","palm of the hand","PALM OF HAND",1183
+"89-FINGER","fingers","FINGER",1303
+"90-FINGERNAIL OR TOENAIL","(finger)nail","FINGERNAIL OR TOENAIL",1896
+"91-FINGERNAIL OR TOENAIL","(finger)nail","FINGERNAIL OR TOENAIL",1896
+"92-THUMB","thumb","THUMB",1781
+"93-LITTLE FINGER","little finger","LITTLE FINGER",2774
+"94-BONE","bone","BONE",1394
+"95-BLOOD","blood","BLOOD",946
+"96-FLESH OR MEAT","flesh","FLESH OR MEAT",2615
+"97-TENDON","tendon","TENDON",1137
+"98-SKIN","skin","SKIN",763
+"99-HAIR","hair","HAIR",1040
+"100-SWEAT (SUBSTANCE)","sweat","SWEAT (SUBSTANCE)",125
+"101-SALIVA","saliva","SALIVA",1503
+"102-BREATH OR BREATHE","to breath","BREATH OR BREATHE",3183
+"103-EAT","to eat","EAT",1336
+"104-BE HUNGRY","hungry","BE HUNGRY",1533
+"105-BE HUNGRY","hungry","BE HUNGRY",1533
+"106-DRINK","to drink","DRINK",1401
+"107-THIRSTY","thirsty","THIRSTY",847
+"108-SWALLOW","to swallow","SWALLOW",897
+"109-SLEEP","to sleep","SLEEP",1585
+"110-DREAMING OR DREAM","dream","DREAMING OR DREAM",2455
+"111-STAND","to stand","STAND",1442
+"112-WALK","to walk","WALK",1443
+"113-WALK","to walk","WALK",1443
+"114-WALK","to walk","WALK",1443
+"115-WALK","to walk","WALK",1443
+"116-LIE (REST)","to lie supine","LIE (REST)",1411
+"117-LIE DOWN","to lie prone","LIE DOWN",215
+"118-LIE DOWN","to lie","LIE DOWN",215
+"119-SIT DOWN","to sit (on a chair)","SIT DOWN",1649
+"120-NA","to sit (with the legs crossed)",NA,NA
+"121-SQUAT","to squat","SQUAT",3163
+"122-SWIM","to swim","SWIM",1439
+"123-WASH","to take a bath","WASH",1453
+"124-WASH","to take a bath","WASH",1453
+"125-STUTTER","to stammer","STUTTER",1866
+"126-VOICE","voice","VOICE",1363
+"127-SHOUT","to shout","SHOUT",715
+"128-LAUGH","to laugh","LAUGH",1355
+"129-LAUGH","to laugh","LAUGH",1355
+"130-CRY","to weep","CRY",1839
+"131-SMILE","to smile","SMILE",1451
+"132-NA","to sigh",NA,NA
+"133-SPIT","to spit","SPIT",1440
+"134-SNEEZE","to sneeze","SNEEZE",1621
+"135-COUGH","to cough","COUGH",879
+"136-YAWN","to yawn","YAWN",1028
+"137-NA","to nod",NA,NA
+"138-BE ALIVE","to live (alive)","BE ALIVE",1422
+"139-DIE","to die","DIE",1494
+"140-DEAD","dead","DEAD",1625
+"141-DEAD","dead","DEAD",1625
+"142-CORPSE","corpse","CORPSE",767
+"143-GRAVE","grave","GRAVE",1773
+"144-KILL","to kill","KILL",1417
+"145-INHERIT","to inherit","INHERIT",3664
+"146-NA","inheritance",NA,NA
+"147-NA","inheritance",NA,NA
+"148-NA","inheritance",NA,NA
+"149-WOUND","wound","WOUND",1109
+"150-WOUND","wound","WOUND",1109
+"151-WOUND","wound","WOUND",1109
+"152-INFECTED","an infected wound","INFECTED",548
+"153-SCAR","scar","SCAR",497
+"154-SICK","ill","SICK",1847
+"155-SICK","ill","SICK",1847
+"156-SICK","to be ill","SICK",1847
+"157-HURT (SENSE PAIN)","to (be in) pain","HURT (SENSE PAIN)",2561
+"158-HEALTHY","healthy","HEALTHY",1364
+"159-BOIL (OF SKIN)","boil","BOIL (OF SKIN)",793
+"160-FEVER","fever","FEVER",1534
+"161-NA","stomach ache",NA,NA
+"162-DIARRHEA","diarrhoea","DIARRHEA",1177
+"163-SMALLPOX","small pox","SMALLPOX",1054
+"164-MEASLES","measles","MEASLES",3389
+"165-NA","eruption (of rash)",NA,NA
+"166-NA","eruption (of rash)",NA,NA
+"167-NA","eruption (of rash)",NA,NA
+"168-NA","framboesia",NA,NA
+"169-HEADACHE","headache","HEADACHE",3625
+"170-NA","rheumatism",NA,NA
+"171-COMMON COLD (DISEASE)","a cold","COMMON COLD (DISEASE)",102
+"172-COMMON COLD (DISEASE)","a cold","COMMON COLD (DISEASE)",102
+"173-NA","gone to sleep (limbs)",NA,NA
+"174-NA","cramp",NA,NA
+"175-DISABLED PERSON","paralysed","DISABLED PERSON",3621
+"176-LAME","crippled","LAME",320
+"177-LAME","crippled","LAME",320
+"178-LAME","crippled","LAME",320
+"179-MUTE PERSON","mute","MUTE PERSON",2320
+"180-DEAF PERSON","deaf","DEAF PERSON",458
+"181-BLIND","blind","BLIND",1653
+"182-BLIND","blind","BLIND",1653
+"183-SQUINT-EYED","squinting","SQUINT-EYED",87
+"184-SQUINT-EYED","squinting","SQUINT-EYED",87
+"185-CURE","cured","CURE",499
+"186-CURE","cured","CURE",499
+"187-MEDICINE","medicine","MEDICINE",1372
+"188-SHAMAN (FOLK HEALER)","doctor (medicine man)","SHAMAN (FOLK HEALER)",394
+"189-PERSON","man, mankind","PERSON",683
+"190-PEOPLE","people","PEOPLE",789
+"191-PEOPLE","people","PEOPLE",789
+"192-NAME","name","NAME",1405
+"193-NAME","nickname","NAME",1405
+"194-MALE PERSON","man","MALE PERSON",2106
+"195-WOMAN","woman","WOMAN",962
+"196-MALE","male","MALE",1553
+"197-FEMALE","female","FEMALE",1551
+"198-NA","virgin, virginity",NA,NA
+"199-NA","virgin, virginity",NA,NA
+"200-BOY OR SON","boy, lad","BOY OR SON",2391
+"201-BOY OR SON","boy, lad","BOY OR SON",2391
+"202-GIRL","girl","GIRL",1646
+"203-GIRL","girl","GIRL",1646
+"204-FATHER","father","FATHER",1217
+"205-FATHER","father","FATHER",1217
+"206-FATHER","father","FATHER",1217
+"207-MOTHER","mother","MOTHER",1216
+"208-MOTHER","mother","MOTHER",1216
+"209-MOTHER","mother","MOTHER",1216
+"210-CHILD","child","CHILD",2099
+"211-SON","son","SON",1620
+"212-DAUGHTER","daughter","DAUGHTER",1357
+"213-GRANDFATHER","grandfather","GRANDFATHER",1383
+"214-GRANDMOTHER","grandmother","GRANDMOTHER",1496
+"215-ANCESTORS","ancestors","ANCESTORS",1669
+"216-BROTHER","brother","BROTHER",1262
+"217-SISTER","sister","SISTER",1263
+"218-NA","elder brother, elder sister",NA,NA
+"219-NA","younger brother, younger sister",NA,NA
+"220-GRANDCHILD","grandchild","GRANDCHILD",1617
+"221-UNCLE","uncle","UNCLE",1327
+"222-AUNT","aunt","AUNT",1272
+"223-NA","cousin, niece",NA,NA
+"224-NA","cousin, niece",NA,NA
+"225-SON-IN-LAW","son-in-law","SON-IN-LAW",1056
+"226-DAUGHTER-IN-LAW","daughter-in-law","DAUGHTER-IN-LAW",1057
+"227-STEPSON","stepson","STEPSON",1059
+"228-NA","stepparents",NA,NA
+"229-FAMILY","related","FAMILY",194
+"230-NA","unrelated",NA,NA
+"231-HUSBAND","husband","HUSBAND",1200
+"232-HUSBAND","husband","HUSBAND",1200
+"233-WIFE","wife","WIFE",1199
+"234-COUNTRY","country","COUNTRY",1300
+"235-VILLAGE","main village","VILLAGE",930
+"236-GHOST","ghost","GHOST",1175
+"237-SPIRIT","spirit","SPIRIT",53
+"238-SPIRIT","spirit","SPIRIT",53
+"239-DEMON","evil spirit","DEMON",1973
+"240-DEMON","evil spirit","DEMON",1973
+"241-NA","soul, spirit (living, dead)",NA,NA
+"242-NA","writing",NA,NA
+"243-PAPER","paper","PAPER",648
+"244-LETTER","letter","LETTER",1612
+"245-BOOK","book","BOOK",963
+"246-NA","history, legend",NA,NA
+"247-POETRY","poem","POETRY",541
+"248-SONG","tune, melody","SONG",1096
+"249-NA","the afterlife",NA,NA
+"250-NA","the afterlife",NA,NA
+"251-NA","the afterlife",NA,NA
+"252-NA","virtue",NA,NA
+"253-SIN","sin","SIN",2971
+"254-NA","forbidden",NA,NA
+"255-NA","forbidden, taboo",NA,NA
+"256-TEMPLE","holy place","TEMPLE",911
+"257-TEMPLE","holy place","TEMPLE",911
+"258-KING","king","KING",1508
+"259-MINISTER","mantri","MINISTER",486
+"260-PLACE (POSITION)","(sacred) place (held in awe)","PLACE (POSITION)",723
+"261-OLD (AGED)","village elders","OLD (AGED)",2112
+"262-SADNESS","unhappiness","SADNESS",3854
+"263-SADNESS","unhappiness","SADNESS",3854
+"264-SLAVE","slave","SLAVE",812
+"265-ADJUDICATE","to judge","ADJUDICATE",1818
+"266-PUNISH","to punish","PUNISH",3649
+"267-FINE (PENALTY)","fine","FINE (PENALTY)",218
+"268-WITNESS","witness","WITNESS",1144
+"269-FUNERAL","funeral ceremony","FUNERAL",3336
+"270-FUNERAL","funeral ceremony","FUNERAL",3336
+"271-MARRIAGE OR WEDDING","marry, marriage","MARRIAGE OR WEDDING",3182
+"272-DIVORCE (SEPARATE)","to divorce","DIVORCE (SEPARATE)",3672
+"273-BRIDE PRICE","bride price","BRIDE PRICE",3024
+"274-GIVE BIRTH","to give birth to","GIVE BIRTH",1195
+"275-GIVE BIRTH","to give birth to","GIVE BIRTH",1195
+"276-MIDWIFE","midwife","MIDWIFE",3859
+"277-ADULTERY","to commit adultery","ADULTERY",902
+"278-FLUTE","flute","FLUTE",777
+"279-NA","xylophone",NA,NA
+"280-HORN (INSTRUMENT)","horn","HORN (INSTRUMENT)",939
+"281-DANCE","to dance","DANCE",1879
+"282-HOUSE","house","HOUSE",1252
+"283-HUT","hut, shelter","HUT",1678
+"284-ROOF","roof","ROOF",769
+"285-ROOF","roof","ROOF",769
+"286-ROOF","roofing","ROOF",769
+"287-ROOF","roofing","ROOF",769
+"288-ROOF","roofing","ROOF",769
+"289-NA","roofing sirap",NA,NA
+"290-DOOR","door","DOOR",1567
+"291-WINDOW","window","WINDOW",1375
+"292-STAIRS","staircase, steps","STAIRS",34
+"293-LADDER","ladder","LADDER",1464
+"294-FLOOR","floor","FLOOR",1632
+"295-FLOOR","floor","FLOOR",1632
+"296-NA","enclosure",NA,NA
+"297-NA","enclosure",NA,NA
+"298-COLUMN","main posts","COLUMN",2045
+"299-COLUMN","main posts","COLUMN",2045
+"300-COLUMN","main posts","COLUMN",2045
+"301-COLUMN","ceiling beams","COLUMN",2045
+"302-BED","bed","BED",1663
+"303-CURTAIN","curtain","CURTAIN",2621
+"304-BEDROOM","sleeping place","BEDROOM",2505
+"305-PILLOW","cylindrical bolster","PILLOW",1044
+"306-MATTRESS","sleeping mat","MATTRESS",105
+"307-MATTRESS","sleeping mat","MATTRESS",105
+"308-PILLOW","pillow","PILLOW",1044
+"309-PILLOW","pillow","PILLOW",1044
+"310-SOFA","couch","SOFA",3099
+"311-NA","attic, attic rack",NA,NA
+"312-FIREPLACE","hearth, fireplace","FIREPLACE",185
+"313-FIREPLACE","hearth, fireplace","FIREPLACE",185
+"314-FIRE","fire","FIRE",221
+"315-FIRE","fire","FIRE",221
+"316-FIRE","fire","FIRE",221
+"317-FIRE","fire","FIRE",221
+"318-FIRE","fire","FIRE",221
+"319-FIRE","fire","FIRE",221
+"320-LIGHT (IGNITE)","to make a fire","LIGHT (IGNITE)",737
+"321-LIGHT (IGNITE)","to make a fire","LIGHT (IGNITE)",737
+"322-EXTINGUISH","to extinguish (with water)","EXTINGUISH",127
+"323-SMOKE (EXHAUST)","smoke","SMOKE (EXHAUST)",778
+"324-ASH","ashes","ASH",646
+"325-FIREWOOD","fire wood","FIREWOOD",10
+"326-FIREWOOD","fire wood","FIREWOOD",10
+"327-LIGHT (IGNITE)","to put on (light)","LIGHT (IGNITE)",737
+"328-EXTINGUISH","to put off (light)","EXTINGUISH",127
+"329-AREA UNDER HOUSE","space under the house","AREA UNDER HOUSE",2632
+"330-AREA UNDER HOUSE","space under the house","AREA UNDER HOUSE",2632
+"331-CURTAIN","bed curtain","CURTAIN",2621
+"332-BENCH","bench, seat","BENCH",2584
+"333-POT","pot (iron)","POT",1462
+"334-CLAY POT","pot (earthenware)","CLAY POT",2055
+"335-CLAY POT","pot (earthenware)","CLAY POT",2055
+"336-RICE STEAMER","rice kettle (copper)","RICE STEAMER",854
+"337-RICE STEAMER","rice kettle (earthenware)","RICE STEAMER",854
+"338-PLATE","dish","PLATE",480
+"339-CUP","cup","CUP",476
+"340-CUP","cup","CUP",476
+"341-STORING POT","(tea) pot","STORING POT",3765
+"342-KNIFE","knife","KNIFE",1352
+"343-KNIFE","knife","KNIFE",1352
+"344-KNIFE","knife","KNIFE",1352
+"345-CLEAVER","chopper","CLEAVER",3067
+"346-CLEAVER","chopper","CLEAVER",3067
+"347-SMALL KNIFE","dagger","SMALL KNIFE",3233
+"348-AXE","axe, hatchet","AXE",677
+"349-SPOON","spoon","SPOON",1378
+"350-LADLE","ladle","LADLE",2657
+"351-BASKET","basket (all sorts of)","BASKET",1539
+"352-BASKET","basket (all sorts of)","BASKET",1539
+"353-BASKET","basket (all sorts of)","BASKET",1539
+"354-BASKET","basket (all sorts of)","BASKET",1539
+"355-BASKET","basket (all sorts of)","BASKET",1539
+"356-LAMP","lamp","LAMP",625
+"357-LAMP","lamp","LAMP",625
+"358-NA","lamp wick",NA,NA
+"359-TORCH","torch","TORCH",1919
+"360-TORCH","torch","TORCH",1919
+"361-BOX OR CHEST","box, case","BOX OR CHEST",3150
+"362-WARDROBE","case for cloth","WARDROBE",3106
+"363-POT","pot, jar","POT",1462
+"364-COOK (SOMETHING)","to cook (in pot)","COOK (SOMETHING)",1100
+"365-COOK (SOMETHING)","to cook","COOK (SOMETHING)",1100
+"366-BAKE","to bake, to grill, to fry","BAKE",183
+"367-BAKE","to bake, to grill, to fry","BAKE",183
+"368-ROAST (SOMETHING)","to roast (in ashes)","ROAST (SOMETHING)",1962
+"369-ROAST (SOMETHING)","to grill, to roast","ROAST (SOMETHING)",1962
+"370-ROAST (SOMETHING)","to grill, to roast","ROAST (SOMETHING)",1962
+"371-FOOD","food","FOOD",256
+"372-NA","provisions",NA,NA
+"373-NA","provisions",NA,NA
+"374-FLESH OR MEAT","meat (raw)","FLESH OR MEAT",2615
+"375-FLESH OR MEAT","meat","FLESH OR MEAT",2615
+"376-FISH","fish","FISH",227
+"377-RICE","rice (husked raw rice, cooked rice)","RICE",926
+"378-MORTAR","rice pounder, mortar","MORTAR",224
+"379-GRINDSTONE","pounder","GRINDSTONE",2459
+"380-GRIND","to grind","GRIND",1033
+"381-GRIND","to grind","GRIND",1033
+"382-GRIND","to grind","GRIND",1033
+"383-CAKE","cake","CAKE",2408
+"384-CAKE","cake","CAKE",2408
+"385-CONGEE","porridge","CONGEE",2049
+"386-PEPPER","black pepper","PEPPER",1385
+"387-PEPPER","black pepper","PEPPER",1385
+"388-SALT","salt","SALT",1274
+"389-SARONG","sarong","SARONG",2413
+"390-TROUSERS","trousers","TROUSERS",809
+"391-NA","kebaya",NA,NA
+"392-NA","kebaya",NA,NA
+"393-COMB","comb","COMB",1475
+"394-COMB","comb","COMB",1475
+"395-COMB","comb","COMB",1475
+"396-RING","ring","RING",1374
+"397-BELT","waist belt/band","BELT",772
+"398-BELT","metal waist band","BELT",772
+"399-BELT","metal waist band","BELT",772
+"400-NA","band or ring",NA,NA
+"401-EARRING","earclip","EARRING",770
+"402-SHAWL","shawl","SHAWL",2771
+"403-LOINCLOTH","loin cloth","LOINCLOTH",1965
+"404-CLOTH","cotton fabric (local, European)","CLOTH",1616
+"405-CLOTH","cotton fabric (local, European)","CLOTH",1616
+"406-SILK","silk","SILK",1641
+"407-CLOTH","flannel","CLOTH",1616
+"408-BRAID (VERB) OR WEAVE (BASKET)","to weave, to plait","BRAID (VERB) OR WEAVE (BASKET)",3294
+"409-SPIN","to twine a rope","SPIN",121
+"410-ROPE","rope","ROPE",1218
+"411-ROPE","rope","ROPE",1218
+"412-ROPE","rope","ROPE",1218
+"413-THREAD","thread, yarn","THREAD",1161
+"414-KNOT","to knot, to knit","KNOT",760
+"415-NA","bag or sack",NA,NA
+"416-SWORD","sabre","SWORD",1535
+"417-SPEAR","pike, lance, javelin","SPEAR",945
+"418-SPEAR","pike, lance, javelin","SPEAR",945
+"419-SPEAR","pike, lance, javelin","SPEAR",945
+"420-BOW","bow","BOW",994
+"421-BOW STRING","bowstring","BOW STRING",2119
+"422-ARROW","arrow","ARROW",977
+"423-SHIELD","shield","SHIELD",1064
+"424-FLAG","flag","FLAG",2623
+"425-CANNON","kind of small cannon","CANNON",3202
+"426-PISTOL","rifle","PISTOL",3881
+"427-GUNPOWDER","gun powder","GUNPOWDER",1798
+"428-BULLET","bullet","BULLET",1114
+"429-SHOOT","to shoot","SHOOT",1172
+"430-WAR","to wage war","WAR",935
+"431-WAR","war","WAR",935
+"432-WAR","war","WAR",935
+"433-WAR","war","WAR",935
+"434-ENEMY","enemy","ENEMY",1358
+"435-CANNON","cannon","CANNON",3202
+"436-PEACE","peace","PEACE",1338
+"437-PEACE","peace","PEACE",1338
+"438-FORTRESS","fortification","FORTRESS",1938
+"439-NA","delegate",NA,NA
+"440-NA","delegate",NA,NA
+"441-DIBBLE STICK","dibble","DIBBLE STICK",3155
+"442-DIBBLE STICK","dibble","DIBBLE STICK",3155
+"443-HOE","hoe","HOE",284
+"444-GARDEN","garden","GARDEN",586
+"445-FENCE","fence, hedge","FENCE",1690
+"446-SOW SEEDS","sow","SOW SEEDS",748
+"447-SOW SEEDS","sow","SOW SEEDS",748
+"448-TREAD","to thresh with the feet","TREAD",575
+"449-TREAD","to thresh with the feet","TREAD",575
+"450-TREAD","to thresh with the feet","TREAD",575
+"451-TREAD","to thresh with the feet","TREAD",575
+"452-RIPE","ripe","RIPE",178
+"453-RIPE","ripe","RIPE",178
+"454-UNRIPE","unripe","UNRIPE",1958
+"455-UNRIPE","unripe","UNRIPE",1958
+"456-HARVEST","harvest","HARVEST",611
+"457-HARVEST","harvest","HARVEST",611
+"458-MAIZE","maize, corn","MAIZE",506
+"459-BEAN","beans","BEAN",832
+"460-BEAN","bean","BEAN",832
+"461-CUCUMBER","cucumber","CUCUMBER",496
+"462-TOBACCO","tobacco","TOBACCO",974
+"463-SUGAR CANE","sugarcane","SUGAR CANE",146
+"464-SWEET POTATO","species of tuber","SWEET POTATO",159
+"465-SWEET POTATO","species of tuber","SWEET POTATO",159
+"466-TARO","taro","TARO",351
+"467-TARO","taro","TARO",351
+"468-TARO","taro","TARO",351
+"469-CHILI PEPPER","red pepper","CHILI PEPPER",919
+"470-COCONUT TREE","coconut (tree)","COCONUT TREE",147
+"471-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"472-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"473-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"474-COCONUT","coconut (other parts of the tree)","COCONUT",970
+"475-SUGAR PALM","sugarpalm, aren tree","SUGAR PALM",3029
+"476-ALCOHOL (FERMENTED DRINK)","palm wine (fermented)","ALCOHOL (FERMENTED DRINK)",404
+"477-ALCOHOL (FERMENTED DRINK)","palmwine","ALCOHOL (FERMENTED DRINK)",404
+"478-NA","nipa palm",NA,NA
+"479-KAPOK TREE","kapok","KAPOK TREE",2499
+"480-PANDANUS","pandanus","PANDANUS",469
+"481-MANGO","mango","MANGO",2398
+"482-JACKFRUIT","Artocarpus integrifolia, Jack fruit","JACKFRUIT",2655
+"483-NA","Durio zibethinus",NA,NA
+"484-BANANA","banana","BANANA",868
+"485-GRAPE","grape fruit","GRAPE",920
+"486-LEMON","lemon","LEMON",3091
+"487-NA","Morinda atrocarpus",NA,NA
+"488-LIME (MATERIAL)","lime","LIME (MATERIAL)",2540
+"489-TURMERIC","Curcuma domestica","TURMERIC",2842
+"490-TURMERIC","Curcuma domestica","TURMERIC",2842
+"491-RATTAN","rattan, cane","RATTAN",2497
+"492-BAMBOO","bamboo","BAMBOO",1927
+"493-BAMBOO SHOOT","bamboo shoot, young sprout","BAMBOO SHOOT",2494
+"494-TREE","tree","TREE",906
+"495-TREE","tree","TREE",906
+"496-TREE","tree","TREE",906
+"497-TREE","tree","TREE",906
+"498-BRANCH","branch","BRANCH",1531
+"499-BRANCH","branch","BRANCH",1531
+"500-BRANCH","branch","BRANCH",1531
+"501-ROOT","main root, taproot","ROOT",670
+"502-ROOT","side-root","ROOT",670
+"503-ROOT","root","ROOT",670
+"504-LEAF","leaf","LEAF",628
+"505-LEAF","leaf","LEAF",628
+"506-BARK","bark","BARK",1204
+"507-SAP","sap","SAP",345
+"508-SAP","sap","SAP",345
+"509-GUMS","gum","GUMS",139
+"510-BETELNUT","Areca catechu LINN","BETELNUT",217
+"511-BETELNUT","Areca catechu LINN","BETELNUT",217
+"512-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
+"513-SPROUT (SHOOT)","sprout","SPROUT (SHOOT)",3358
+"514-SPROUT (SHOOT)","sprout","SPROUT (SHOOT)",3358
+"515-FLOWER","flower","FLOWER",239
+"516-FLOWER","flower","FLOWER",239
+"517-FRUIT","fruit","FRUIT",1507
+"518-SKIN (OF FRUIT)","rind, peel","SKIN (OF FRUIT)",2373
+"519-STONE (OF FRUIT)","pip, stone","STONE (OF FRUIT)",1762
+"520-FLESH","the flesh of the fruit","FLESH",2259
+"521-BUNCH","bunch","BUNCH",1966
+"522-OIL (HYDROPHOBIC LIQUID)","oil","OIL (HYDROPHOBIC LIQUID)",2556
+"523-GRASS","grass","GRASS",606
+"524-GRASS","grass","GRASS",606
+"525-GRASS","grass","GRASS",606
+"526-WEED","weeds","WEED",3288
+"527-WEED","weeds","WEED",3288
+"528-WEED","weeds","WEED",3288
+"529-REED","Imperata cylindria (Kunai grass)","REED",659
+"530-REED","Imperata cylindria (Kunai grass)","REED",659
+"531-REED","Saccharum spontaneum","REED",659
+"532-REED","Saccharum spontaneum","REED",659
+"533-ANIMAL","animal, beast","ANIMAL",619
+"534-ANIMAL","animal, beast","ANIMAL",619
+"535-ANIMAL","young of animal (calf, foal, chicken, etc.)","ANIMAL",619
+"536-TAIL","tail","TAIL",1220
+"537-TAIL","tail","TAIL",1220
+"538-PAW","paw","PAW",2965
+"539-HOOF","hoof","HOOF",152
+"540-HOOF","hoof","HOOF",152
+"541-CLAW","claw","CLAW",72
+"542-CLAW","claw","CLAW",72
+"543-WING","wing","WING",1257
+"544-FEATHER","feather","FEATHER",1201
+"545-NEST","nest","NEST",539
+"546-NEST","nest","NEST",539
+"547-EGG","egg","EGG",744
+"548-PIG","domesticated pig","PIG",1337
+"549-PIG","domesticated pig","PIG",1337
+"550-PIG","domesticated pig","PIG",1337
+"551-NA","to grunt",NA,NA
+"552-SHEEP","sheep","SHEEP",1331
+"553-DOG","dog","DOG",2009
+"554-BARKING","to bark","BARKING",1206
+"555-CAT","cat","CAT",1208
+"556-NA","to miaow",NA,NA
+"557-DOVE","pigeon","DOVE",1853
+"558-CHICKEN","hen, chicken","CHICKEN",1318
+"559-ROOSTER","fighting cock","ROOSTER",1511
+"560-ROOSTER","fighting cock","ROOSTER",1511
+"561-PARAKEET","parakeet, budgerigar","PARAKEET",886
+"562-HERON","heron","HERON",758
+"563-EAGLE","kite (bird)","EAGLE",1905
+"564-BIRD","bird","BIRD",937
+"565-BAT","bat","BAT",1793
+"566-BAT","bat","BAT",1793
+"567-BAT","bat","BAT",1793
+"568-MOUSE","mouse","MOUSE",1491
+"569-MOUSE","mouse","MOUSE",1491
+"570-MOUSE","mouse","MOUSE",1491
+"571-RAT","rat","RAT",1490
+"572-RAT","rat","RAT",1490
+"573-RAT","rat","RAT",1490
+"574-NET (FOR CATCHING)","net","NET (FOR CATCHING)",2653
+"575-NET (FOR CATCHING)","net","NET (FOR CATCHING)",2653
+"576-NET (FOR CATCHING)","net","NET (FOR CATCHING)",2653
+"577-FRESHWATER EEL","eel","FRESHWATER EEL",1013
+"578-FRESHWATER EEL","eel","FRESHWATER EEL",1013
+"579-LOUSE","louse","LOUSE",1392
+"580-LOUSE","louse","LOUSE",1392
+"581-NIT","nit","NIT",267
+"582-FLEA","flea","FLEA",232
+"583-SPIDER","spider","SPIDER",843
+"584-FLY (INSECT)","fly","FLY (INSECT)",1504
+"585-MOSQUITO","mosquito","MOSQUITO",1509
+"586-MOSQUITO","mosquito","MOSQUITO",1509
+"587-MOSQUITO","mosquito","MOSQUITO",1509
+"588-BUTTERFLY","butterfly","BUTTERFLY",1791
+"589-CATERPILLAR","caterpillar","CATERPILLAR",2247
+"590-GRASSHOPPER","grasshopper","GRASSHOPPER",607
+"591-ANT","ant","ANT",587
+"592-ANT","ant","ANT",587
+"593-ANT","ant","ANT",587
+"594-ANT","ant","ANT",587
+"595-SNAKE","snake","SNAKE",730
+"596-SNAKE","snake","SNAKE",730
+"597-SNAKE","snake","SNAKE",730
+"598-WORM","worm","WORM",1219
+"599-SHRIMP","shrimp","SHRIMP",2349
+"600-CRAB","crab","CRAB",2348
+"601-SHELL","shell","SHELL",598
+"602-SHELL","shell","SHELL",598
+"603-SHELL","shell","SHELL",598
+"604-FROG","frog","FROG",503
+"605-FROG","frog","FROG",503
+"606-LIZARD","lizard","LIZARD",632
+"607-IGUANA","iguana","IGUANA",1578
+"608-CROCODILE","crocodile","CROCODILE",1857
+"609-CROCODILE","crocodile","CROCODILE",1857
+"610-CROCODILE","crocodile","CROCODILE",1857
+"611-TORTOISE","tortoise","TORTOISE",895
+"612-TURTLE","turtle","TURTLE",112
+"613-SKY","sky","SKY",1732
+"614-SUN","sun","SUN",1343
+"615-MOON","moon","MOON",1313
+"616-MONTH","month (name of the months)","MONTH",1370
+"617-ECLIPSE","moon eclipse","ECLIPSE",2285
+"618-STAR","star","STAR",1430
+"619-STAR","star","STAR",1430
+"620-WORLD","earth (globe)","WORLD",965
+"621-RAINING OR RAIN","rain","RAINING OR RAIN",2108
+"622-RAINING OR RAIN","rain","RAINING OR RAIN",2108
+"623-RAINING OR RAIN","rain","RAINING OR RAIN",2108
+"624-CLOUD","cloud","CLOUD",1489
+"625-CLOUD","cloud","CLOUD",1489
+"626-RAINBOW","rainbow","RAINBOW",1733
+"627-THUNDER","thunder","THUNDER",1150
+"628-THUNDER","thunder","THUNDER",1150
+"629-NA","thunderstone",NA,NA
+"630-EARTHQUAKE","earthquake","EARTHQUAKE",6
+"631-WIND","wind","WIND",960
+"632-WIND","wind","WIND",960
+"633-STORM","storm","STORM",858
+"634-STORM","storm","STORM",858
+"635-WATER","water","WATER",948
+"636-SEA","sea","SEA",1474
+"637-CEASE","ebb","CEASE",1928
+"638-HIGH TIDE","flood, tide","HIGH TIDE",613
+"639-HIGH TIDE","flood, tide","HIGH TIDE",613
+"640-WAVE","wave","WAVE",978
+"641-SURF","breakers, surf","SURF",3132
+"642-BAY","bay","BAY",663
+"643-BEACH","beach","BEACH",3460
+"644-BEACH","beach","BEACH",3460
+"645-BEACH","beach","BEACH",3460
+"646-BEACH","beach","BEACH",3460
+"647-STRAIT","strait(s)","STRAIT",1661
+"648-STRAIT","strait(s)","STRAIT",1661
+"649-NA","sandbank",NA,NA
+"650-REEF","coral reef","REEF",660
+"651-REEF","coral reef","REEF",660
+"652-REEF","coral reef","REEF",660
+"653-LAND","land","LAND",626
+"654-COUNTRY","land (state)","COUNTRY",1300
+"655-ISLAND","island","ISLAND",622
+"656-NA","isthmus",NA,NA
+"657-CAPE","cape","CAPE",1662
+"658-MOUNTAIN","mountain","MOUNTAIN",639
+"659-MOUNTAIN","mountain","MOUNTAIN",639
+"660-MOUNTAIN","mountain","MOUNTAIN",639
+"661-HILL","hill","HILL",614
+"662-PLAIN","plain","PLAIN",652
+"663-PLAIN","plain","PLAIN",652
+"664-VALLEY","valley","VALLEY",921
+"665-FOREST","forest, woods","FOREST",420
+"666-BUSH","bush","BUSH",1683
+"667-BUSH","bush","BUSH",1683
+"668-PATH OR ROAD","way, road","PATH OR ROAD",2457
+"669-BORDER","border, boundary","BORDER",2546
+"670-RIVER","river","RIVER",666
+"671-RIVER","river","RIVER",666
+"672-RIVER","river","RIVER",666
+"673-RIVER","river","RIVER",666
+"674-SPRING (OF WATER)","spring, source","SPRING (OF WATER)",849
+"675-HIGH TIDE","flood","HIGH TIDE",613
+"676-STONE","stone","STONE",857
+"677-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
+"678-SAND","sand","SAND",671
+"679-SAND","sand","SAND",671
+"680-IRON","iron","IRON",621
+"681-IRON","iron","IRON",621
+"682-COPPER","copper","COPPER",1825
+"683-SILVER","silver","SILVER",759
+"684-TIN (METAL)","tin","TIN (METAL)",893
+"685-LEAD (CHEMICAL ELEMENT)","lead","LEAD (CHEMICAL ELEMENT)",627
+"686-SULPHUR","sulphur","SULPHUR",3386
+"687-SULPHUR","sulphur","SULPHUR",3386
+"688-GIFT","gift, present","GIFT",2982
+"689-PEACE","to make peace","PEACE",1338
+"690-AGREEMENT","to sign a treaty","AGREEMENT",3644
+"691-MERCHANT","merchant","MERCHANT",1082
+"692-FARMER","farmer","FARMER",979
+"693-NA","follower",NA,NA
+"694-COMPANION","ally","COMPANION",3978
+"695-TRADE","to trade","TRADE",898
+"696-MERCHANDISE","merchandise","MERCHANDISE",3406
+"697-PRICE","price","PRICE",657
+"698-BENEFIT","profit","BENEFIT",2929
+"699-NA","loss",NA,NA
+"700-BUY","to buy","BUY",1869
+"701-EXPENSIVE","expensive","EXPENSIVE",1426
+"702-CHEAP","cheap","CHEAP",1887
+"703-CHEAP","cheap","CHEAP",1887
+"704-DEBT","debt","DEBT",1914
+"705-GATHER","to dun","GATHER",7
+"706-PAY","to pay","PAY",718
+"707-SELL","to sell","SELL",1571
+"708-BORROW","borrow","BORROW",1823
+"709-BORROW","borrow","BORROW",1823
+"710-EXCHANGE","to exchange","EXCHANGE",2509
+"711-DONATE","to offer","DONATE",196
+"712-NA","to bargain",NA,NA
+"713-STEELYARD (BALANCE)","steelyard, weigh-beam","STEELYARD (BALANCE)",2687
+"714-SCALES (MEASURE INSTRUMENT)","a pair of scales","SCALES (MEASURE INSTRUMENT)",2783
+"715-LENGTH","measures and weights (length)","LENGTH",2537
+"716-NA","weights and measures",NA,NA
+"717-NA","weights and measures",NA,NA
+"718-SHIP","ship","SHIP",740
+"719-SHIP","ship","SHIP",740
+"720-BOAT","steamboat","BOAT",1844
+"721-BOAT","rowboat","BOAT",1844
+"722-BOAT","rowboat","BOAT",1844
+"723-CANOE","proa, canoe","CANOE",1970
+"724-CANOE","proa, canoe","CANOE",1970
+"725-MAST","mast","MAST",184
+"726-SAIL","to sail","SAIL",787
+"727-SAIL","to sail","SAIL",787
+"728-RUDDER","rudder, helm","RUDDER",108
+"729-OAR OR PADDLE","oar, paddle","OAR OR PADDLE",3318
+"730-PADDLE","paddle","PADDLE",234
+"731-PADDLE (MOVEMENT)","to paddle","PADDLE (MOVEMENT)",3668
+"732-ROW","to row, to pull","ROW",1849
+"733-ROW","to row, to pull","ROW",1849
+"734-ANCHOR","anchor","ANCHOR",1870
+"735-PORT","harbour","PORT",610
+"736-NA","to be wrecked",NA,NA
+"737-BIG","great, big","BIG",1202
+"738-BIG","great, big","BIG",1202
+"739-BIG","great, big","BIG",1202
+"740-SMALL","small","SMALL",1246
+"741-LONG","long (things)","LONG",1203
+"742-FOR A LONG TIME","long (time)","FOR A LONG TIME",418
+"743-FOR A LONG TIME","long (time)","FOR A LONG TIME",418
+"744-SHORT","short (things)","SHORT",1645
+"745-SHORT","short (things)","SHORT",1645
+"746-SHORT (TIME)","short (time)","SHORT (TIME)",3312
+"747-FAT (OBESE)","big, fat","FAT (OBESE)",1279
+"748-FAT (OBESE)","big, fat","FAT (OBESE)",1279
+"749-THICK","thick","THICK",1244
+"750-THICK","thick","THICK",1244
+"751-THICK","thick","THICK",1244
+"752-FINE OR THIN","thin","FINE OR THIN",2157
+"753-FINE OR THIN","thin","FINE OR THIN",2157
+"754-THIN (SLIM)","thin, meagre, skinny","THIN (SLIM)",1400
+"755-FAR","far","FAR",1406
+"756-THIN (SLIM)","slim","THIN (SLIM)",1400
+"757-NA","dwarf",NA,NA
+"758-DEEP","deep","DEEP",1593
+"759-DEEP","deep","DEEP",1593
+"760-SHALLOW","shallow","SHALLOW",193
+"761-SHALLOW","shallow","SHALLOW",193
+"762-HIGH OR TALL","high","HIGH OR TALL",2790
+"763-HIGH OR TALL","high","HIGH OR TALL",2790
+"764-LOW","low","LOW",721
+"765-LOW","low","LOW",721
+"766-LOW","low","LOW",721
+"767-STRAIGHT","straight","STRAIGHT",1404
+"768-STRAIGHT","straight","STRAIGHT",1404
+"769-CROOKED","crooked, bent","CROOKED",297
+"770-THIN (OF SHAPE OF OBJECT)","flat","THIN (OF SHAPE OF OBJECT)",2249
+"771-LIGHT (WEIGHT)","light","LIGHT (WEIGHT)",1052
+"772-SLANTED","slanting, sloping","SLANTED",3075
+"773-SLANTED","slanting, sloping","SLANTED",3075
+"774-SHARP","sharp","SHARP",1396
+"775-BLUNT","blunt","BLUNT",379
+"776-HARD","hard","HARD",1884
+"777-HARD","hard","HARD",1884
+"778-WEAK","weak","WEAK",1601
+"779-HOT OR WARM","hot","HOT OR WARM",2272
+"780-HOT OR WARM","hot","HOT OR WARM",2272
+"781-COLD","cold","COLD",1287
+"782-COLD","cold","COLD",1287
+"783-ROUND","round","ROUND",1395
+"784-SQUARE","square","SQUARE",850
+"785-BROAD","broad","BROAD",2531
+"786-SMALL","small","SMALL",1246
+"787-SMALL","small","SMALL",1246
+"788-NARROW","narrow","NARROW",1267
+"789-NARROW","narrow","NARROW",1267
+"790-WIDE","wide","WIDE",1243
+"791-STRONG","strong","STRONG",785
+"792-WEAK","weak","WEAK",1601
+"793-DRY","dry","DRY",1398
+"794-DRY","dry","DRY",1398
+"795-WET","wet","WET",1726
+"796-WET","wet","WET",1726
+"797-GOOD","good","GOOD",1035
+"798-GOOD","good","GOOD",1035
+"799-BAD","bad","BAD",1292
+"800-BAD","bad","BAD",1292
+"801-GOOD","nice","GOOD",1035
+"802-UGLY","ugly","UGLY",1548
+"803-EMPTY","empty","EMPTY",1624
+"804-EMPTY","empty","EMPTY",1624
+"805-FULL","full","FULL",1429
+"806-NA","fixed",NA,NA
+"807-NA","fixed",NA,NA
+"808-NA","fixed",NA,NA
+"809-NA","fixed",NA,NA
+"810-LOOSE","loose","LOOSE",2506
+"811-LOOSE","loose","LOOSE",2506
+"812-OLD","old","OLD",1229
+"813-OLD","old","OLD",1229
+"814-OLD (USED)","old, worn","OLD (USED)",2113
+"815-YOUNG","young","YOUNG",1207
+"816-YOUNG","young","YOUNG",1207
+"817-YOUNG","young","YOUNG",1207
+"818-NEW","new","NEW",1231
+"819-NEW","new","NEW",1231
+"820-POOR","poor","POOR",1674
+"821-RICH","wealthy","RICH",712
+"822-DUMB","dumb","DUMB",1492
+"823-CLEVER","clever","CLEVER",1310
+"824-CLEVER","clever","CLEVER",1310
+"825-CLEVER","clever","CLEVER",1310
+"826-SWEET","sweet","SWEET",717
+"827-SOUR","sour","SOUR",1906
+"828-BITTER","bitter","BITTER",887
+"829-ASTRINGENT","astringent","ASTRINGENT",3837
+"830-SALTY","salty","SALTY",1091
+"831-WHITE","white","WHITE",1335
+"832-WHITE","white","WHITE",1335
+"833-WHITE","white","WHITE",1335
+"834-BLACK","black","BLACK",163
+"835-BLACK","black","BLACK",163
+"836-RED","red","RED",156
+"837-RED","red","RED",156
+"838-BROWN","brown","BROWN",2409
+"839-YELLOW","yellow","YELLOW",1424
+"840-BLUE","blue","BLUE",837
+"841-GREEN","green","GREEN",1425
+"842-LOOK FOR","to look for","LOOK FOR",1468
+"843-LOOK FOR","to look for","LOOK FOR",1468
+"844-LOOK FOR","to look for","LOOK FOR",1468
+"845-FIND","to find","FIND",719
+"846-GIVE","to give","GIVE",1447
+"847-TAKE","to take","TAKE",1749
+"848-GET","to get","GET",694
+"849-KNOW","to know","KNOW",3626
+"850-KNOW","to know","KNOW",3626
+"851-KNOW","to know","KNOW",3626
+"852-KNOW","to know","KNOW",3626
+"853-KNOW","to know","KNOW",3626
+"854-THINK","to think","THINK",2271
+"855-KNOW (SOMETHING)","to know","KNOW (SOMETHING)",1410
+"856-KNOW (SOMETHING)","to know","KNOW (SOMETHING)",1410
+"857-REMEMBER","to remember","REMEMBER",707
+"858-REMEMBER","to remember","REMEMBER",707
+"859-FORGET","to have forgotten something","FORGET",1523
+"860-DENY","to deny","DENY",755
+"861-ADMIT","to confess","ADMIT",2022
+"862-ADMIT","to confess","ADMIT",2022
+"863-BE SILENT","to be silent","BE SILENT",48
+"864-BE SILENT","to be silent","BE SILENT",48
+"865-MUMBLE","to mumble","MUMBLE",128
+"866-MUMBLE","to mumble","MUMBLE",128
+"867-SPEAK","to speak","SPEAK",1623
+"868-SPEAK","to speak","SPEAK",1623
+"869-SPEAK","to speak","SPEAK",1623
+"870-SPEAK","to speak","SPEAK",1623
+"871-SPEAK","to speak","SPEAK",1623
+"872-SING","to sing","SING",1261
+"873-SING","to sing","SING",1261
+"874-SING","to sing","SING",1261
+"875-CALL","to call","CALL",1084
+"876-BE ABLE","to be able to","BE ABLE",972
+"877-BE ABLE","to be able to","BE ABLE",972
+"878-WORK (ACTIVITY)","to work","WORK (ACTIVITY)",1086
+"879-CARRY ON SHOULDER","to shoulder","CARRY ON SHOULDER",413
+"880-CARRY ON HEAD","to carry on the head","CARRY ON HEAD",414
+"881-NA","to carry something hanging from the hand",NA,NA
+"882-NA","to carry on the hip",NA,NA
+"883-NA","to carry on the hip",NA,NA
+"884-CARRY ON BACK","to carry on the back","CARRY ON BACK",465
+"885-GUARD","to watch, to guard","GUARD",1940
+"886-GUARD","to watch, to guard","GUARD",1940
+"887-GUARD","to watch, to guard","GUARD",1940
+"888-GUARD","to watch, to guard","GUARD",1940
+"889-NA","to spy",NA,NA
+"890-NA","to spy",NA,NA
+"891-LOVE","to love","LOVE",923
+"892-LOVE","to love","LOVE",923
+"893-LOVE","to love","LOVE",923
+"894-LOVE","to love","LOVE",923
+"895-HATE","to hate","HATE",1607
+"896-JEALOUS","jealous","JEALOUS",2821
+"897-DESIRE","wish, want, want something","DESIRE",2117
+"898-OPEN","to open","OPEN",1156
+"899-OPEN","to open","OPEN",1156
+"900-SHUT","to close","SHUT",1046
+"901-HIT","to hit, to touch","HIT",1433
+"902-HIT","to hit, to touch","HIT",1433
+"903-BROKEN","broken (a stick)","BROKEN",588
+"904-BROKEN","broken (a stick)","BROKEN",588
+"905-BROKEN","broken (rope)","BROKEN",588
+"906-BROKEN","broken (rope)","BROKEN",588
+"907-BROKEN (SHATTERED)","shattered","BROKEN (SHATTERED)",3191
+"908-BROKEN (SHATTERED)","shattered","BROKEN (SHATTERED)",3191
+"909-START","to start","START",3449
+"910-START","to start","START",3449
+"911-CEASE OR FINISH","to end","CEASE OR FINISH",2115
+"912-CEASE OR FINISH","to end","CEASE OR FINISH",2115
+"913-TIE","to bind, to tie","TIE",1917
+"914-TIE","to bind, to tie","TIE",1917
+"915-HIDE (CONCEAL)","to hide","HIDE (CONCEAL)",602
+"916-HIDE (CONCEAL)","to hide","HIDE (CONCEAL)",602
+"917-HIDE (CONCEAL)","to hide","HIDE (CONCEAL)",602
+"918-HIDE (CONCEAL)","to hide","HIDE (CONCEAL)",602
+"919-HIDE (CONCEAL)","to hide","HIDE (CONCEAL)",602
+"920-ASK (INQUIRE)","to ask","ASK (INQUIRE)",1309
+"921-ANSWER","to answer","ANSWER",1275
+"922-ASK (REQUEST)","to ask for","ASK (REQUEST)",1828
+"923-ASK (REQUEST)","to ask for","ASK (REQUEST)",1828
+"924-REFUSE","to refuse","REFUSE",49
+"925-DECEIVE","to cheat, to deceive","DECEIVE",3230
+"926-DECEIVE","to cheat, to deceive","DECEIVE",3230
+"927-BURN (SOMETHING)","to burn (tr.)","BURN (SOMETHING)",141
+"928-BURN (SOMETHING)","to burn (tr.)","BURN (SOMETHING)",141
+"929-BURNING","to burn (intr.)","BURNING",1428
+"930-BURN (SOMETHING)","to burn","BURN (SOMETHING)",141
+"931-DIG","to dig","DIG",1418
+"932-DIG","to dig","DIG",1418
+"933-DIG","to dig","DIG",1418
+"934-ARRIVE","to arrive","ARRIVE",1387
+"935-ARRIVE","to arrive","ARRIVE",1387
+"936-LEAVE","to depart","LEAVE",1752
+"937-LEAVE","to depart","LEAVE",1752
+"938-STRIKE OR BEAT","to hit (to beat, to slap, etc.)","STRIKE OR BEAT",2133
+"939-STRIKE OR BEAT","to hit (to beat, to slap, etc.)","STRIKE OR BEAT",2133
+"940-STRIKE OR BEAT","to hit (to beat, to slap, etc.)","STRIKE OR BEAT",2133
+"941-STRIKE OR BEAT","to hit (to beat, to slap, etc.)","STRIKE OR BEAT",2133
+"942-STRIKE OR BEAT","to hit (to beat, to slap, etc.)","STRIKE OR BEAT",2133
+"943-REVENGE","to take revenge","REVENGE",495
+"944-ONE","one","ONE",1493
+"945-TWO","two","TWO",1498
+"946-TWO","two","TWO",1498
+"947-THREE","three","THREE",492
+"948-FOUR","four","FOUR",1500
+"949-FIVE","five","FIVE",493
+"950-FIVE","five","FIVE",493
+"951-SIX","six","SIX",1703
+"952-SIX","six","SIX",1703
+"953-SIX","six","SIX",1703
+"954-SEVEN","seven","SEVEN",1704
+"955-EIGHT","eight","EIGHT",1705
+"956-NINE","nine","NINE",1483
+"957-NINE","nine","NINE",1483
+"958-TEN","ten","TEN",1515
+"959-TEN","ten","TEN",1515
+"960-ELEVEN","eleven","ELEVEN",1706
+"961-TWELVE","twelve","TWELVE",1707
+"962-THIRTEEN","thirteen","THIRTEEN",1708
+"963-FOURTEEN","fourteen","FOURTEEN",2451
+"964-FIFTEEN","fifteen","FIFTEEN",1709
+"965-SIXTEEN","sixteen","SIXTEEN",2454
+"966-SEVENTEEN","seventeen","SEVENTEEN",2453
+"967-EIGHTEEN","eighteen","EIGHTEEN",1713
+"968-NINETEEN","nineteen","NINETEEN",1714
+"969-TWENTY","twenty","TWENTY",1710
+"970-TWENTY ONE","twenty one","TWENTY ONE",1734
+"971-TWENTY FIVE","twenty five","TWENTY FIVE",1738
+"972-THIRTY","thirty","THIRTY",1715
+"973-FORTY","fourty","FORTY",1716
+"974-FIFTY","fifty","FIFTY",1717
+"975-SIXTY","sixty","SIXTY",1718
+"976-HUNDRED","hundred","HUNDRED",1634
+"977-THOUSAND","thousand","THOUSAND",1843
+"978-TEN THOUSAND","ten thousand","TEN THOUSAND",2078
+"979-HALF","a half","HALF",816
+"980-HALF","a half","HALF",816
+"981-NA","a quarter",NA,NA
+"982-ONE TIME","once","ONE TIME",374
+"983-TWICE","twice","TWICE",1546
+"984-FIRST","the first","FIRST",728
+"985-SECOND","the second","SECOND",1384
+"986-LAST (FINAL)","the last","LAST (FINAL)",1529
+"987-LAST (FINAL)","the last","LAST (FINAL)",1529
+"988-HOW MANY","how much, how many","HOW MANY",822
+"989-MANY","many, much","MANY",1198
+"990-A LITTLE","few, a little","A LITTLE",2924
+"991-A LITTLE","few, a little","A LITTLE",2924
+"992-NA","more, most",NA,NA
+"993-NA","more, most",NA,NA
+"994-FEW","less","FEW",1242
+"995-ALL","all","ALL",98
+"996-ALL","all","ALL",98
+"997-ALL","all","ALL",98
+"998-ALL","all","ALL",98
+"999-FEW","a few, some","FEW",1242
+"1000-I","I","I",1209
+"1001-THOU","you (sing.)","THOU",1215
+"1002-THOU","you (sing.)","THOU",1215
+"1003-YOU","you (pl.)","YOU",1213
+"1004-YOU","you (pl.)","YOU",1213
+"1005-YOU","you all (excluding those absent)","YOU",1213
+"1006-YOU","you all (excluding those absent)","YOU",1213
+"1007-HE","he","HE",1211
+"1008-WE (INCLUSIVE)","we (inclusive)","WE (INCLUSIVE)",1131
+"1009-WE (EXCLUSIVE)","we (exclusive)","WE (EXCLUSIVE)",1130
+"1010-THEY","they","THEY",817
+"1011-MY","mine","MY",2090
+"1012-YOUR (SINGULAR)","your","YOUR (SINGULAR)",732
+"1013-THEIR","their","THEIR",2400
+"1014-HIS OR HER","her, his","HIS OR HER",2092
+"1015-WHO","who?","WHO",1235
+"1016-WHO","who?","WHO",1235
+"1017-WHAT","what?","WHAT",1236
+"1018-WHICH","which?","WHICH",727
+"1019-THIS","this","THIS",1214
+"1020-THIS","this","THIS",1214
+"1021-THAT","that","THAT",78
+"1022-THAT","that","THAT",78
+"1023-HERE","here","HERE",136
+"1024-HERE","here","HERE",136
+"1025-HERE","here","HERE",136
+"1026-THERE","there (near hearer)","THERE",1937
+"1027-THERE","there (near hearer)","THERE",1937
+"1028-EARLY","early, soon","EARLY",672
+"1029-EARLY","early, soon","EARLY",672
+"1030-BE LATE","late","BE LATE",425
+"1031-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1032-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1033-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1034-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1035-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1036-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1037-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1038-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1039-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1040-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1041-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1042-DAY (24 HOURS)","day","DAY (24 HOURS)",1260
+"1043-DAY (NOT NIGHT)","daylight","DAY (NOT NIGHT)",1225
+"1044-LIGHT (RADIATION)","light","LIGHT (RADIATION)",630
+"1045-LIGHT (RADIATION)","light","LIGHT (RADIATION)",630
+"1046-NIGHT","night (time of the night)","NIGHT",1233
+"1047-NIGHT","night (time of the night)","NIGHT",1233
+"1048-SEASON","monsoon","SEASON",691
+"1049-SEASON","monsoon","SEASON",691
+"1050-NOW","now","NOW",1376
+"1051-SOON","shortly","SOON",703
+"1052-NOW OR TODAY","now, at present","NOW OR TODAY",2097
+"1053-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
+"1054-BEFORE","before","BEFORE",1882
+"1055-BEFORE","before","BEFORE",1882
+"1056-BEFORE","before","BEFORE",1882
+"1057-BEFORE","before","BEFORE",1882
+"1058-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
+"1059-ONCE (IN THE PAST)","formerly","ONCE (IN THE PAST)",2914
+"1060-ONCE (IN THE PAST)","a moment ago","ONCE (IN THE PAST)",2914
+"1061-YESTERDAY","yesterday","YESTERDAY",1174
+"1062-DAY BEFORE YESTERDAY","the day before yesterday","DAY BEFORE YESTERDAY",1180
+"1063-DAY BEFORE YESTERDAY","the day before yesterday","DAY BEFORE YESTERDAY",1180
+"1064-TODAY","today","TODAY",1283
+"1065-TOMORROW","tomorrow","TOMORROW",1329
+"1066-DAY AFTER TOMORROW","the day after tomorrow","DAY AFTER TOMORROW",1179
+"1067-SOMETIMES","now and then, occasionally","SOMETIMES",1544
+"1068-SOMETIMES","now and then, occasionally","SOMETIMES",1544
+"1069-WHEN","when","WHEN",1238
+"1070-WHEN","when","WHEN",1238
+"1071-ALREADY","already","ALREADY",2576
+"1072-YET","not yet","YET",2577
+"1073-YET","not yet","YET",2577
+"1074-YET","not yet","YET",2577
+"1075-YET","not yet","YET",2577
+"1076-LEFT","left","LEFT",244
+"1077-RIGHT","right","RIGHT",1019
+"1078-UP OR ABOVE","up, upper, above","UP OR ABOVE",2379
+"1079-UP OR ABOVE","up, upper, above","UP OR ABOVE",2379
+"1080-ABOVE","from above","ABOVE",1741
+"1081-BELOW OR UNDER","under","BELOW OR UNDER",1485
+"1082-BELOW OR UNDER","from underneath","BELOW OR UNDER",1485
+"1083-NA","from-to",NA,NA
+"1084-BELOW OR UNDER","below, beneath","BELOW OR UNDER",1485
+"1085-FROM","from","FROM",693
+"1086-INSIDE","in, inside","INSIDE",1606
+"1087-INSIDE","in, inside","INSIDE",1606
+"1088-OUTSIDE","out, outside","OUTSIDE",762
+"1089-OUTSIDE","out, outside","OUTSIDE",762
+"1090-NEAR","nearby","NEAR",1942
+"1091-NEAR","nearby","NEAR",1942
+"1092-FAR","far","FAR",1406
+"1093-NA","around, surrounding",NA,NA
+"1094-NA","around, surrounding",NA,NA
+"1095-MANY","many","MANY",1198
+"1096-WHERE","where","WHERE",1237
+"1097-HOW","how","HOW",1239
+"1098-HOW","how","HOW",1239
+"1099-SIMILAR","like this, like that","SIMILAR",1558
+"1100-WHY","why","WHY",1270
+"1101-CERTAIN","certainly, sure","CERTAIN",509
+"1102-CERTAIN","certainly, sure","CERTAIN",509
+"1103-PERHAPS","maybe","PERHAPS",2278
+"1104-AND","and","AND",1577
+"1105-AND","and","AND",1577
+"1106-WITH","with","WITH",1340
+"1107-WITH","with","WITH",1340
+"1108-NO","no","NO",1269
+"1109-NO","no","NO",1269
+"1110-YES","yes","YES",1268
+"1111-NO OR NOT","not, no","NO OR NOT",2279
+"1112-NO OR NOT","not","NO OR NOT",2279
+"1113-YES","yes, right, indeed","YES",1268
+"1114-ONLY","only","ONLY",1580
+"1115-NA","almost",NA,NA
+"1116-NO OR NOT","no, not a, none","NO OR NOT",2279
+"1117-HEAD","head","HEAD",1256
+"1118-FACE","face","FACE",1560
+"1119-EAR","ear","EAR",1247
+"1120-EYE","eye","EYE",1248
+"1121-BREAST","breasts","BREAST",1402
+"1122-SHOUT","to shout","SHOUT",715
+"1123-LAUGH","to laugh","LAUGH",1355
+"1124-YAWN","to yawn","YAWN",1028
+"1125-WOUND","wound","WOUND",1109
+"1126-SCAR","scar","SCAR",497
+"1127-BLIND","blind","BLIND",1653
+"1128-FATHER","father","FATHER",1217
+"1129-MOTHER","mother","MOTHER",1216
+"1130-FORGET","to have forgotten something","FORGET",1523
+"1131-CHEEK","cheek","CHEEK",1730
+"1132-LIP","lips","LIP",478
+"1133-BEARD","beard","BEARD",678
+"1134-NAVEL","navel","NAVEL",1838
+"1135-CALF OF LEG","calf","CALF OF LEG",498
+"1136-ARMPIT","armpit","ARMPIT",1886
+"1137-ELBOW","elbow","ELBOW",981
+"1138-PALM OF HAND","palm of the hand","PALM OF HAND",1183
+"1139-HAIR","hair","HAIR",1040
+"1140-FULL","satisfied","FULL",1429
+"1141-SNEEZE","to sneeze","SNEEZE",1621
+"1142-SICK","ill","SICK",1847
+"1143-MUTE PERSON","mute","MUTE PERSON",2320
+"1144-DEAF PERSON","deaf","DEAF PERSON",458
+"1145-COUNTRY","country","COUNTRY",1300
+"1146-FINE (PENALTY)","fine","FINE (PENALTY)",218
+"1147-DIVORCE (SEPARATE)","to divorce","DIVORCE (SEPARATE)",3672
+"1148-HOUSE","house","HOUSE",1252
+"1149-PILLOW","cylindrical bolster","PILLOW",1044
+"1150-FIREPLACE","hearth, fireplace","FIREPLACE",185
+"1151-FIREWOOD","fire wood","FIREWOOD",10
+"1152-SMALL KNIFE","dagger","SMALL KNIFE",3233
+"1153-WARDROBE","case for cloth","WARDROBE",3106
+"1154-GRANARY","rice barn","GRANARY",3657
+"1155-EARRING","earclip","EARRING",770
+"1156-WAR","war","WAR",935
+"1157-NA","population",NA,NA
+"1158-FENCE","fence, hedge","FENCE",1690
+"1159-NA","Morinda atrocarpus",NA,NA
+"1160-BARK","bark","BARK",1204
+"1161-BETEL PEPPER VINE","betel","BETEL PEPPER VINE",177
+"1162-WING","wing","WING",1257
+"1163-CAT","cat","CAT",1208
+"1164-MOSQUITO","mosquito","MOSQUITO",1509
+"1165-BUTTERFLY","butterfly","BUTTERFLY",1791
+"1166-CATERPILLAR","caterpillar","CATERPILLAR",2247
+"1167-FROG","frog","FROG",503
+"1168-SUNRISE","sunrise","SUNRISE",2296
+"1169-EARTHQUAKE","earthquake","EARTHQUAKE",6
+"1170-EARTH (SOIL)","earth (ground)","EARTH (SOIL)",1228
+"1171-SAND","sand","SAND",671
+"1172-PRICE","price","PRICE",657
+"1173-EXPENSIVE","expensive","EXPENSIVE",1426
+"1174-EXCHANGE","to exchange","EXCHANGE",2509
+"1175-BROAD","broad","BROAD",2531
+"1176-GOOD","good","GOOD",1035
+"1177-FULL","full","FULL",1429
+"1178-LOOSE","loose","LOOSE",2506
+"1179-THINK","to think","THINK",2271
+"1180-WORK (ACTIVITY)","to work","WORK (ACTIVITY)",1086
+"1181-FIRST","first (in space)","FIRST",728
+"1182-HOW MANY","how much, how many","HOW MANY",822
+"1183-INSTANTLY (IMMEDIATELY)","a moment","INSTANTLY (IMMEDIATELY)",2916
+"1184-DAY AFTER TOMORROW","the day after tomorrow","DAY AFTER TOMORROW",1179
+"1185-LEFT","left","LEFT",244
+"1186-RIGHT","right","RIGHT",1019
