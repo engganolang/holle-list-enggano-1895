@@ -201,7 +201,7 @@ mediaTable <- img_files_tb |>
 
 
 tb <- tb |> 
-  left_join(select(img_files_tb, -img, -ID), by = join_by(notes_id, notes_eno)) |> 
+  left_join(mutate(select(img_files_tb, -img, -ID), notes_eno = stringi::stri_trans_nfd(notes_eno)), by = join_by(notes_id, notes_eno)) |> 
   mutate(Media_ID = replace_na(Media_ID, "")) #|> 
   #mutate(img = str_c("[", img, "](https://github.com/engganolang/holle-list-enggano-1895/blob/main/", img, ")", sep = ""),
   #       img = replace_na(img, ""))
