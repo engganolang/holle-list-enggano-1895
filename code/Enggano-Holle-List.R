@@ -1,7 +1,7 @@
 # This is the code to process the Enggano word list into a tibble/data frame and tab-separated file
 # There will be a different code to match the ID of this Enggano word list with the main Holle List
 library(tidyverse)
-library(writexl)
+# library(writexl)
 
 # Load the data -----
 eno <- scan("data-raw/Enggano-Holle-List.txt",
@@ -78,7 +78,13 @@ eno_appB_df <- tibble(form = eno_appB) |>
                   remove = TRUE) |> 
   mutate(form_type = "appB")
 ### Wordlist, App A, and App B combined -----
-eno_form_df <- bind_rows(eno_wlist_df, eno_appA_df, eno_appB_df)
+eno_form_df <- bind_rows(eno_wlist_df, eno_appA_df, eno_appB_df) |> 
+  
+  ## spliting multiple forms in a cell
+  mutate(form = ifelse(str_detect(form, "\\,"), 
+                       str_split(form, "\\s?\\,\\s"), 
+                       form)) |> 
+  unnest_longer(form)
 
 #### annotate IDs marked with "-" and "/" -----
 eno_form_df <- eno_form_df |> 
@@ -127,7 +133,11 @@ x3_df <- x2_df |>
          keep_empty = TRUE) |> 
   select(-notes_eno_n,
          -notes_idn_n,
-         -notes_eng_n)
+         -notes_eng_n) |> 
+  mutate(notes_eno = ifelse(str_detect(notes_eno, ","), 
+                            str_split(notes_eno, "\\s?\\,\\s"), 
+                            notes_eno)) |> 
+  unnest_longer(notes_eno)
 
 # Left join the notes and the forms data -----
 eno_form_df <- eno_form_df |> 
@@ -143,6 +153,8 @@ eno_form_df_trim <- eno_form_df |>
 
 # replace the note-ID only in the form column with the values from the notes_eno
 eno_form_df_trim <- eno_form_df_trim |> 
+  select(-notes_clean) |>  # remove the cleaned notes column
+  distinct() |> 
   mutate(form = if_else(str_detect(form, "^<"), 
                         notes_eno, 
                         form))
