@@ -103,7 +103,7 @@
             "datatype": "string"
           },
           {
-            "name": "Segments_Commons",
+            "name": "Value",
             "datatype": "string"
           },
           {

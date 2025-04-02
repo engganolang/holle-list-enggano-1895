@@ -370,14 +370,15 @@ tb <- tb |>
 
 
 cldf_form <- tb |> 
-  rename(Form = form,
+  rename(Value = form,
          Holle_ID = id) |> 
   mutate(ID = 1:nrow(tb),
          Language_ID = "eno1895",
          Source = "stokhof1987") |> 
-  select(ID, Holle_ID, Language_ID, Parameter_ID, Form, Segments, 
-         Segments_Commons, Graphemes, English, Indonesian, 
-         Comment = notes_comment_new, Source, Media_ID)
+  select(ID, Holle_ID, Language_ID, Parameter_ID, Value, Graphemes, 
+         Form = Segments_Commons, Segments, English, Indonesian, 
+         Comment = notes_comment_new, Source, Media_ID) |> 
+  mutate(Form = str_replace_all(Form, "\\s", ""))
 write_excel_csv(cldf_form, "cldf/forms.csv")
 
 # CLDF - save the parameters.csv (Concepticon table) ====
