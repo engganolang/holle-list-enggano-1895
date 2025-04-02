@@ -2,6 +2,7 @@
 library(tidyverse)
 library(readxl)
 library(qlcData)
+library(stringi)
 
 # read the NBL table from GitHub =====
 holle_tb <- read_tsv("https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/data/digitised-holle-list-in-stokhof-1980.tsv")
@@ -32,7 +33,7 @@ concepticon_checked <- concepticon |>
 ortho_skeleton <- read_tsv("https://raw.githubusercontent.com/engganolang/enolex/refs/heads/main/ortho/_11-stockhof1987_ipa_profile.tsv") |> 
   mutate(Class = as.character(Class)) |> 
   mutate(Class = replace_na(Class, "")) |> 
-  mutate(across(matches("^Left|^Right"), ~replace_na(""))) |> 
+  mutate(across(matches("^Left|^Right"), ~replace_na(., ""))) |> 
   # mutate(across(where(is.character), ~replace_na(., ""))) |> 
   add_row(tibble(Left = "", Grapheme = "q", Right = "$", Class = "", 
                  Replacement = "'", Phoneme = "ʔ")) |> 
