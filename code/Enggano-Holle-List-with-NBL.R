@@ -31,16 +31,42 @@ concepticon_checked <- concepticon |>
 
 # read orthography profile =====
 ortho_skeleton <- read_tsv("https://raw.githubusercontent.com/engganolang/enolex/refs/heads/main/ortho/_11-stockhof1987_ipa_profile.tsv") |> 
+  select(-Frequency) |> 
   mutate(Class = as.character(Class)) |> 
   mutate(Class = replace_na(Class, "")) |> 
   mutate(across(matches("^Left|^Right"), ~replace_na(., ""))) |> 
   # mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  # editing for the orthography profiles
   add_row(tibble(Left = "", Grapheme = "q", Right = "$", Class = "", 
                  Replacement = "'", Phoneme = "ʔ")) |> 
   add_row(tibble(Left = "", Grapheme = "'", Right = "", Class = "", 
                  Replacement = "'", Phoneme = "ʔ")) |> 
   add_row(tibble(Left = "", Grapheme = " ", Right = "", Class = "", 
-                 Replacement = " ", Phoneme = " "))
+                 Replacement = " ", Phoneme = " ")) |> 
+  mutate(Replacement = if_else(str_detect(Grapheme, stri_trans_nfc("ī")),
+                               "i i",
+                               Replacement),
+         Phoneme = if_else(str_detect(Grapheme, stri_trans_nfc("ī")),
+                           "iː",
+                           Phoneme)) |> 
+  add_row(tibble_row(Left = "", Grapheme = "īī", Right = "",
+                     Class = "", Replacement = "i i",
+                     Phoneme = "iː"), 
+          .before = 1) |> 
+  mutate(Phoneme = if_else(str_detect(Phoneme, stri_trans_nfc("å")),
+                           "ɒ",
+                           Phoneme)) |> 
+  add_row(tibble_row(Left = "", Grapheme = "å", Right = "$",
+                     Class = "", Replacement = "a", Phoneme = "ɯ"),
+          .before = 37) |>  # in Stokhof (1980: 76, §6.2 for the discussion of "å")
+  add_row(tibble_row(Left = "", Grapheme = "ng", Right = "",
+                     Class = "", Replacement = "n g", Phoneme = "ŋ"),
+          .before = 7) |>  # in Stokhof (1980: 77, §6.2 for the discussion of "ng")
+  as.data.frame() |> 
+  add_row(tibble_row(Left = "", Grapheme = "iēē", Right = "",
+                     Class = "", Replacement = "i e e", Phoneme = "i eː"),
+          .before = 1)
+write_tsv(ortho_skeleton, "data-raw/ortho_skeleton_from_enolex.tsv")
 
 # run the pre-processing codes to tibble the Enggano word list ====
 source("code/Enggano-Holle-List.R")
@@ -62,8 +88,29 @@ tb <- tb |>
                                  str_extract(form, "(?<=\\>)([^<]+)(?=\\<\\/unclear\\>)"),
                                  notes_comment),
          form = str_replace_all(form, "\\(?\\<unclear.*?\\>", "("),
-         form = str_replace_all(form, "\\<\\/unclear\\>\\)?", ")"))
-
+         form = str_replace_all(form, "\\<\\/unclear\\>\\)?", ")")) |> 
+  # transfer notes in brackets in forms into notes eno, notes idn, and notes comment ====
+  mutate(notes_idn = if_else(str_detect(form, "\\([^)]{2,}\\)") & str_detect(form, "\\(boeroek|elog|boelan gelap|lama|awan\\sawan|èkor\\)$"),
+                             str_extract(form, "(boeroek|elog|boelan gelap|lama|awan\\sawan|èkor)"),
+                             notes_idn),
+         form = if_else(str_detect(form, "\\([^)]{2,}\\)") & str_detect(form, "\\(boeroek|elog|boelan gelap|lama|awan\\sawan|èkor\\)$"),
+                        str_replace_all(form, "\\s\\((boeroek|elog|boelan gelap|lama|awan\\sawan|èkor)\\)", ""),
+                        form)) |> 
+  mutate(notes_eno = if_else(str_detect(form, "\\([^)]{2,}\\)") & notes_comment == "",
+                             str_extract(form, "(?<=\\()[^)]+?(?=\\))"),
+                             notes_eno),
+         form = if_else(str_detect(form, "\\([^)]{2,}\\)") & notes_comment == "",
+                        str_replace_all(form, "\\s\\(.+$", ""),
+                        form)) |> 
+  mutate(notes_eno = if_else(str_detect(form, "\\([^)]{2,}\\)") & notes_comment != "",
+                             notes_comment,
+                             notes_eno),
+         notes_comment = if_else(str_detect(form, "\\([^)]{2,}\\)") & notes_comment != "",
+                                 "",
+                                 notes_comment),
+         form = if_else(str_detect(form, "\\([^)]{2,}\\)"),
+                        str_replace_all(form, "\\s\\(.+$", ""),
+                        form))
 # remove the notes id and tag (i.e., <1>, etc.) from the form =====
 tb <- tb |> 
   mutate(form = str_replace_all(form, "\\s+<\\d+\\>", "")) |> 
@@ -103,7 +150,7 @@ tb <- tb |>
 
 # combine the note items into the comment columns =====
 tb <- tb |>
-  mutate(notes_comment = if_else(!nzchar(notes_comment) & nzchar(notes_id),
+  mutate(notes_comment = if_else(!nzchar(notes_comment) & nzchar(notes_id) & notes_id != "83",
                                  paste(notes_eno, 
                                        " (EN: ", 
                                        notes_eng, 
@@ -121,7 +168,10 @@ tb <- tb |>
                                          "(EN\\:)\\s(?=[;])",
                                          "\\1- "),
          notes_comment = str_trim(notes_comment,
-                                  "left"))
+                                  "left"),
+         notes_comment = replace(notes_comment,
+                                 notes_eng == "" & notes_idn == "" & notes_id != "" & notes_id != "83",
+                                 ""))
 ## checking
 tb |> 
   filter(nzchar(notes_id)) |> 
@@ -144,6 +194,7 @@ tb <- tb |>
 #   write_csv(file = "data-raw/NA-concepticon-gloss.csv")
 
 # CLDF - prepare CLDF FormTable =====
+## orthography conversion for Phonemes =====
 forms_orthography_phoneme <- qlcData::tokenize(tb$form, 
                                        profile = ortho_skeleton, 
                                        transliterate = "Phoneme", 
@@ -157,6 +208,7 @@ forms_orthography_phoneme <- qlcData::tokenize(tb$form,
          Graphemes = tokenized,
          Segments = transliterated)
 
+## orthography conversion for Common Orthography =====
 forms_orthography_common <- qlcData::tokenize(tb$form, 
                                                profile = ortho_skeleton, 
                                                transliterate = "Replacement", 
@@ -174,9 +226,118 @@ forms_orthography_combined <- forms_orthography_phoneme |>
   bind_cols(forms_orthography_common |> 
               select(Segments_Commons))
 
+### Join orthography conversion of Form into the main table =====
+
 tb <- tb |> 
   bind_cols(forms_orthography_combined |> 
               select(-form))
+
+## orthography conversion for Enggano forms in notes (into Phoneme) =====
+eno_forms_in_notes_different_from_forms <- tb |> 
+  filter(notes_eno != "", form != notes_eno) |> 
+  pull(notes_eno) |> 
+  unique()
+
+forms_in_notes_orthography_phoneme <- qlcData::tokenize(eno_forms_in_notes_different_from_forms, 
+                                                        profile = ortho_skeleton, 
+                                                        transliterate = "Phoneme", 
+                                                        method = "global", 
+                                                        ordering = NULL, 
+                                                        normalize = "NFC", 
+                                                        regex = TRUE, 
+                                                        sep.replace = "+")$string |> 
+  as_tibble() |> 
+  rename(notes_eno = originals,
+         notes_Graphemes = tokenized,
+         notes_Segments = transliterated)
+
+
+## orthography conversion for Enggano forms in notes (into Common Orthography) =====
+forms_in_notes_orthography_common <- qlcData::tokenize(eno_forms_in_notes_different_from_forms, 
+                                                       profile = ortho_skeleton, 
+                                                       transliterate = "Replacement", 
+                                                       method = "global", 
+                                                       ordering = NULL, 
+                                                       normalize = "NFC", 
+                                                       regex = TRUE, 
+                                                       sep.replace = "+")$string |> 
+  as_tibble() |> 
+  rename(notes_eno = originals,
+         notes_Graphemes = tokenized,
+         notes_Segments_Commons = transliterated)
+
+forms_in_notes_orthography_combined <- forms_in_notes_orthography_phoneme |> 
+  bind_cols(forms_in_notes_orthography_common |> 
+              select(notes_Segments_Commons))
+
+### Join orthography conversion of Form-in-Notes into the main table =====
+
+tb <- tb |> 
+  left_join(forms_in_notes_orthography_combined,
+            by = join_by(notes_eno)) |> 
+  mutate(notes_Segments_joined = str_replace_all(notes_Segments, "\\s", "")) |> 
+  # create a new notes_eno to create a new notes_comment
+  mutate(notes_eno_new = notes_eno,
+         notes_eno_new = if_else(!is.na(notes_Graphemes),
+                                 str_c(notes_eno, " [", notes_Segments, "]", sep = ""),
+                                 notes_eno_new)) |> 
+  mutate(notes_comment_new = "",
+         notes_comment_new = if_else(nzchar(notes_id) & notes_id != "83",
+                                     paste(notes_eno_new, 
+                                           " (EN: ", 
+                                           notes_eng, 
+                                           "; ID: ", 
+                                           notes_idn, 
+                                           ") <", 
+                                           notes_id, 
+                                           ">", 
+                                           sep = ""),
+                                     notes_comment),
+         notes_comment_new = str_replace_all(notes_comment_new,
+                                             "(ID\\:)\\s(?=[)])",
+                                             "\\1- "),
+         notes_comment_new = str_replace_all(notes_comment_new,
+                                             "(EN\\:)\\s(?=[;])",
+                                             "\\1- "),
+         notes_comment_new = str_trim(notes_comment_new,
+                                      "left"),
+         notes_comment_new = if_else(notes_eno == form & notes_eng == "" & notes_idn == "",
+                                     str_replace_all(notes_comment_new,
+                                                     "^[^<]+?(?=\\<)", ""),
+                                     notes_comment_new),
+         notes_comment_new = if_else(notes_eno == form & notes_eng == "" & notes_idn != "" | notes_eno == form & notes_idn == "" & notes_eng != "",
+                                     str_replace_all(notes_comment_new,
+                                                     "^.+?(?=\\(EN)", ""),
+                                     notes_comment_new),
+         # notes_comment_new = replace(notes_comment_new,
+         #                             notes_eng == "" & notes_idn == "" & notes_id != "" & notes_id != "83",
+         #                             ""),
+         notes_comment_new = if_else(notes_eno != "" & notes_id == "",
+                                     paste(notes_eno_new, 
+                                           " (EN: ", 
+                                           notes_eng, 
+                                           "; ID: ", 
+                                           notes_idn, 
+                                           ")", 
+                                           sep = ""),
+                                     notes_comment_new),
+         notes_comment_new = if_else(notes_idn != "" & notes_id == "",
+                                     paste(notes_eno_new, 
+                                           " (EN: ", 
+                                           notes_eng, 
+                                           "; ID: ", 
+                                           notes_idn, 
+                                           ")", 
+                                           sep = ""),
+                                     notes_comment_new),
+         notes_comment_new = str_replace_all(notes_comment_new,
+                                             "(ID\\:)\\s(?=[)])",
+                                             "\\1- "),
+         notes_comment_new = str_replace_all(notes_comment_new,
+                                             "(EN\\:)\\s(?=[;])",
+                                             "\\1- "),
+         notes_comment_new = str_trim(notes_comment_new,
+                                      "left"))
 
 # image files ======
 img_files <- dir("img", full.names = TRUE)
@@ -216,7 +377,7 @@ cldf_form <- tb |>
          Source = "stokhof1987") |> 
   select(ID, Holle_ID, Language_ID, Parameter_ID, Form, Segments, 
          Segments_Commons, Graphemes, English, Indonesian, 
-         Comment = notes_comment, Source, Media_ID)
+         Comment = notes_comment_new, Source, Media_ID)
 write_excel_csv(cldf_form, "cldf/forms.csv")
 
 # CLDF - save the parameters.csv (Concepticon table) ====
