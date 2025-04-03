@@ -32,6 +32,7 @@ concepticon_checked <- concepticon |>
 # read orthography profile =====
 ortho_skeleton <- read_tsv("https://raw.githubusercontent.com/engganolang/enolex/refs/heads/main/ortho/_11-stockhof1987_ipa_profile.tsv") |> 
   select(-Frequency) |> 
+  as.data.frame() |> 
   mutate(Class = as.character(Class)) |> 
   mutate(Class = replace_na(Class, "")) |> 
   mutate(across(matches("^Left|^Right"), ~replace_na(., ""))) |> 
@@ -62,10 +63,33 @@ ortho_skeleton <- read_tsv("https://raw.githubusercontent.com/engganolang/enolex
   add_row(tibble_row(Left = "", Grapheme = "ng", Right = "",
                      Class = "", Replacement = "n g", Phoneme = "ŋ"),
           .before = 7) |>  # in Stokhof (1980: 77, §6.2 for the discussion of "ng")
-  as.data.frame() |> 
   add_row(tibble_row(Left = "", Grapheme = "iēē", Right = "",
                      Class = "", Replacement = "i e e", Phoneme = "i eː"),
-          .before = 1)
+          .before = 1) |>
+  add_row(tibble_row(Left = "", Grapheme = "ff", Right = "",
+                     Class = "", Replacement = "f f", Phoneme = "fː"),
+          .after = 1) |>
+  add_row(tibble_row(Left = "", Grapheme = "nn", Right = "",
+                     Class = "", Replacement = "n n", Phoneme = "nː"),
+          .after = 1) |>
+  add_row(tibble_row(Left = "", Grapheme = "pp", Right = "",
+                     Class = "", Replacement = "p p", Phoneme = "pː"),
+          .after = 1) |>
+  add_row(tibble_row(Left = "", Grapheme = "aaa", Right = "",
+                     Class = "", Replacement = "a a a", Phoneme = "aː"),
+          .after = 1) |>
+  add_row(tibble_row(Left = "", Grapheme = "èè", Right = "",
+                     Class = "", Replacement = "è è", Phoneme = "ɛː"),
+          .after = 2) |>
+  add_row(tibble_row(Left = "", Grapheme = "ĕĕ", Right = "",
+                     Class = "", Replacement = "ė ė", Phoneme = "əː"),
+          .after = 2) |>
+  add_row(tibble_row(Left = "", Grapheme = "aa", Right = "",
+                     Class = "", Replacement = "a a", Phoneme = "aː"),
+          .after = 27) |>
+  add_row(tibble_row(Left = "", Grapheme = "ii", Right = "",
+                     Class = "", Replacement = "i i", Phoneme = "iː"),
+          .after = 8)
 write_tsv(ortho_skeleton, "data-raw/ortho_skeleton_from_enolex.tsv")
 
 # run the pre-processing codes to tibble the Enggano word list ====
@@ -202,7 +226,8 @@ forms_orthography_phoneme <- qlcData::tokenize(tb$form,
                                        ordering = NULL, 
                                        normalize = "NFC", 
                                        regex = TRUE, 
-                                       sep.replace = "+")$string |> 
+                                       sep.replace = "+",
+                                       file.out = "data-raw/ortho-01-ipa-for-form")$string |> 
   as_tibble() |> 
   rename(form = originals,
          Graphemes = tokenized,
@@ -210,13 +235,14 @@ forms_orthography_phoneme <- qlcData::tokenize(tb$form,
 
 ## orthography conversion for Common Orthography =====
 forms_orthography_common <- qlcData::tokenize(tb$form, 
-                                               profile = ortho_skeleton, 
-                                               transliterate = "Replacement", 
-                                               method = "global", 
-                                               ordering = NULL, 
-                                               normalize = "NFC", 
-                                               regex = TRUE, 
-                                               sep.replace = "+")$string |> 
+                                              profile = ortho_skeleton, 
+                                              transliterate = "Replacement", 
+                                              method = "global", 
+                                              ordering = NULL, 
+                                              normalize = "NFC", 
+                                              regex = TRUE, 
+                                              sep.replace = "+",
+                                              file.out = "data-raw/ortho-02-common-for-form")$string |> 
   as_tibble() |> 
   rename(form = originals,
          Graphemes = tokenized,
@@ -245,7 +271,8 @@ forms_in_notes_orthography_phoneme <- qlcData::tokenize(eno_forms_in_notes_diffe
                                                         ordering = NULL, 
                                                         normalize = "NFC", 
                                                         regex = TRUE, 
-                                                        sep.replace = "+")$string |> 
+                                                        sep.replace = "+",
+                                                        file.out = "data-raw/ortho-03-ipa-for-notes")$string |> 
   as_tibble() |> 
   rename(notes_eno = originals,
          notes_Graphemes = tokenized,
@@ -260,7 +287,8 @@ forms_in_notes_orthography_common <- qlcData::tokenize(eno_forms_in_notes_differ
                                                        ordering = NULL, 
                                                        normalize = "NFC", 
                                                        regex = TRUE, 
-                                                       sep.replace = "+")$string |> 
+                                                       sep.replace = "+",
+                                                       file.out = "data-raw/ortho-04-common-for-notes")$string |> 
   as_tibble() |> 
   rename(notes_eno = originals,
          notes_Graphemes = tokenized,
