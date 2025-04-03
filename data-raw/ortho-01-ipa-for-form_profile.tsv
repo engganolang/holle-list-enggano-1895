@@ -1,0 +1,83 @@
+Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency
+	iēē			i e e	i eː	0
+	aaa			a a a	aː	1
+	ĕĕ			ė ė	əː	5
+	èè			è è	ɛː	16
+	pp			p p	pː	2
+	nn			n n	nː	1
+	ff			f f	fː	2
+	īī			i i	iː	1
+	ii			i i	iː	3
+	ŏŏ			O O	ɔː	17
+	oe			u	u	520
+	oé			u	u	0
+	ie			i	i	145
+	ié			i	i	0
+	ng			n g	ŋ	15
+	nj			ñ	ɲ	4
+	sj			š	ʃ	0
+	tj			c	t͡ʃ	2
+	dj			j	d͡ʒ	45
+	āā			a a	aː	14
+	aā			a a	aː	1
+	āa			a a	aː	1
+	aä			a ' a	a ʔ a	2
+(ie)	h			x	ç	5
+(ai)	h			x	ç	0
+(?<!a)i	h			x	ç	32
+	ā	[^āa]		a a	aː	139
+[^āa]	ā			a a	aː	0
+	aa			a a	aː	14
+	\-			-	-	13
+	\(k\)			'	ʔ	192
+	NA			NA	NA	0
+	\(			(	(	2
+	\)			)	)	2
+	\*			*	*	0
+	\.			.	.	0
+	\͜			:	:	0
+	;			;	;	0
+	\?			?	?	0
+	\[			[	[	0
+	\]			]	]	0
+	a			a	a	1205
+	à			a	a	17
+	ä			ä	ʔ a	0
+	ǎ			ă	ᾰ	0
+	ă			ă	ᾰ	37
+	å	$		a	ɯ	9
+	å			å	ɒ	0
+	a͜			a͜	NA	0
+	b			b	b	207
+	c			k	k	1
+	d			d	d	165
+	e			e	e	64
+	é			E	ɛ	1
+	è			E	ɛ	586
+	ê			ė	ə	0
+	ĕ			ė	ə	230
+	ē			e e	eː	5
+	f			f	f	195
+	g			g	g	3
+	h			h	h	375
+	i			i	i	412
+	ī			i i	iː	53
+	j			y	j	118
+	k			k	k	869
+	l			l	l	113
+	m			m	m	153
+	n			n	n	274
+	o			O	ɔ	259
+	ò			O	ɔ	3
+	ô			O	ɔ	0
+	ŏ			O	ɔ	371
+	ō			o o	oː	30
+	p			p	p	220
+	r			r	r	161
+	s			s	s	6
+	t			t	t	36
+	u			u	u	21
+	w			w	w	103
+	q	$		'	ʔ	2
+	'			'	ʔ	0
+	 			 	 	180
